@@ -8,6 +8,7 @@ let workFilter='all',workView='grid',workLimit=6;
 const artTemplates={};document.querySelectorAll('.project').forEach(p=>{const art=p.querySelector('.project-art');artTemplates[['automotive','ai','campaign'].find(name=>art.classList.contains(name))]=art.outerHTML});
 artTemplates.hilibox=`<div class="project-art hilibox-art"><div class="art-top"><span>HILIBOX / DAILY SPIN</span><span>01 ↗</span></div><div class="hilibox-cover-title">A DAILY<br>REASON<br>TO RETURN.</div><img src="projects/hilibox-daily-spin/designs/01-Home-Top@3x.webp?v=cover-update-20261024" alt="Daily Spin home design preview" loading="lazy"><div class="art-bottom"><span>EN / AR / ZH · RTL</span><span>FRONTEND DEMO</span></div></div>`;
 artTemplates.lingerie=`<div class="project-art neverin-cover"><img src="projects/sense-of-freedom/neverin-cover-v1.webp" alt="Neverin — The Freedom to Breathe" loading="lazy"></div>`;
+artTemplates.juyuanshu=`<div class="project-art juyuanshu-cover"><img src="projects/juyuanshu-milk-container/visuals/01.webp" alt="Juyuanshu milk powder container visual design" loading="lazy"></div>`;
 const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function resourceURL(value){try{const u=new URL(value,location.href);return ['http:','https:'].includes(u.protocol)?u.href:null}catch{return null}}
 function visibleCases(){return window.workCatalog.filter(c=>workFilter==='all'||caseCategory(c)===workFilter).sort((a,b)=>Number(b.id==='sense-of-freedom')-Number(a.id==='sense-of-freedom'))}

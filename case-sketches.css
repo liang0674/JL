@@ -64,3 +64,8 @@
 
 /* Add breathing room after the concept sketch section. */
 #sketches{margin-bottom:80px!important}
+
+body[data-project="juyuanshu-milk-container"] #sketches .sketch-editorial{grid-template-columns:repeat(3,minmax(0,1fr))}
+body[data-project="juyuanshu-milk-container"] #sketches .sketch-item:nth-child(n){width:100%;margin:0}
+body[data-project="juyuanshu-milk-container"] #sketches .sketch-image img{aspect-ratio:auto;height:auto}
+@media(max-width:760px){body[data-project="juyuanshu-milk-container"] #sketches .sketch-editorial{grid-template-columns:repeat(2,minmax(0,1fr))}}

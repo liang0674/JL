@@ -1855,5 +1855,388 @@ window.workCatalog=[
       "packaging",
       "outcome"
     ]
+  },
+  {
+    "id": "juyuanshu-milk-container",
+    "category": "visual",
+    "formats": [
+      "visual"
+    ],
+    "art": "juyuanshu",
+    "title": {
+      "zh": "居元素｜奶粉储存罐商业摄影与视觉设计",
+      "en": "Juyuanshu | Milk Powder Container Photography & Visual Design"
+    },
+    "domain": {
+      "zh": "母婴用品 / 商业摄影与平面视觉",
+      "en": "Baby-care Products / Photography & Visual Design"
+    },
+    "summary": {
+      "zh": "以“安心守护”为创意主线，将奶粉储存罐的密封、防漏与便携特点转化为可感知的使用场景。作为项目负责人，我主导平面视觉策划、商业摄影落地与最终视觉输出，连接前期方案和成品交付。",
+      "en": "Built around “Care & Trust,” this project translates sealing, spill prevention and portability into relatable product stories. As project lead, I directed visual planning, commercial photography execution and final graphic design, connecting concepts with finished deliverables."
+    },
+    "focus": {
+      "zh": "项目负责人 · 视觉策划 · 商业摄影落地 · 平面视觉输出",
+      "en": "Project Lead · Visual Planning · Photography Execution · Graphic Design"
+    },
+    "sections": {
+      "zh": [
+        [
+          "让功能被看见，让场景建立理解",
+          "项目围绕居元素奶粉储存罐展开，以“安心守护”为核心表达，将密封结构、开启方式与日常携带等产品信息，转化为场景摄影、结构展示和图文内容。视觉重点同时覆盖照护者的安心感受与选购时对实用性的判断。"
+        ],
+        [
+          "从手稿到商业画面的完整推进",
+          "我作为项目案例负责人，主导平面视觉策划、商业摄影落地与最终视觉输出。通过前期手稿明确构图和产品动作，再将拍摄素材、功能信息与版式表达整合为统一的成品视觉。"
+        ]
+      ],
+      "en": [
+        [
+          "Make function visible and context understandable",
+          "The project centres on a Juyuanshu milk powder storage container. “Care & Trust” connects product information about sealing, opening and carrying with lifestyle photography, structural views and graphic communication, addressing both emotional reassurance and practical selection."
+        ],
+        [
+          "From concept sketches to commercial imagery",
+          "As project lead, I owned visual planning, photography execution and final graphic design. Concept sketches established compositions and product actions; photography, feature information and layout were then brought together into a consistent visual presentation."
+        ]
+      ]
+    },
+    "content": {
+      "background": {
+        "zh": "奶粉储存罐既是日常照护用品，也是家庭外出时的随身物件。消费者需要理解它如何密封、如何开启、如何携带，以及内部结构怎样配合使用。本次商业视觉以这些具体任务为出发点，通过居家与出行场景建立亲近感，并用产品特写、结构拆解和动作画面辅助理解，为电商商品展示及品牌传播提供视觉内容。",
+        "en": "A milk powder storage container serves everyday care and travel. Shoppers need to understand how it seals, opens and travels, and how its components work together. The visual approach starts with these tasks: familiar home and outdoor contexts create relevance, while close-ups, component views and action shots explain the product for e-commerce presentation and brand communication."
+      },
+      "goals": {
+        "zh": [
+          {
+            "title": "建立安心、亲近的产品印象",
+            "text": "围绕“安心守护”，用柔和光线与日常照护场景传递产品的使用氛围。"
+          },
+          {
+            "title": "让产品特点更易理解",
+            "text": "将密封、防漏、开启与便携等表达重点转化为具体镜头，减少仅靠文字说明的理解负担。"
+          },
+          {
+            "title": "形成连续的视觉叙事",
+            "text": "连接情境主图、功能演示、结构拆解与细节特写，帮助读者逐步认识产品。"
+          },
+          {
+            "title": "支持多触点内容使用",
+            "text": "通过一致的光影、色彩与版式组织，为商品展示和传播物料提供可延展的视觉基础。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Create an approachable product impression",
+            "text": "Use soft light and everyday care contexts to express the “Care & Trust” direction."
+          },
+          {
+            "title": "Make product features understandable",
+            "text": "Translate sealing, spill prevention, opening and portability into concrete visual situations."
+          },
+          {
+            "title": "Build a connected visual narrative",
+            "text": "Connect lifestyle hero images, feature demonstrations, component views and close-ups."
+          },
+          {
+            "title": "Support multiple content touchpoints",
+            "text": "Maintain consistent lighting, colour and layout for product presentation and communication assets."
+          }
+        ]
+      },
+      "strategy": {
+        "zh": [
+          {
+            "title": "从抽象理念转向具体场景",
+            "text": "将“安心守护”落在照护者与儿童的日常使用情境中，通过人物、环境和产品的关系，让品牌表达有可感知的载体。"
+          },
+          {
+            "title": "用动作与结构解释功能",
+            "text": "通过倾转、开启、取用和组件拆解等画面表达使用方式；将功能主张与对应的可见细节放在一起。"
+          },
+          {
+            "title": "保持场景与细节之间的节奏",
+            "text": "先以完整情境建立印象，再进入结构、材质与操作细节，形成从感受到理解的阅读顺序。"
+          },
+          {
+            "title": "以前期手稿衔接摄影与设计",
+            "text": "在拍摄前用手稿明确主体位置、透视关系和画面重心，使摄影素材能够承接后续图文排版。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Turn the concept into relatable scenes",
+            "text": "Ground “Care & Trust” in everyday situations involving caregivers, children and the product."
+          },
+          {
+            "title": "Explain function through actions and structure",
+            "text": "Use tilting, opening, access and component views to connect feature statements with visible details."
+          },
+          {
+            "title": "Balance atmosphere and detail",
+            "text": "Establish the context first, then move into components, material details and operation."
+          },
+          {
+            "title": "Connect photography and design through sketches",
+            "text": "Plan subject placement, perspective and focal points before photography so assets support the intended layouts."
+          }
+        ]
+      },
+      "role": {
+        "zh": [
+          {
+            "title": "平面视觉策划",
+            "text": "梳理产品表达重点，确定画面主题、风格方向与信息呈现逻辑，并通过手稿推进创意。"
+          },
+          {
+            "title": "商业摄影落地",
+            "text": "将视觉方案转化为拍摄要求，围绕构图、光影、场景与产品动作推进摄影执行，把控素材与创意方向的一致性。"
+          },
+          {
+            "title": "平面视觉输出",
+            "text": "整合实拍素材与产品信息，通过色彩、版式与细节处理完成最终商业视觉。"
+          },
+          {
+            "title": "项目案例负责",
+            "text": "贯穿策划、拍摄与设计交付各阶段，统筹视觉方向、执行衔接与成果质量。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Visual planning",
+            "text": "Define product communication priorities, themes, art direction and information structure through concept sketches."
+          },
+          {
+            "title": "Commercial photography execution",
+            "text": "Translate the concepts into requirements for composition, lighting, settings and product actions, keeping photography aligned with the creative direction."
+          },
+          {
+            "title": "Graphic design delivery",
+            "text": "Combine photographic assets and product information through colour, typography, layout and detailed finishing."
+          },
+          {
+            "title": "Project ownership",
+            "text": "Oversee visual direction, execution handoffs and delivery quality across planning, photography and design."
+          }
+        ]
+      },
+      "sketches": {
+        "zh": "本批收录 6 张前期手稿，展示产品动作、组件关系与场景构图的推演。按原始文件编号排序，点击可在当前页面放大查看。",
+        "en": "Six concept sketches explore product actions, components and scene compositions. They follow the original file numbering and can be enlarged on this page."
+      },
+      "visuals": {
+        "zh": "从品牌与设计思路，到场景主图、功能表达、结构拆解与产品细节，收录本批 11 张完整视觉成品。图片按提供素材的编号顺序连续展示，点击可放大查看。",
+        "en": "Eleven finished boards connect the design direction with lifestyle imagery, feature communication, component views and product details. They follow the supplied numbering and can be enlarged on this page."
+      },
+      "outcome": {
+        "zh": [
+          {
+            "title": "形成从创意到输出的完整交付链路",
+            "text": "通过方案手稿、商业摄影与平面视觉成品，呈现前期创意如何推进到可使用的商业内容。"
+          },
+          {
+            "title": "体现跨阶段的视觉把控能力",
+            "text": "我主导策划、摄影落地与最终设计，在各阶段持续对齐产品表达和画面方向，完成案例整体呈现。"
+          },
+          {
+            "title": "成果口径",
+            "text": "当前以方案与视觉交付为案例成果；市场表现与转化效果尚无可披露数据，因此不将设计目标表述为已验证增长。"
+          }
+        ],
+        "en": [
+          {
+            "title": "A complete path from concept to delivery",
+            "text": "The sketches, photography and finished boards demonstrate how the initial creative direction became usable commercial content."
+          },
+          {
+            "title": "Visual ownership across stages",
+            "text": "I led planning, photography execution and final design, maintaining the product story and visual direction throughout."
+          },
+          {
+            "title": "Outcome scope",
+            "text": "The demonstrated outcomes are the concepts and visual deliverables. No market or conversion data has been supplied, so the design objectives are not presented as measured growth."
+          }
+        ]
+      }
+    },
+    "caseSections": [
+      "background",
+      "goals",
+      "strategy",
+      "role",
+      "sketches",
+      "visuals",
+      "outcome"
+    ],
+    "cardSections": [
+      "strategy",
+      "role",
+      "visuals",
+      "outcome"
+    ],
+    "resources": [
+      {
+        "section": "sketches",
+        "type": "sketchbook",
+        "title": {
+          "zh": "视觉方案手稿",
+          "en": "Concept sketches"
+        },
+        "url": "projects/juyuanshu-milk-container/sketches/04.webp",
+        "archiveLabel": "JUYUANSHU / CONCEPT ARCHIVE",
+        "groups": [
+          {
+            "id": "juyuanshu-concepts",
+            "title": {
+              "zh": "构图与产品研究",
+              "en": "Composition & product studies"
+            },
+            "images": [
+              {
+                "url": "projects/juyuanshu-milk-container/sketches/04.webp",
+                "title": {
+                  "zh": "方案手稿 · 04",
+                  "en": "Concept sketch · 04"
+                }
+              },
+              {
+                "url": "projects/juyuanshu-milk-container/sketches/05.webp",
+                "title": {
+                  "zh": "方案手稿 · 05",
+                  "en": "Concept sketch · 05"
+                }
+              },
+              {
+                "url": "projects/juyuanshu-milk-container/sketches/06.webp",
+                "title": {
+                  "zh": "方案手稿 · 06",
+                  "en": "Concept sketch · 06"
+                }
+              },
+              {
+                "url": "projects/juyuanshu-milk-container/sketches/07.webp",
+                "title": {
+                  "zh": "方案手稿 · 07",
+                  "en": "Concept sketch · 07"
+                }
+              },
+              {
+                "url": "projects/juyuanshu-milk-container/sketches/08.webp",
+                "title": {
+                  "zh": "方案手稿 · 08",
+                  "en": "Concept sketch · 08"
+                }
+              },
+              {
+                "url": "projects/juyuanshu-milk-container/sketches/12.webp",
+                "title": {
+                  "zh": "方案手稿 · 12",
+                  "en": "Concept sketch · 12"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section": "visuals",
+        "type": "image",
+        "title": {
+          "zh": "居元素视觉展示 · 01",
+          "en": "Juyuanshu visual presentation · 01"
+        },
+        "url": "projects/juyuanshu-milk-container/visuals/01.webp"
+      },
+      {
+        "section": "visuals",
+        "type": "image",
+        "title": {
+          "zh": "居元素视觉展示 · 02",
+          "en": "Juyuanshu visual presentation · 02"
+        },
+        "url": "projects/juyuanshu-milk-container/visuals/02.webp"
+      },
+      {
+        "section": "visuals",
+        "type": "image",
+        "title": {
+          "zh": "居元素视觉展示 · 03",
+          "en": "Juyuanshu visual presentation · 03"
+        },
+        "url": "projects/juyuanshu-milk-container/visuals/03.webp"
+      },
+      {
+        "section": "visuals",
+        "type": "image",
+        "title": {
+          "zh": "居元素视觉展示 · 05",
+          "en": "Juyuanshu visual presentation · 05"
+        },
+        "url": "projects/juyuanshu-milk-container/visuals/05.webp"
+      },
+      {
+        "section": "visuals",
+        "type": "image",
+        "title": {
+          "zh": "居元素视觉展示 · 06",
+          "en": "Juyuanshu visual presentation · 06"
+        },
+        "url": "projects/juyuanshu-milk-container/visuals/06.webp"
+      },
+      {
+        "section": "visuals",
+        "type": "image",
+        "title": {
+          "zh": "居元素视觉展示 · 07",
+          "en": "Juyuanshu visual presentation · 07"
+        },
+        "url": "projects/juyuanshu-milk-container/visuals/07.webp"
+      },
+      {
+        "section": "visuals",
+        "type": "image",
+        "title": {
+          "zh": "居元素视觉展示 · 08",
+          "en": "Juyuanshu visual presentation · 08"
+        },
+        "url": "projects/juyuanshu-milk-container/visuals/08.webp"
+      },
+      {
+        "section": "visuals",
+        "type": "image",
+        "title": {
+          "zh": "居元素视觉展示 · 09",
+          "en": "Juyuanshu visual presentation · 09"
+        },
+        "url": "projects/juyuanshu-milk-container/visuals/09.webp"
+      },
+      {
+        "section": "visuals",
+        "type": "image",
+        "title": {
+          "zh": "居元素视觉展示 · 10",
+          "en": "Juyuanshu visual presentation · 10"
+        },
+        "url": "projects/juyuanshu-milk-container/visuals/10.webp"
+      },
+      {
+        "section": "visuals",
+        "type": "image",
+        "title": {
+          "zh": "居元素视觉展示 · 11",
+          "en": "Juyuanshu visual presentation · 11"
+        },
+        "url": "projects/juyuanshu-milk-container/visuals/11.webp"
+      },
+      {
+        "section": "visuals",
+        "type": "image",
+        "title": {
+          "zh": "居元素视觉展示 · 12",
+          "en": "Juyuanshu visual presentation · 12"
+        },
+        "url": "projects/juyuanshu-milk-container/visuals/12.webp"
+      }
+    ]
   }
 ];
