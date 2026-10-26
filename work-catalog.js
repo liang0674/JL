@@ -119,7 +119,7 @@ window.workCatalog=[
           "zh": "首页顶部",
           "en": "Home Top"
         },
-        "url": "projects/hilibox-daily-spin/designs/01-Home-Top@3x.jpg"
+        "url": "projects/hilibox-daily-spin/designs/01-Home-Top@3x.webp"
       },
       {
         "section": "uiux",
@@ -128,7 +128,7 @@ window.workCatalog=[
           "zh": "商品与奖励记录",
           "en": "Home Products and Records"
         },
-        "url": "projects/hilibox-daily-spin/designs/02-Home-Products-and-Records@3x.jpg"
+        "url": "projects/hilibox-daily-spin/designs/02-Home-Products-and-Records@3x.webp"
       },
       {
         "section": "uiux",
@@ -137,7 +137,7 @@ window.workCatalog=[
           "zh": "活动规则",
           "en": "Rules"
         },
-        "url": "projects/hilibox-daily-spin/designs/03-Rules@3x.jpg"
+        "url": "projects/hilibox-daily-spin/designs/03-Rules@3x.webp"
       },
       {
         "section": "uiux",
@@ -146,7 +146,7 @@ window.workCatalog=[
           "zh": "实物中奖",
           "en": "Free Gift Winner"
         },
-        "url": "projects/hilibox-daily-spin/designs/04-Free-Gift-Winner@3x.jpg"
+        "url": "projects/hilibox-daily-spin/designs/04-Free-Gift-Winner@3x.webp"
       },
       {
         "section": "uiux",
@@ -155,7 +155,7 @@ window.workCatalog=[
           "zh": "优惠券中奖",
           "en": "Coupon Winner"
         },
-        "url": "projects/hilibox-daily-spin/designs/05-Coupon-Winner@3x.jpg"
+        "url": "projects/hilibox-daily-spin/designs/05-Coupon-Winner@3x.webp"
       },
       {
         "section": "uiux",
@@ -164,7 +164,7 @@ window.workCatalog=[
           "zh": "实物售罄",
           "en": "Gift Sold Out"
         },
-        "url": "projects/hilibox-daily-spin/designs/06-Gift-Sold-Out@3x.jpg"
+        "url": "projects/hilibox-daily-spin/designs/06-Gift-Sold-Out@3x.webp"
       },
       {
         "section": "uiux",
@@ -173,7 +173,7 @@ window.workCatalog=[
           "zh": "活动关闭",
           "en": "Activity Closed"
         },
-        "url": "projects/hilibox-daily-spin/designs/07-Activity-Closed@3x.jpg"
+        "url": "projects/hilibox-daily-spin/designs/07-Activity-Closed@3x.webp"
       },
       {
         "section": "uiux",
@@ -182,7 +182,7 @@ window.workCatalog=[
           "zh": "分享落地页",
           "en": "Shared Landing"
         },
-        "url": "projects/hilibox-daily-spin/designs/08-Shared-Landing@3x.jpg"
+        "url": "projects/hilibox-daily-spin/designs/08-Shared-Landing@3x.webp"
       },
       {
         "section": "uiux",
@@ -191,7 +191,7 @@ window.workCatalog=[
           "zh": "App 下载引导",
           "en": "App Download Guide"
         },
-        "url": "projects/hilibox-daily-spin/designs/09-App-Download-Guide@3x.jpg"
+        "url": "projects/hilibox-daily-spin/designs/09-App-Download-Guide@3x.webp"
       }
     ]
   },
@@ -579,66 +579,66 @@ window.workCatalog=[
           "zh": "绿色短款",
           "en": "Short Green"
         },
-        "url": "projects/sense-of-freedom/campaign/short-green/1.jpg",
+        "url": "projects/sense-of-freedom/campaign/short-green/1.webp",
         "images": [
           {
-            "url": "projects/sense-of-freedom/campaign/short-green/1.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-green/1.webp",
             "title": {
               "zh": "绿色短款 · 传播视觉 1",
               "en": "Short Green · Campaign 1"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-green/2.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-green/2.webp",
             "title": {
               "zh": "绿色短款 · 传播视觉 2",
               "en": "Short Green · Campaign 2"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-green/3.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-green/3.webp",
             "title": {
               "zh": "绿色短款 · 传播视觉 3",
               "en": "Short Green · Campaign 3"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-green/4.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-green/4.webp",
             "title": {
               "zh": "绿色短款 · 传播视觉 4",
               "en": "Short Green · Campaign 4"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-green/5.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-green/5.webp",
             "title": {
               "zh": "绿色短款 · 传播视觉 5",
               "en": "Short Green · Campaign 5"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-green/6.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-green/6.webp",
             "title": {
               "zh": "绿色短款 · 传播视觉 6",
               "en": "Short Green · Campaign 6"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-green/7.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-green/7.webp",
             "title": {
               "zh": "绿色短款 · 传播视觉 7",
               "en": "Short Green · Campaign 7"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-green/8.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-green/8.webp",
             "title": {
               "zh": "绿色短款 · 传播视觉 8",
               "en": "Short Green · Campaign 8"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-green/9.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-green/9.webp",
             "title": {
               "zh": "绿色短款 · 传播视觉 9",
               "en": "Short Green · Campaign 9"
@@ -653,66 +653,66 @@ window.workCatalog=[
           "zh": "黑色短款",
           "en": "Short Black"
         },
-        "url": "projects/sense-of-freedom/campaign/short-black/1.jpg",
+        "url": "projects/sense-of-freedom/campaign/short-black/1.webp",
         "images": [
           {
-            "url": "projects/sense-of-freedom/campaign/short-black/1.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-black/1.webp",
             "title": {
               "zh": "黑色短款 · 传播视觉 1",
               "en": "Short Black · Campaign 1"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-black/2.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-black/2.webp",
             "title": {
               "zh": "黑色短款 · 传播视觉 2",
               "en": "Short Black · Campaign 2"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-black/3.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-black/3.webp",
             "title": {
               "zh": "黑色短款 · 传播视觉 3",
               "en": "Short Black · Campaign 3"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-black/4.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-black/4.webp",
             "title": {
               "zh": "黑色短款 · 传播视觉 4",
               "en": "Short Black · Campaign 4"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-black/5.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-black/5.webp",
             "title": {
               "zh": "黑色短款 · 传播视觉 5",
               "en": "Short Black · Campaign 5"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-black/6.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-black/6.webp",
             "title": {
               "zh": "黑色短款 · 传播视觉 6",
               "en": "Short Black · Campaign 6"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-black/7.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-black/7.webp",
             "title": {
               "zh": "黑色短款 · 传播视觉 7",
               "en": "Short Black · Campaign 7"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-black/8.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-black/8.webp",
             "title": {
               "zh": "黑色短款 · 传播视觉 8",
               "en": "Short Black · Campaign 8"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-black/9.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-black/9.webp",
             "title": {
               "zh": "黑色短款 · 传播视觉 9",
               "en": "Short Black · Campaign 9"
@@ -727,66 +727,66 @@ window.workCatalog=[
           "zh": "粉色短款",
           "en": "Short Pink"
         },
-        "url": "projects/sense-of-freedom/campaign/short-pink/1.jpg",
+        "url": "projects/sense-of-freedom/campaign/short-pink/1.webp",
         "images": [
           {
-            "url": "projects/sense-of-freedom/campaign/short-pink/1.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-pink/1.webp",
             "title": {
               "zh": "粉色短款 · 传播视觉 1",
               "en": "Short Pink · Campaign 1"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-pink/2.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-pink/2.webp",
             "title": {
               "zh": "粉色短款 · 传播视觉 2",
               "en": "Short Pink · Campaign 2"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-pink/3.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-pink/3.webp",
             "title": {
               "zh": "粉色短款 · 传播视觉 3",
               "en": "Short Pink · Campaign 3"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-pink/4.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-pink/4.webp",
             "title": {
               "zh": "粉色短款 · 传播视觉 4",
               "en": "Short Pink · Campaign 4"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-pink/5.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-pink/5.webp",
             "title": {
               "zh": "粉色短款 · 传播视觉 5",
               "en": "Short Pink · Campaign 5"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-pink/6.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-pink/6.webp",
             "title": {
               "zh": "粉色短款 · 传播视觉 6",
               "en": "Short Pink · Campaign 6"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-pink/7.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-pink/7.webp",
             "title": {
               "zh": "粉色短款 · 传播视觉 7",
               "en": "Short Pink · Campaign 7"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-pink/8.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-pink/8.webp",
             "title": {
               "zh": "粉色短款 · 传播视觉 8",
               "en": "Short Pink · Campaign 8"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-pink/9.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-pink/9.webp",
             "title": {
               "zh": "粉色短款 · 传播视觉 9",
               "en": "Short Pink · Campaign 9"
@@ -801,66 +801,66 @@ window.workCatalog=[
           "zh": "米色短款",
           "en": "Short Beige"
         },
-        "url": "projects/sense-of-freedom/campaign/short-beige/1.jpg",
+        "url": "projects/sense-of-freedom/campaign/short-beige/1.webp",
         "images": [
           {
-            "url": "projects/sense-of-freedom/campaign/short-beige/1.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-beige/1.webp",
             "title": {
               "zh": "米色短款 · 传播视觉 1",
               "en": "Short Beige · Campaign 1"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-beige/2.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-beige/2.webp",
             "title": {
               "zh": "米色短款 · 传播视觉 2",
               "en": "Short Beige · Campaign 2"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-beige/3.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-beige/3.webp",
             "title": {
               "zh": "米色短款 · 传播视觉 3",
               "en": "Short Beige · Campaign 3"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-beige/4.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-beige/4.webp",
             "title": {
               "zh": "米色短款 · 传播视觉 4",
               "en": "Short Beige · Campaign 4"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-beige/5.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-beige/5.webp",
             "title": {
               "zh": "米色短款 · 传播视觉 5",
               "en": "Short Beige · Campaign 5"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-beige/6.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-beige/6.webp",
             "title": {
               "zh": "米色短款 · 传播视觉 6",
               "en": "Short Beige · Campaign 6"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-beige/7.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-beige/7.webp",
             "title": {
               "zh": "米色短款 · 传播视觉 7",
               "en": "Short Beige · Campaign 7"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-beige/8.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-beige/8.webp",
             "title": {
               "zh": "米色短款 · 传播视觉 8",
               "en": "Short Beige · Campaign 8"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/short-beige/9.jpg",
+            "url": "projects/sense-of-freedom/campaign/short-beige/9.webp",
             "title": {
               "zh": "米色短款 · 传播视觉 9",
               "en": "Short Beige · Campaign 9"
@@ -875,87 +875,87 @@ window.workCatalog=[
           "zh": "白色长款",
           "en": "Long White"
         },
-        "url": "projects/sense-of-freedom/campaign/long-white/1.jpg",
+        "url": "projects/sense-of-freedom/campaign/long-white/1.webp",
         "images": [
           {
-            "url": "projects/sense-of-freedom/campaign/long-white/1.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-white/1.webp",
             "title": {
               "zh": "白色长款 · 传播视觉 1",
               "en": "Long White · Campaign 1"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-white/2.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-white/2.webp",
             "title": {
               "zh": "白色长款 · 传播视觉 2",
               "en": "Long White · Campaign 2"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-white/3.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-white/3.webp",
             "title": {
               "zh": "白色长款 · 传播视觉 3",
               "en": "Long White · Campaign 3"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-white/4.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-white/4.webp",
             "title": {
               "zh": "白色长款 · 传播视觉 4",
               "en": "Long White · Campaign 4"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-white/5.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-white/5.webp",
             "title": {
               "zh": "白色长款 · 传播视觉 5",
               "en": "Long White · Campaign 5"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-white/6.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-white/6.webp",
             "title": {
               "zh": "白色长款 · 传播视觉 6",
               "en": "Long White · Campaign 6"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-white/7.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-white/7.webp",
             "title": {
               "zh": "白色长款 · 传播视觉 7",
               "en": "Long White · Campaign 7"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-white/8.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-white/8.webp",
             "title": {
               "zh": "白色长款 · 传播视觉 8",
               "en": "Long White · Campaign 8"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-white/9.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-white/9.webp",
             "title": {
               "zh": "白色长款 · 传播视觉 9",
               "en": "Long White · Campaign 9"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-white/10.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-white/10.webp",
             "title": {
               "zh": "白色长款 · 传播视觉 10",
               "en": "Long White · Campaign 10"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-white/11.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-white/11.webp",
             "title": {
               "zh": "白色长款 · 传播视觉 11",
               "en": "Long White · Campaign 11"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-white/12.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-white/12.webp",
             "title": {
               "zh": "白色长款 · 传播视觉 12",
               "en": "Long White · Campaign 12"
@@ -970,87 +970,87 @@ window.workCatalog=[
           "zh": "棕色长款",
           "en": "Long Brown"
         },
-        "url": "projects/sense-of-freedom/campaign/long-brown/1.jpg",
+        "url": "projects/sense-of-freedom/campaign/long-brown/1.webp",
         "images": [
           {
-            "url": "projects/sense-of-freedom/campaign/long-brown/1.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-brown/1.webp",
             "title": {
               "zh": "棕色长款 · 传播视觉 1",
               "en": "Long Brown · Campaign 1"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-brown/2.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-brown/2.webp",
             "title": {
               "zh": "棕色长款 · 传播视觉 2",
               "en": "Long Brown · Campaign 2"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-brown/3.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-brown/3.webp",
             "title": {
               "zh": "棕色长款 · 传播视觉 3",
               "en": "Long Brown · Campaign 3"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-brown/4.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-brown/4.webp",
             "title": {
               "zh": "棕色长款 · 传播视觉 4",
               "en": "Long Brown · Campaign 4"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-brown/5.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-brown/5.webp",
             "title": {
               "zh": "棕色长款 · 传播视觉 5",
               "en": "Long Brown · Campaign 5"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-brown/6.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-brown/6.webp",
             "title": {
               "zh": "棕色长款 · 传播视觉 6",
               "en": "Long Brown · Campaign 6"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-brown/7.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-brown/7.webp",
             "title": {
               "zh": "棕色长款 · 传播视觉 7",
               "en": "Long Brown · Campaign 7"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-brown/8.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-brown/8.webp",
             "title": {
               "zh": "棕色长款 · 传播视觉 8",
               "en": "Long Brown · Campaign 8"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-brown/9.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-brown/9.webp",
             "title": {
               "zh": "棕色长款 · 传播视觉 9",
               "en": "Long Brown · Campaign 9"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-brown/10.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-brown/10.webp",
             "title": {
               "zh": "棕色长款 · 传播视觉 10",
               "en": "Long Brown · Campaign 10"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-brown/11.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-brown/11.webp",
             "title": {
               "zh": "棕色长款 · 传播视觉 11",
               "en": "Long Brown · Campaign 11"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/long-brown/12.jpg",
+            "url": "projects/sense-of-freedom/campaign/long-brown/12.webp",
             "title": {
               "zh": "棕色长款 · 传播视觉 12",
               "en": "Long Brown · Campaign 12"
@@ -1065,59 +1065,59 @@ window.workCatalog=[
           "zh": "功能卖点",
           "en": "Product Benefits"
         },
-        "url": "projects/sense-of-freedom/campaign/feature-benefits/1.jpg",
+        "url": "projects/sense-of-freedom/campaign/feature-benefits/1.webp",
         "images": [
           {
-            "url": "projects/sense-of-freedom/campaign/feature-benefits/1.jpg",
+            "url": "projects/sense-of-freedom/campaign/feature-benefits/1.webp",
             "title": {
               "zh": "功能卖点 · 1",
               "en": "Product Benefits · 1"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/feature-benefits/2.jpg",
+            "url": "projects/sense-of-freedom/campaign/feature-benefits/2.webp",
             "title": {
               "zh": "功能卖点 · 2",
               "en": "Product Benefits · 2"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/feature-benefits/3.jpg",
+            "url": "projects/sense-of-freedom/campaign/feature-benefits/3.webp",
             "title": {
               "zh": "功能卖点 · 3",
               "en": "Product Benefits · 3"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/feature-benefits/4.jpg",
+            "url": "projects/sense-of-freedom/campaign/feature-benefits/4.webp",
             "title": {
               "zh": "功能卖点 · 4",
               "en": "Product Benefits · 4"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/feature-benefits/5.jpg",
+            "url": "projects/sense-of-freedom/campaign/feature-benefits/5.webp",
             "title": {
               "zh": "功能卖点 · 5",
               "en": "Product Benefits · 5"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/feature-benefits/6.jpg",
+            "url": "projects/sense-of-freedom/campaign/feature-benefits/6.webp",
             "title": {
               "zh": "功能卖点 · 6",
               "en": "Product Benefits · 6"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/feature-benefits/7.jpg",
+            "url": "projects/sense-of-freedom/campaign/feature-benefits/7.webp",
             "title": {
               "zh": "功能卖点 · 7",
               "en": "Product Benefits · 7"
             }
           },
           {
-            "url": "projects/sense-of-freedom/campaign/feature-benefits/8.jpg",
+            "url": "projects/sense-of-freedom/campaign/feature-benefits/8.webp",
             "title": {
               "zh": "功能卖点 · 8",
               "en": "Product Benefits · 8"
@@ -1186,7 +1186,7 @@ window.workCatalog=[
           "zh": "包装盒",
           "en": "包装盒"
         },
-        "url": "projects/sense-of-freedom/packaging/包装盒.jpg"
+        "url": "projects/sense-of-freedom/packaging/包装盒.webp"
       },
       {
         "section": "packaging",
@@ -1195,12 +1195,12 @@ window.workCatalog=[
           "zh": "包装盒展开",
           "en": "包装盒展开"
         },
-        "url": "projects/sense-of-freedom/packaging/包装盒展开.jpg"
+        "url": "projects/sense-of-freedom/packaging/包装盒展开.webp"
       },
       {
         "section": "sketches",
         "type": "sketchbook",
-        "url": "projects/sense-of-freedom/sketches/short/1.jpg",
+        "url": "projects/sense-of-freedom/sketches/short/1.webp",
         "title": {
           "zh": "视觉方案手稿",
           "en": "Visual Concept Sketches"
@@ -1214,84 +1214,84 @@ window.workCatalog=[
             },
             "images": [
               {
-                "url": "projects/sense-of-freedom/sketches/short/1.jpg",
+                "url": "projects/sense-of-freedom/sketches/short/1.webp",
                 "title": {
                   "zh": "短款视觉方案 · 01",
                   "en": "Short Style Study · 01"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/short/2.jpg",
+                "url": "projects/sense-of-freedom/sketches/short/2.webp",
                 "title": {
                   "zh": "短款视觉方案 · 02",
                   "en": "Short Style Study · 02"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/short/3.jpg",
+                "url": "projects/sense-of-freedom/sketches/short/3.webp",
                 "title": {
                   "zh": "短款视觉方案 · 03",
                   "en": "Short Style Study · 03"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/short/4.jpg",
+                "url": "projects/sense-of-freedom/sketches/short/4.webp",
                 "title": {
                   "zh": "短款视觉方案 · 04",
                   "en": "Short Style Study · 04"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/short/5.jpg",
+                "url": "projects/sense-of-freedom/sketches/short/5.webp",
                 "title": {
                   "zh": "短款视觉方案 · 05",
                   "en": "Short Style Study · 05"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/short/6.jpg",
+                "url": "projects/sense-of-freedom/sketches/short/6.webp",
                 "title": {
                   "zh": "短款视觉方案 · 06",
                   "en": "Short Style Study · 06"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/short/7.jpg",
+                "url": "projects/sense-of-freedom/sketches/short/7.webp",
                 "title": {
                   "zh": "短款视觉方案 · 07",
                   "en": "Short Style Study · 07"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/short/8.jpg",
+                "url": "projects/sense-of-freedom/sketches/short/8.webp",
                 "title": {
                   "zh": "短款视觉方案 · 08",
                   "en": "Short Style Study · 08"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/short/9.jpg",
+                "url": "projects/sense-of-freedom/sketches/short/9.webp",
                 "title": {
                   "zh": "短款视觉方案 · 09",
                   "en": "Short Style Study · 09"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/short/10.jpg",
+                "url": "projects/sense-of-freedom/sketches/short/10.webp",
                 "title": {
                   "zh": "短款视觉方案 · 10",
                   "en": "Short Style Study · 10"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/short/11.jpg",
+                "url": "projects/sense-of-freedom/sketches/short/11.webp",
                 "title": {
                   "zh": "短款视觉方案 · 11",
                   "en": "Short Style Study · 11"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/short/12.jpg",
+                "url": "projects/sense-of-freedom/sketches/short/12.webp",
                 "title": {
                   "zh": "短款视觉方案 · 12",
                   "en": "Short Style Study · 12"
@@ -1307,126 +1307,126 @@ window.workCatalog=[
             },
             "images": [
               {
-                "url": "projects/sense-of-freedom/sketches/long/1.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/1.webp",
                 "title": {
                   "zh": "长款视觉方案 · 01",
                   "en": "Long Style Study · 01"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/2.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/2.webp",
                 "title": {
                   "zh": "长款视觉方案 · 02",
                   "en": "Long Style Study · 02"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/3.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/3.webp",
                 "title": {
                   "zh": "长款视觉方案 · 03",
                   "en": "Long Style Study · 03"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/4.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/4.webp",
                 "title": {
                   "zh": "长款视觉方案 · 04",
                   "en": "Long Style Study · 04"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/5.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/5.webp",
                 "title": {
                   "zh": "长款视觉方案 · 05",
                   "en": "Long Style Study · 05"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/6.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/6.webp",
                 "title": {
                   "zh": "长款视觉方案 · 06",
                   "en": "Long Style Study · 06"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/7.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/7.webp",
                 "title": {
                   "zh": "长款视觉方案 · 07",
                   "en": "Long Style Study · 07"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/8.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/8.webp",
                 "title": {
                   "zh": "长款视觉方案 · 08",
                   "en": "Long Style Study · 08"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/9.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/9.webp",
                 "title": {
                   "zh": "长款视觉方案 · 09",
                   "en": "Long Style Study · 09"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/10.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/10.webp",
                 "title": {
                   "zh": "长款视觉方案 · 10",
                   "en": "Long Style Study · 10"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/11.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/11.webp",
                 "title": {
                   "zh": "长款视觉方案 · 11",
                   "en": "Long Style Study · 11"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/12.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/12.webp",
                 "title": {
                   "zh": "长款视觉方案 · 12",
                   "en": "Long Style Study · 12"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/13.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/13.webp",
                 "title": {
                   "zh": "长款视觉方案 · 13",
                   "en": "Long Style Study · 13"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/14.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/14.webp",
                 "title": {
                   "zh": "长款视觉方案 · 14",
                   "en": "Long Style Study · 14"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/15.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/15.webp",
                 "title": {
                   "zh": "长款视觉方案 · 15",
                   "en": "Long Style Study · 15"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/16.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/16.webp",
                 "title": {
                   "zh": "长款视觉方案 · 16",
                   "en": "Long Style Study · 16"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/17.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/17.webp",
                 "title": {
                   "zh": "长款视觉方案 · 17",
                   "en": "Long Style Study · 17"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/sketches/long/18.jpg",
+                "url": "projects/sense-of-freedom/sketches/long/18.webp",
                 "title": {
                   "zh": "长款视觉方案 · 18",
                   "en": "Long Style Study · 18"
@@ -1439,7 +1439,7 @@ window.workCatalog=[
       {
         "section": "scripts",
         "type": "storyboard",
-        "url": "projects/sense-of-freedom/scripts/short/1.jpg",
+        "url": "projects/sense-of-freedom/scripts/short/1.webp",
         "title": {
           "zh": "视频脚本",
           "en": "Video Storyboards"
@@ -1453,28 +1453,28 @@ window.workCatalog=[
             },
             "images": [
               {
-                "url": "projects/sense-of-freedom/scripts/short/1.jpg",
+                "url": "projects/sense-of-freedom/scripts/short/1.webp",
                 "title": {
                   "zh": "短款视频脚本 · 镜头 01",
                   "en": "Short Style Storyboard · Shot 01"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/scripts/short/2.jpg",
+                "url": "projects/sense-of-freedom/scripts/short/2.webp",
                 "title": {
                   "zh": "短款视频脚本 · 镜头 02",
                   "en": "Short Style Storyboard · Shot 02"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/scripts/short/3.jpg",
+                "url": "projects/sense-of-freedom/scripts/short/3.webp",
                 "title": {
                   "zh": "短款视频脚本 · 镜头 03",
                   "en": "Short Style Storyboard · Shot 03"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/scripts/short/4.jpg",
+                "url": "projects/sense-of-freedom/scripts/short/4.webp",
                 "title": {
                   "zh": "短款视频脚本 · 镜头 04",
                   "en": "Short Style Storyboard · Shot 04"
@@ -1490,35 +1490,35 @@ window.workCatalog=[
             },
             "images": [
               {
-                "url": "projects/sense-of-freedom/scripts/long/1.jpg",
+                "url": "projects/sense-of-freedom/scripts/long/1.webp",
                 "title": {
                   "zh": "长款视频脚本 · 镜头 01",
                   "en": "Long Style Storyboard · Shot 01"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/scripts/long/2.jpg",
+                "url": "projects/sense-of-freedom/scripts/long/2.webp",
                 "title": {
                   "zh": "长款视频脚本 · 镜头 02",
                   "en": "Long Style Storyboard · Shot 02"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/scripts/long/3.jpg",
+                "url": "projects/sense-of-freedom/scripts/long/3.webp",
                 "title": {
                   "zh": "长款视频脚本 · 镜头 03",
                   "en": "Long Style Storyboard · Shot 03"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/scripts/long/4.jpg",
+                "url": "projects/sense-of-freedom/scripts/long/4.webp",
                 "title": {
                   "zh": "长款视频脚本 · 镜头 04",
                   "en": "Long Style Storyboard · Shot 04"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/scripts/long/5.jpg",
+                "url": "projects/sense-of-freedom/scripts/long/5.webp",
                 "title": {
                   "zh": "长款视频脚本 · 镜头 05",
                   "en": "Long Style Storyboard · Shot 05"
@@ -1531,7 +1531,7 @@ window.workCatalog=[
       {
         "section": "styling",
         "type": "lookbook",
-        "url": "projects/sense-of-freedom/styling/发型参考A.jpg",
+        "url": "projects/sense-of-freedom/styling/发型参考A.webp",
         "title": {
           "zh": "发型/妆容",
           "en": "Hair / Makeup"
@@ -1545,21 +1545,21 @@ window.workCatalog=[
             },
             "images": [
               {
-                "url": "projects/sense-of-freedom/styling/发型参考A.jpg",
+                "url": "projects/sense-of-freedom/styling/发型参考A.webp",
                 "title": {
                   "zh": "发型参考 A",
                   "en": "Hairstyle Reference A"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/styling/发型参考B-rev.jpg",
+                "url": "projects/sense-of-freedom/styling/发型参考B-rev.webp",
                 "title": {
                   "zh": "发型参考 B",
                   "en": "Hairstyle Reference B"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/styling/发型参考C-v3.jpg",
+                "url": "projects/sense-of-freedom/styling/发型参考C-v3.webp",
                 "title": {
                   "zh": "发型参考 C",
                   "en": "Hairstyle Reference C"
@@ -1575,21 +1575,21 @@ window.workCatalog=[
             },
             "images": [
               {
-                "url": "projects/sense-of-freedom/styling/妆容参考A.jpg",
+                "url": "projects/sense-of-freedom/styling/妆容参考A.webp",
                 "title": {
                   "zh": "妆容参考 A",
                   "en": "Makeup Reference A"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/styling/妆容参考B.jpg",
+                "url": "projects/sense-of-freedom/styling/妆容参考B.webp",
                 "title": {
                   "zh": "妆容参考 B",
                   "en": "Makeup Reference B"
                 }
               },
               {
-                "url": "projects/sense-of-freedom/styling/妆容参考C.jpg",
+                "url": "projects/sense-of-freedom/styling/妆容参考C.webp",
                 "title": {
                   "zh": "妆容参考 C",
                   "en": "Makeup Reference C"
@@ -1606,7 +1606,7 @@ window.workCatalog=[
           "zh": "视觉作品 01",
           "en": "Visual 01"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/01.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/01.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1615,7 +1615,7 @@ window.workCatalog=[
           "zh": "视觉作品 02",
           "en": "Visual 02"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/02.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/02.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1624,7 +1624,7 @@ window.workCatalog=[
           "zh": "视觉作品 03",
           "en": "Visual 03"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/03.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/03.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1633,7 +1633,7 @@ window.workCatalog=[
           "zh": "视觉作品 04",
           "en": "Visual 04"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/04.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/04.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1642,7 +1642,7 @@ window.workCatalog=[
           "zh": "视觉作品 05",
           "en": "Visual 05"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/05.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/05.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1651,7 +1651,7 @@ window.workCatalog=[
           "zh": "视觉作品 06",
           "en": "Visual 06"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/06.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/06.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1660,7 +1660,7 @@ window.workCatalog=[
           "zh": "视觉作品 07",
           "en": "Visual 07"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/07.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/07.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1669,7 +1669,7 @@ window.workCatalog=[
           "zh": "视觉作品 08",
           "en": "Visual 08"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/08.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/08.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1678,7 +1678,7 @@ window.workCatalog=[
           "zh": "视觉作品 09",
           "en": "Visual 09"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/09.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/09.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1687,7 +1687,7 @@ window.workCatalog=[
           "zh": "视觉作品 10",
           "en": "Visual 10"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/10.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/10.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1696,7 +1696,7 @@ window.workCatalog=[
           "zh": "视觉作品 11",
           "en": "Visual 11"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/11.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/11.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1705,7 +1705,7 @@ window.workCatalog=[
           "zh": "视觉作品 12",
           "en": "Visual 12"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/12.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/12.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1714,7 +1714,7 @@ window.workCatalog=[
           "zh": "视觉作品 13",
           "en": "Visual 13"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/13.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/13.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1723,7 +1723,7 @@ window.workCatalog=[
           "zh": "视觉作品 14",
           "en": "Visual 14"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/14.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/14.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1732,7 +1732,7 @@ window.workCatalog=[
           "zh": "视觉作品 15",
           "en": "Visual 15"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/15.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/15.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1741,7 +1741,7 @@ window.workCatalog=[
           "zh": "视觉作品 16",
           "en": "Visual 16"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/16.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/16.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1750,7 +1750,7 @@ window.workCatalog=[
           "zh": "视觉作品 17",
           "en": "Visual 17"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/17.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/17.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1759,7 +1759,7 @@ window.workCatalog=[
           "zh": "视觉作品 18",
           "en": "Visual 18"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/18.jpg?v=replace18-68"
+        "url": "projects/sense-of-freedom/visual-gallery/18.webp?v=replace18-68"
       },
       {
         "section": "visuals",
@@ -1768,7 +1768,7 @@ window.workCatalog=[
           "zh": "视觉作品 19",
           "en": "Visual 19"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/19.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/19.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1777,7 +1777,7 @@ window.workCatalog=[
           "zh": "视觉作品 20",
           "en": "Visual 20"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/20.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/20.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1786,7 +1786,7 @@ window.workCatalog=[
           "zh": "视觉作品 21",
           "en": "Visual 21"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/21.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/21.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1795,7 +1795,7 @@ window.workCatalog=[
           "zh": "视觉作品 22",
           "en": "Visual 22"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/22.jpg?v=replace22-69"
+        "url": "projects/sense-of-freedom/visual-gallery/22.webp?v=replace22-69"
       },
       {
         "section": "visuals",
@@ -1804,7 +1804,7 @@ window.workCatalog=[
           "zh": "视觉作品 23",
           "en": "Visual 23"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/23.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/23.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1813,7 +1813,7 @@ window.workCatalog=[
           "zh": "视觉作品 24",
           "en": "Visual 24"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/24.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/24.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1822,7 +1822,7 @@ window.workCatalog=[
           "zh": "视觉作品 25",
           "en": "Visual 25"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/25.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/25.webp?v=fullres-65"
       },
       {
         "section": "visuals",
@@ -1831,7 +1831,7 @@ window.workCatalog=[
           "zh": "视觉作品 26",
           "en": "Visual 26"
         },
-        "url": "projects/sense-of-freedom/visual-gallery/26.jpg?v=fullres-65"
+        "url": "projects/sense-of-freedom/visual-gallery/26.webp?v=fullres-65"
       }
     ],
     "caseSections": [

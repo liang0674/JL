@@ -6,7 +6,7 @@ html{background:#f8edf3}body{margin:0;padding:24px 12px;font-family:HiliSans,Ari
 #ap-bf-design{--pink:#f7c1d5;--ink:#35213b;--berry:#a82e60;--soft:#fff8fc;--line:#ead8e2;--muted:#77566c;--ap-orange:var(--berry);--ap-black:var(--ink);--ap-charcoal:var(--ink);--ap-ink:var(--soft);--ap-paper:#fff;--ap-muted:var(--muted);--ap-line:var(--line);color:var(--ink);font-family:HiliSans,Arial,sans-serif}
 #ap-bf-design .ap-board-label{color:var(--muted);font-size:10px;letter-spacing:.3px}
 #ap-bf-design .ap-store{border:1px solid var(--line);background:var(--soft);border-radius:28px;box-shadow:0 16px 50px #35213b0d}
-#ap-bf-design .ap-logo{background:url('./images/hilibox-logo.png') center/contain no-repeat;aspect-ratio:232/70;width:104px;filter:none}
+#ap-bf-design .ap-logo{background:url('./images/hilibox-logo.webp') center/contain no-repeat;aspect-ratio:232/70;width:104px;filter:none}
 #ap-bf-design .ap-campaign-header .ap-logo{width:96px;height:29px}
 #ap-bf-design .ap-store-header .ap-logo{filter:none}
 #ap-bf-design .ap-shade{background:#35213b52;backdrop-filter:blur(4px)}

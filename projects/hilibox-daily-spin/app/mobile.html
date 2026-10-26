@@ -626,9 +626,9 @@ html::-webkit-scrollbar,body::-webkit-scrollbar,body *::-webkit-scrollbar{displa
 <body>
 <div id="ap-bf-design" data-mobile="true" data-view="landing" data-open="true" data-lang="en" aria-label="HiliBox Daily Exclusive">
  <header class="ap-app-nav" aria-label="Page navigation">
-  <img class="ap-shared-logo" src="images/hilibox-logo.png" alt="HiliBox"/>
-  <button type="button" class="ap-app-back" aria-label="Back to Shop"><img src="images/app-back.png" alt=""/><span class="ap-app-nav-title">Daily Exclusive</span></button>
-  <button type="button" class="ap-app-share" aria-label="Share Daily Exclusive"><img src="images/share.png" alt=""/></button>
+  <img class="ap-shared-logo" src="images/hilibox-logo.webp" alt="HiliBox"/>
+  <button type="button" class="ap-app-back" aria-label="Back to Shop"><img src="images/app-back.webp" alt=""/><span class="ap-app-nav-title">Daily Exclusive</span></button>
+  <button type="button" class="ap-app-share" aria-label="Share Daily Exclusive"><img src="images/share.webp" alt=""/></button>
  </header>
  <dialog class="ap-download-dialog" aria-labelledby="ap-download-title">
   <button type="button" class="ap-download-close" aria-label="Close">×</button>
@@ -1261,7 +1261,7 @@ html::-webkit-scrollbar,body::-webkit-scrollbar,body *::-webkit-scrollbar{displa
   return `<li class="ap-draw-entry is-complete${claimedGift?' is-claimed-gift':''}"><span class="ap-draw-entry-number">${pad(index+1)}</span><span class="ap-draw-entry-copy"><strong>${escapeHtml(historyPrizeLabel(prize))}</strong><small>${historyDateLabel(record.createdAt)} · ${historySourceLabel(record)}</small>${shippingNote}</span>${action}</li>`;
  }
  function pointEntry(entry){
-  const icon='<span class="ap-points-icon" aria-hidden="true"><img src="images/daily-spin-points-gold-icon.png" alt="" decoding="async"></span>';
+  const icon='<span class="ap-points-icon" aria-hidden="true"><img src="images/daily-spin-points-gold-icon.webp" alt="" decoding="async"></span>';
   return `<li class="ap-points-entry is-spent">${icon}<span class="ap-points-copy"><strong>${t('Points used for spin','抽奖消耗积分')}</strong><small>${historyDateLabel(entry.createdAt)}</small></span><span class="ap-points-amount">${entry.amount}</span></li>`;
  }
  function pointRedemptions(){return drawState.pointLedger.filter(entry=>entry.amount<0).reverse();}
@@ -1350,8 +1350,8 @@ html::-webkit-scrollbar,body::-webkit-scrollbar,body *::-webkit-scrollbar{displa
   drawState.activeResultId=record.id;stage='result';showResult(true);
  }
  function resultIconMarkup(type){
-  if(type==='coupon')return '<img src="images/daily-spin-coupon-red-icon.png" alt="" decoding="async">';
-  if(type==='points')return '<img src="images/daily-spin-points-gold-icon.png" alt="" decoding="async">';
+  if(type==='coupon')return '<img src="images/daily-spin-coupon-red-icon.webp" alt="" decoding="async">';
+  if(type==='points')return '<img src="images/daily-spin-points-gold-icon.webp" alt="" decoding="async">';
   return '';
  }
  function renderActiveResult(){
