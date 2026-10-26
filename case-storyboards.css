@@ -1,0 +1,42 @@
+#scripts{background:#111;color:#f3f3f3;padding:clamp(24px,3vw,56px);border-top:0}
+#scripts>p,#scripts>span{color:#aaa}
+#scripts .storyboard{margin-top:36px}
+#scripts .storyboard-top{display:flex;align-items:center;justify-content:space-between;gap:24px;margin-bottom:40px;padding:18px 0;border-top:1px solid #444;border-bottom:1px solid #444}
+#scripts .storyboard-note{font:11px/1.6 ui-monospace,monospace;letter-spacing:.12em;color:#aaa}
+#scripts .storyboard-tabs{display:flex;gap:8px}
+#scripts .storyboard-tabs button{display:flex;align-items:center;gap:20px;border:0;background:transparent;color:#aaa;padding:12px 18px;font:inherit;cursor:pointer;transition:background .2s,color .2s}
+#scripts .storyboard-tabs button span{font:11px/1 ui-monospace,monospace;opacity:.65}
+#scripts .storyboard-tabs button[aria-selected=true]{background:#f2f2f2;color:#111}
+#scripts .storyboard-tabs button:focus-visible{outline:1px solid #fff;outline-offset:3px}
+#scripts .storyboard-panel[hidden]{display:none}
+#scripts .storyboard-track{display:flex;align-items:center;gap:clamp(8px,1.4vw,22px);width:100%}
+#scripts .storyboard-step{flex:1 1 0;min-width:0;margin:0;opacity:1;transform:none;transition:opacity .65s ease,transform .65s cubic-bezier(.2,.7,.2,1)}
+#scripts .storyboard.has-motion .storyboard-step{opacity:0;transform:translateY(24px)}
+#scripts .storyboard.has-motion .storyboard-step.is-visible{opacity:1;transform:translateY(0)}
+#scripts .storyboard-step:nth-of-type(2){transition-delay:.08s}#scripts .storyboard-step:nth-of-type(3){transition-delay:.16s}#scripts .storyboard-step:nth-of-type(4){transition-delay:.24s}#scripts .storyboard-step:nth-of-type(5){transition-delay:.32s}
+#scripts .storyboard-frame{position:relative;display:block;width:100%;overflow:hidden;border:0;padding:0;background:#222;cursor:zoom-in;color:#fff;text-align:left}
+#scripts .storyboard-frame img{display:block;width:100%;height:auto;margin:0;object-fit:contain;transition:transform .55s cubic-bezier(.2,.7,.2,1),filter .35s}
+#scripts .storyboard-frame:hover img{transform:scale(1.035)}
+#scripts .storyboard-zoom{position:absolute;right:10px;top:10px;display:grid;place-items:center;width:30px;height:30px;background:rgba(0,0,0,.62);color:#fff;opacity:0;transform:translateY(4px);transition:opacity .2s,transform .2s}
+#scripts .storyboard-frame:hover .storyboard-zoom,#scripts .storyboard-frame:focus-visible .storyboard-zoom{opacity:1;transform:translateY(0)}
+#scripts .storyboard-step figcaption{display:flex;align-items:center;gap:10px;padding-top:12px;color:#bdbdbd;font:11px/1.5 ui-monospace,monospace;letter-spacing:.04em}
+#scripts .storyboard-number{color:#fff;font-size:13px}
+#scripts .storyboard-arrow{flex:0 0 clamp(18px,2.2vw,32px);display:grid;place-items:center;color:#e6e6e6;overflow:hidden}
+#scripts .storyboard-arrow svg{display:block;width:100%;height:auto;overflow:visible}
+#scripts .storyboard-arrow-line{fill:none;stroke:currentColor;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:48;stroke-dashoffset:0;animation:storyboard-flow 1.8s ease-in-out infinite}
+@keyframes storyboard-flow{0%,100%{stroke-dashoffset:12;opacity:.55}50%{stroke-dashoffset:0;opacity:1}}
+@media(max-width:760px){#scripts .storyboard-top{align-items:flex-start;flex-direction:column;gap:18px;margin-bottom:30px}#scripts .storyboard-tabs{width:100%}#scripts .storyboard-tabs button{flex:1;justify-content:center;padding:12px 16px}#scripts .storyboard-track{flex-direction:column;gap:10px;align-items:stretch}#scripts .storyboard-step{width:min(100%,430px);margin-inline:auto}#scripts .storyboard-arrow{flex-basis:auto;height:28px;transform:rotate(90deg)}#scripts .storyboard-arrow svg{width:28px;height:20px}#scripts .storyboard-step figcaption{padding-top:8px}}
+@media(hover:none){#scripts .storyboard-zoom{opacity:1;transform:none}}
+@media(prefers-reduced-motion:reduce){#scripts .storyboard-step,#scripts .storyboard-frame img,#scripts .storyboard-zoom{transition:none!important}#scripts .storyboard-arrow-line{animation:none}}
+
+
+/* 80px breathing room and a loose, hand-drawn connector treatment. */
+#scripts{margin-bottom:80px!important}
+#scripts .storyboard-arrow{flex-basis:clamp(22px,2.5vw,38px)}
+#scripts .storyboard-arrow svg{overflow:visible}
+#scripts .storyboard-arrow-line,#scripts .storyboard-arrow-ghost{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round}
+#scripts .storyboard-arrow-line{stroke-width:1.55;stroke-dasharray:62;stroke-dashoffset:0;animation:storyboard-sketch-flow 2s ease-in-out infinite}
+#scripts .storyboard-arrow-ghost{stroke-width:.7;opacity:.4;transform:translateY(1.4px);animation:storyboard-sketch-flow 2s ease-in-out infinite reverse}
+@keyframes storyboard-sketch-flow{0%,100%{stroke-dashoffset:14;opacity:.45}50%{stroke-dashoffset:0;opacity:1}}
+@media(max-width:760px){#scripts .storyboard-arrow{flex-basis:auto}#scripts .storyboard-arrow svg{width:30px;height:20px}}
+@media(prefers-reduced-motion:reduce){#scripts .storyboard-arrow-line,#scripts .storyboard-arrow-ghost{animation:none}}

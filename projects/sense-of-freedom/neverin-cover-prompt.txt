@@ -1,0 +1,3 @@
+Mode: built-in image_gen
+Concept cover, AI-generated product still life.
+Prompt: Premium landscape 3:2 editorial portfolio cover for Neverin apparel brand. Product-only still life, no people. Muted sage beige wireless sports bra on warm ivory matte plinth, flowing white textile, soft daylight, generous left negative space. Large black Neverin wordmark; THE FREEDOM TO BREATHE; BRAND DESIGN / ART DIRECTION. Quiet Swiss editorial composition.

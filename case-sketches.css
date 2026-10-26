@@ -1,0 +1,66 @@
+/* Concept archive: offset studies, original image proportions, generous negative space. */
+#sketches .sketchbook{margin-top:36px}
+#sketches .sketchbook-top{display:flex;align-items:center;justify-content:space-between;gap:24px;margin-bottom:54px;padding-block:18px;border-top:1px solid #bcbcbc;border-bottom:1px solid #bcbcbc}
+#sketches .sketchbook-note{font:11px/1.6 ui-monospace,monospace;letter-spacing:.12em;color:#777}
+#sketches .sketch-tabs{display:flex;gap:8px}
+#sketches .sketch-tabs button{border:0;border-radius:0;padding:12px 20px;background:transparent;color:#666;cursor:pointer;font:inherit;transition:background .2s,color .2s}
+#sketches .sketch-tabs button span{margin-left:16px;font:10px/1.4 ui-monospace,monospace;letter-spacing:.04em}
+#sketches .sketch-tabs button[aria-selected="true"]{background:#202020;color:#fff}
+#sketches .sketch-tabs button:focus-visible{outline:2px solid #202020;outline-offset:3px}
+#sketches .sketch-panel[hidden]{display:none!important}
+#sketches .sketch-editorial{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));column-gap:clamp(14px,2vw,36px);row-gap:clamp(48px,6vw,110px);max-width:1440px;margin-inline:auto;align-items:start}
+#sketches .sketch-item{margin:0;min-width:0;grid-column:span 5}
+#sketches .sketch-item:nth-child(8n+1){grid-column:1/span 7}
+#sketches .sketch-item:nth-child(8n+2){grid-column:9/span 4;margin-top:28%}
+#sketches .sketch-item:nth-child(8n+3){grid-column:2/span 4;margin-top:18%}
+#sketches .sketch-item:nth-child(8n+4){grid-column:7/span 6}
+#sketches .sketch-item:nth-child(8n+5){grid-column:1/span 5}
+#sketches .sketch-item:nth-child(8n+6){grid-column:8/span 5;margin-top:22%}
+#sketches .sketch-item:nth-child(8n+7){grid-column:2/span 6}
+#sketches .sketch-item:nth-child(8n+8){grid-column:9/span 4;margin-top:24%}
+#sketches .sketch-image{position:relative;display:block;width:100%;padding:0;border:0;background:#e8e5e2;overflow:hidden;cursor:zoom-in;box-shadow:0 8px 24px #00000008;transition:box-shadow .35s ease,transform .35s ease}
+#sketches .sketch-image img{display:block;width:100%;height:auto;max-height:none;margin:0;object-fit:contain;transition:transform .65s cubic-bezier(.2,.7,.2,1)}
+#sketches .sketch-image:hover,#sketches .sketch-image:focus-visible{transform:translateY(-5px);box-shadow:0 18px 40px #00000012}
+#sketches .sketch-image:hover img,#sketches .sketch-image:focus-visible img{transform:scale(1.025)}
+#sketches .sketch-enlarge{position:absolute;bottom:16px;right:16px;display:grid;place-items:center;width:38px;height:38px;background:#fffffff0;color:#202020;opacity:0;transform:translateY(6px);transition:opacity .25s,transform .25s;pointer-events:none}
+#sketches .sketch-enlarge svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+#sketches .sketch-image:hover .sketch-enlarge,#sketches .sketch-image:focus-visible .sketch-enlarge{opacity:1;transform:none}
+#sketches .sketch-item figcaption{display:flex;justify-content:space-between;gap:12px;margin-top:14px;font:11px/1.6 ui-monospace,monospace;letter-spacing:.06em;color:#777}
+#sketches .has-motion .sketch-item{opacity:0;transform:translateY(26px);transition:opacity .7s ease,transform .85s cubic-bezier(.2,.7,.2,1)}
+#sketches .has-motion .sketch-item.is-visible{opacity:1;transform:none}
+#sketches .sketch-empty{padding:clamp(40px,5vw,80px) 0}
+#sketches .sketch-empty>span{font:11px/1.7 ui-monospace,monospace;letter-spacing:.12em;color:#888}
+#sketches .sketch-empty h3{margin:22px 0 14px;font-weight:500}
+@media(max-width:760px){#sketches .sketchbook-top{align-items:flex-start;flex-direction:column;gap:18px;margin-bottom:32px}#sketches .sketch-tabs{width:100%}#sketches .sketch-tabs button{flex:1;padding:12px 16px}#sketches .sketch-editorial{grid-template-columns:repeat(2,minmax(0,1fr));gap:34px 18px}#sketches .sketch-item:nth-child(n){grid-column:auto;margin-top:0}#sketches .sketch-item:nth-child(even){margin-top:44px}#sketches .sketch-item figcaption{font-size:10px;letter-spacing:0}#sketches .sketch-item figcaption>span:last-child{display:none}}
+@media(max-width:440px){#sketches .sketch-editorial{grid-template-columns:1fr;gap:36px}#sketches .sketch-item:nth-child(n){width:88%;margin:0}#sketches .sketch-item:nth-child(even){justify-self:end}}
+@media(hover:none){#sketches .sketch-enlarge{opacity:1;transform:none}}
+@media(prefers-reduced-motion:reduce){#sketches .has-motion .sketch-item{opacity:1;transform:none}#sketches .sketch-item,#sketches .sketch-image,#sketches .sketch-image img,#sketches .sketch-enlarge{transition:none!important}}
+
+/* Dark, four-column concept gallery. */
+#sketches{background:#111;color:#f3f3f3;padding:clamp(24px,3vw,56px);border-top:0}
+#sketches>p,#sketches>span{color:#aaa}
+#sketches .sketchbook-top{border-color:#444;margin-bottom:32px}
+#sketches .sketchbook-note,#sketches .sketch-item figcaption,#sketches .sketch-empty>span{color:#aaa}
+#sketches .sketch-tabs button{color:#aaa}
+#sketches .sketch-tabs button[aria-selected="true"]{background:#f2f2f2;color:#111}
+#sketches .sketch-tabs button:focus-visible{outline-color:#eee}
+#sketches .sketch-editorial{grid-template-columns:repeat(4,minmax(0,1fr));gap:32px 20px;max-width:none}
+#sketches .sketch-item:nth-child(n){grid-column:auto;width:100%;margin:0;justify-self:stretch}
+#sketches .sketch-image{background:#222;box-shadow:none}
+#sketches .sketch-empty p{color:#aaa}
+@media(max-width:760px){#sketches .sketch-editorial{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 14px}}
+@media(max-width:440px){#sketches .sketch-editorial{grid-template-columns:repeat(2,minmax(0,1fr))}#sketches .sketchbook-note{font-size:10px}#sketches .sketch-tabs button{padding:12px}}
+/* Four studies per row with alternating sizes and vertical offsets. */
+#sketches .sketch-editorial{grid-template-columns:repeat(4,minmax(0,1fr));column-gap:24px;row-gap:70px;align-items:start}
+#sketches .sketch-item:nth-child(4n+1){width:100%;margin-top:0;justify-self:start}
+#sketches .sketch-item:nth-child(4n+2){width:80%;margin-top:52px;justify-self:center}
+#sketches .sketch-item:nth-child(4n+3){width:92%;margin-top:18px;justify-self:center}
+#sketches .sketch-item:nth-child(4n+4){width:76%;margin-top:78px;justify-self:end}
+@media(max-width:760px){
+ #sketches .sketch-editorial{grid-template-columns:repeat(2,minmax(0,1fr));gap:36px 18px}
+ #sketches .sketch-item:nth-child(odd){width:100%;margin-top:0;justify-self:start}
+ #sketches .sketch-item:nth-child(even){width:85%;margin-top:40px;justify-self:end}
+}
+
+/* Add breathing room after the concept sketch section. */
+#sketches{margin-bottom:80px!important}
