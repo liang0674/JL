@@ -196,6 +196,1314 @@ window.workCatalog=[
     ]
   },
   {
+    "id": "savana-digital-experience",
+    "category": "project",
+    "formats": [
+      "project"
+    ],
+    "art": "savana",
+    "title": {
+      "zh": "Savana｜0→1 增长产品体系",
+      "en": "Savana | 0→1 Growth Product System"
+    },
+    "domain": {
+      "zh": "SAVANA / 时尚电商与增长产品",
+      "en": "SAVANA / FASHION COMMERCE & GROWTH PRODUCTS"
+    },
+    "summary": {
+      "zh": "作为 Product Design Lead，参与并主导 Savana 从 0→1 的数字产品建设，以跨品牌获客、账户迁移、即时权益、长期促销和大型增长活动，连接用户从价值感知到购买的完整体验。 基于成熟平台与独立体验定制，App 从设计到正式上线不到两个月。",
+      "en": "As Product Design Lead, helped define and lead Savana’s digital product from 0 to 1, connecting cross-brand acquisition, account migration, immediate rewards, always-on offers and major campaigns into an experience from value discovery to purchase. Platform reuse and experience customization supported delivery from app design to production launch in less than two months."
+    },
+    "focus": {
+      "zh": "Product Design Lead — 0→1 & Growth · 产品定义 · UX 策略 · 交互机制 · 设计体系",
+      "en": "Product Design Lead — 0→1 & Growth · Product Definition · UX Strategy · Interaction Design · Design Systems"
+    },
+    "sections": {
+      "zh": [
+        [
+          "从品牌冷启动出发，定义增长体验",
+          "Savana 是 Urbanic 面向更年轻消费群体拆分建立的新品牌。项目早期的关键问题，是如何利用 Urbanic 已积累的第一方用户资产，让目标用户理解新品牌、下载 App、完成账户迁移与首次激活，并继续购买。"
+        ],
+        [
+          "把获客、迁移与购买连接为产品能力",
+          "我参与并主导跨品牌导流、老客授权与 Welcome Coupon、Flash Sale 和大型低价 Campaign 的产品定义及体验设计。这些能力分别服务获客、迁移、激活、转化与规模增长；持续商品更新和促销内容为再次访问提供理由。"
+        ],
+        [
+          "以体系化设计支撑 0→1 与规模扩展",
+          "我的职责涵盖业务理解、产品定义、增长体验框架、UX 策略、主流程与状态、UI 与品牌体验，以及可复用设计规则。增长产品体系与 Brand System、UI System、UX Guidelines 和购物体验共同构成 Savana 的数字产品基础。"
+        ]
+      ],
+      "en": [
+        [
+          "Define growth experiences around the cold start",
+          "Savana was established as a separate brand for a younger audience alongside Urbanic. The early challenge was to use Urbanic’s first-party audience to help people understand the new brand, download the app, migrate their account, activate and continue to purchase."
+        ],
+        [
+          "Connect acquisition, migration and purchasing",
+          "I helped define and lead cross-brand acquisition, authorized login and Welcome Coupon, Flash Sale and a major low-price campaign. Their roles span acquisition, migration, activation, conversion and scale, while fresh products and offers provide reasons to revisit."
+        ],
+        [
+          "Build foundations for launch and scale",
+          "My scope covered business understanding, product definition, growth experience frameworks, UX strategy, flows and states, UI and brand experience, and reusable rules. Together with brand and UI systems, UX guidelines and commerce, these capabilities formed Savana’s digital product foundation."
+        ]
+      ]
+    },
+    "content": {
+      "background": {
+        "zh": [
+          {
+            "title": "品牌升级带来客群分层需求",
+            "text": "当时 Urbanic 向更高的品牌与价格定位发展，原有用户对价格和风格的接受度可能出现分化。Savana 的设立旨在以独立品牌承接更关注价格的消费需求，为不同预算与时尚偏好提供差异化选择。"
+          },
+          {
+            "title": "更易负担的价格，保持对品质的重视",
+            "text": "早期定位中，Savana 的价格带低于 Urbanic，强调更具竞争力的价格与相近的品质预期。性价比需要通过商品、内容与购物体验共同表达，让用户理解价格优势，也感受到对品质的重视。"
+          },
+          {
+            "title": "依托供应链优势响应市场",
+            "text": "项目计划利用供应链优势快速响应时尚趋势与市场变化。对设计而言，需要让品牌表达、商品发现、价格沟通和营销场景在持续更新中保持一致。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Brand evolution created a need for audience differentiation",
+            "text": "As Urbanic moved toward a higher brand and price position, existing shoppers could respond differently to price and style changes. Savana was intended to serve more price-conscious demand through a distinct brand proposition."
+          },
+          {
+            "title": "Accessible pricing with an emphasis on quality",
+            "text": "The early positioning placed Savana below Urbanic in price, aiming to combine more competitive pricing with a comparable quality expectation. Products, content and shopping experiences needed to communicate both value and attention to quality."
+          },
+          {
+            "title": "Responsive supply capabilities shaped the design context",
+            "text": "The project intended to use supply-chain advantages to respond quickly to fashion trends and market changes. Brand expression, product discovery, pricing communication and marketing needed to remain coherent as content evolved."
+          }
+        ]
+      },
+      "goals": {
+        "zh": [
+          {
+            "title": "Acquisition｜从商品价值建立迁移动机",
+            "text": "在 Urbanic 内先展示 Savana 商品、价格、风格与品牌视觉，让用户理解为什么值得进入 Savana，再承接下载或 App 唤起。"
+          },
+          {
+            "title": "Migration & Activation｜低摩擦迁移与即时权益",
+            "text": "通过 Urbanic 账户授权、一键登录、关联或创建 Savana 账户与 Welcome Coupon，将账户进入连接到继续选购与首购动机。"
+          },
+          {
+            "title": "Conversion & Scale｜长期促销与全链路大促",
+            "text": "以 Flash Sale 建立长期价格认知与商品浏览入口，以大型低价活动覆盖购物全链路，协调价格、资格、库存与最终应付信息。"
+          },
+          {
+            "title": "Retention｜为再次访问提供理由",
+            "text": "以持续更新的商品、促销和内容形成再次打开 App 的动机。此处为产品目标与机制说明，尚无该功能组的实测留存数据。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Acquisition | Create a reason to move through product value",
+            "text": "Show Savana products, prices, style and brand identity within Urbanic before inviting app download or launch."
+          },
+          {
+            "title": "Migration & activation | Reduce friction and reward entry",
+            "text": "Connect Urbanic authorization, one-tap login, Savana account association or creation, and Welcome Coupon with shopping and first-purchase motivation."
+          },
+          {
+            "title": "Conversion & scale | Always-on offers and full-funnel campaigns",
+            "text": "Use Flash Sale for sustained value communication and discovery, and a major low-price campaign for coherent pricing, eligibility, stock and totals across shopping."
+          },
+          {
+            "title": "Retention | Provide a reason to return",
+            "text": "Use fresh products, offers and content to support revisits. This describes product intent and mechanisms; measured feature-level retention results have not been supplied."
+          }
+        ]
+      },
+      "strategy": {
+        "zh": [
+          {
+            "title": "Product Value First｜迁移前先给出理由",
+            "text": "通过真实商品与价格让用户感知 Savana 的价值，再引导进入新 App。跨品牌获客围绕商品兴趣与品牌认知组织，而非只依赖下载指令。"
+          },
+          {
+            "title": "Low Friction × Immediate Reward｜让迁移连接激活",
+            "text": "账户授权减少重复注册操作，Welcome Coupon 则为继续浏览与购买提供即时动机。分别处理登录与权益结果，减少失败恢复时的不必要操作。"
+          },
+          {
+            "title": "以时间、库存与价格组织促销决策",
+            "text": "Flash Sale 通过商品池、倒计时、库存与价格差形成购买理由，协调促销强度与品牌表达。具体规则和阈值依实际业务配置，避免把紧迫感建立在无效信息上。"
+          },
+          {
+            "title": "Full-funnel Consistency｜保护结算时的理解与信任",
+            "text": "大型活动需要在曝光、发现、商品、购物车、结算与结果中保持可解释的价格和资格信息。若规则变化，应说明受影响商品和金额，并提供重新确认路径。"
+          },
+          {
+            "title": "System-level Product Design｜沉淀可复用机制",
+            "text": "以获客、迁移、激活、转化与留存目标审视功能，将主路径、异常、组件和规则沉淀为可持续演进的产品能力，同时协调业务、用户、品牌和扩展需求。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Product value first | Give people a reason to move",
+            "text": "Create interest through real products and prices before inviting a move to the new app, connecting product discovery and brand understanding to acquisition."
+          },
+          {
+            "title": "Low friction × immediate reward | Connect migration to activation",
+            "text": "Authorization reduces repeated registration, while Welcome Coupon supplies an immediate reason to explore and buy. Separate account and entitlement outcomes to support recovery."
+          },
+          {
+            "title": "Use time, stock and price as decision information",
+            "text": "Flash Sale combines product selection, countdown, stock and price difference, balancing promotion with brand expression. Effective rules and thresholds must come from actual configuration."
+          },
+          {
+            "title": "Full-funnel consistency | Maintain understanding and trust",
+            "text": "Major promotions need explainable prices and eligibility from discovery through products, cart, checkout and results. Explain changes and provide a way to review affected items and totals."
+          },
+          {
+            "title": "System-level product design | Build reusable mechanisms",
+            "text": "Review features through acquisition, migration, activation, conversion and retention, turning paths, exceptions, components and rules into foundations that balance business, users, brand and scalability."
+          }
+        ]
+      },
+      "role": {
+        "zh": [
+          {
+            "title": "Business Understanding & Product Definition",
+            "text": "理解品牌拆分、目标人群与冷启动目标，参与并主导核心增长功能定义、体验机制和产品边界。"
+          },
+          {
+            "title": "Growth & UX Strategy",
+            "text": "围绕 Acquisition、Migration、Activation、Conversion、Retention 建立体验框架，定义 Urbanic → Savana → 登录 → 购物 → 购买的路径。"
+          },
+          {
+            "title": "Interaction Design",
+            "text": "组织主流程、状态体系、异常与反馈，关注跨端跳转、授权账户、优惠券、限时商品与全链路活动规则之间的衔接。"
+          },
+          {
+            "title": "UI、Brand & Design System",
+            "text": "作为核心设计输出人，推进品牌与界面体系、UX 规范及营销产品表达，将具体设计判断沉淀为团队可复用的组件与规则。"
+          },
+          {
+            "title": "复用与重建判断｜支撑短周期交付",
+            "text": "在团队平台复用策略下，判断核心 UX 的保留与优化边界，主导品牌与 UI 重建及增长功能定制；以设计体系和优先级协调多页面交付，并与产品、开发并行推进。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Business understanding & product definition",
+            "text": "Understand brand separation, audiences and the cold start; help define and lead growth feature scope, mechanisms and experience boundaries."
+          },
+          {
+            "title": "Growth & UX strategy",
+            "text": "Shape an experience framework around acquisition, migration, activation, conversion and retention, covering Urbanic, Savana entry, account access, shopping and purchasing."
+          },
+          {
+            "title": "Interaction design",
+            "text": "Define main paths, states, exceptions and feedback across handoffs, accounts, coupons, timed offers and full-funnel campaigns."
+          },
+          {
+            "title": "UI, brand & design systems",
+            "text": "As a core design owner, develop brand and UI systems, UX guidelines and marketing product expression, capturing decisions as reusable components and rules."
+          },
+          {
+            "title": "Reuse and rebuilding decisions | Supporting delivery",
+            "text": "Within the team’s platform reuse strategy, prioritize UX retention and refinement, lead brand and UI rebuilding and growth customization, and use systems and priorities to coordinate delivery alongside product and engineering."
+          }
+        ]
+      },
+      "uiux": {
+        "zh": "按 App 设计与 Flash Sale 分组收录原始项目展示图。App 设计包含品牌规范、线框图、组件及核心页面；Flash Sale 包含目标策略、调研、交互结构、视觉设计和活动页面。图片按原文件编号排列，可在当前页点击放大并左右切换。",
+        "en": "Original project boards are grouped into App Design and Flash Sale. App Design covers brand foundations, wireframes, components and core screens. Flash Sale covers goals, research, interaction structure, visual design and campaign screens. Images follow the source numbering and can be enlarged and navigated on this page."
+      },
+      "outcome": {
+        "zh": [
+          {
+            "title": "App 设计至正式上线｜不到两个月",
+            "text": "基于 Urbanic 成熟平台、核心 UX 复用、Savana 品牌与 UI 重建、增长功能定制，以及设计、产品和开发并行协作，团队在不到两个月内完成 App 从设计到正式上线。该周期是整体团队交付成果，未据此推导分项效率或成本节省。"
+          },
+          {
+            "title": "上线第 48 天｜单一市场日销量突破 5 万件",
+            "text": "据项目方提供的业绩资料，单一市场在上线第 48 天达到日销量超过 50,000 件。该指标反映项目业务规模，属于多团队共同推动的成果。"
+          },
+          {
+            "title": "上线第 50 天｜单一市场 DAU 突破 100 万",
+            "text": "据提供资料，上线第 50 天日活跃用户超过 1,000,000。当前资料未提供统计日期、具体市场与归因拆解，后续可补充原始报表。"
+          },
+          {
+            "title": "设计贡献｜从页面输出到增长机制与体验基础",
+            "text": "我的贡献覆盖业务理解、产品定义、UX 策略、交互与品牌界面，以及可复用体系建设。四项增长能力与 Brand / UI / UX 体系共同支撑 0→1 产品落地和后续演进。整体业绩属于多团队共同成果，尚无单项功能归因与留存实测结果。"
+          }
+        ],
+        "en": [
+          {
+            "title": "App design to production launch | Less than two months",
+            "text": "The team delivered the app from design to production launch in less than two months through platform and UX reuse, independent brand and UI, customized growth features and parallel collaboration. This is a shared delivery outcome, not a quantified claim about isolated efficiency or cost savings."
+          },
+          {
+            "title": "Day 48 | Over 50,000 items sold per day in one market",
+            "text": "Project-provided results report over 50,000 items sold daily in one market by day 48 after launch. This is a shared business outcome across teams."
+          },
+          {
+            "title": "Day 50 | Over 1 million daily active users in one market",
+            "text": "Supplied results report over 1,000,000 DAU by day 50. Calendar dates, the named market and attribution details have not yet been provided."
+          },
+          {
+            "title": "Design contribution | Growth mechanisms and experience foundations",
+            "text": "My contribution spanned business understanding, product definition, UX strategy, interaction and brand / UI systems. Four growth capabilities and reusable foundations supported product launch and evolution. Overall results belong to multiple teams; feature attribution and measured retention outcomes have not been supplied."
+          }
+        ]
+      },
+      "audience": {
+        "zh": "早期规划以年轻女性为核心，相比 Urbanic 存量用户，Savana 的目标年龄向更年轻人群延伸。她们希望在可承受的预算内获得时尚选择，并同时关注品质与自我表达。",
+        "en": "The early plan centered on younger women, extending to a younger audience than Urbanic’s existing base. The proposition combined accessible fashion choices with attention to quality and self-expression."
+      },
+      "keywords": {
+        "zh": [
+          {
+            "title": "自信｜SELF-BELIEF",
+            "text": "帮助用户在可负担的时尚选择中表达自我。设计转译方向：通过有态度的影像、清楚的风格表达与稳定的品牌语言，传递自主选择的信心。"
+          },
+          {
+            "title": "品质｜QUALITY",
+            "text": "将品质作为品牌价值的一部分。设计转译方向：重视商品图片、材质细节、信息层级与界面完成度，帮助用户理解商品价值。"
+          },
+          {
+            "title": "性价比｜COST-EFFECTIVENESS",
+            "text": "让时尚与品质感对更广泛预算保持可及。设计转译方向：清楚呈现价格、优惠和购买条件，让价格优势易于理解，并与品牌表达协调。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Self-belief",
+            "text": "Support self-expression through accessible fashion choices. Design direction: expressive imagery, clear style communication and a recognizable brand language that supports confidence in personal choices."
+          },
+          {
+            "title": "Quality",
+            "text": "Keep quality central to the proposition. Design direction: considered product imagery, material details, information hierarchy and interface craft that help communicate product value."
+          },
+          {
+            "title": "Cost-effectiveness",
+            "text": "Make fashion and a sense of quality accessible across budgets. Design direction: clear prices, offers and purchase conditions that communicate value coherently with the brand."
+          }
+        ]
+      },
+      "features": {
+        "zh": [
+          {
+            "title": "01｜Cross-brand Acquisition：先感知价值，再迁移",
+            "text": "Urbanic 核心页面设置 Savana 商品专区，先通过商品、价格、风格与品牌视觉建立兴趣，再推动 App 获取。产品路径区分已安装与未安装：已安装通过 Deep Link 唤起 Savana；未安装前往 App Store / Google Play 下载后首次打开。覆盖 iOS / Android、跳转失败、商品下架、活动结束与网络异常；安装识别与失败兜底的具体技术方案仍待核对。"
+          },
+          {
+            "title": "02｜Seamless Migration：授权、一键登录与即时激励",
+            "text": "Urbanic 老用户在 Savana 完成账户授权后，一键登录并自动关联或创建 Savana 账户，登录成功后获得 Welcome Coupon。体验从授权、登录、发券反馈延伸到 Shop Now、商品浏览、加购、用券与结算。设计重点是减少重复注册操作，以即时权益承接购物动机；同时覆盖拒绝授权、Token 失效、账户冲突、手机号重复及优惠券异常。"
+          },
+          {
+            "title": "03｜Flash Sale：长期存在的促销产品",
+            "text": "Flash Sale 位于首页核心流量位置，以有限商品池、限时优惠、库存状态及原价 / 特价信息组织商品决策。路径覆盖首页入口、Flash Sale Feed、商品详情、规格、加购、购物车与结算；状态包含 Upcoming、Active、Ending Soon、Sold Out、商品禁用、倒计时结束、变价、活动结束与刷新。它服务流量、价格认知、转化和再次访问目标，具体时长、库存及保价规则待确认。"
+          },
+          {
+            "title": "04｜Mega Promotion：贯穿 App 的低价增长 Campaign",
+            "text": "早期大型低价增长活动内部以“1 元购”为核心概念，覆盖 Home、PLP、PDP、Cart、Checkout、Payment 与 Order Success。设计通过统一活动标识、原价 / 活动价层级、资格、库存、限购、时间及冲突反馈，让前期看到的价格承诺能在结算时被理解。关注活动失效、促销库存售罄、资格不符、变价、券冲突与支付失败；币种和参数仍需补充。"
+          }
+        ],
+        "en": [
+          {
+            "title": "01 | Cross-brand acquisition: value before migration",
+            "text": "A Savana product zone in Urbanic builds interest through products, price, style and brand expression before app acquisition. The defined paths use Deep Link for installed users and App Store / Google Play followed by first open for others. Scope includes iOS / Android, failed handoffs, removed products, ended offers and network errors; technical detection and fallback details still require verification."
+          },
+          {
+            "title": "02 | Seamless migration: authorization, login and reward",
+            "text": "After Urbanic authorization, customers use one-tap login with automatic Savana account association or creation and receive a Welcome Coupon. The journey extends through feedback, Shop Now, browsing, adding to bag, coupon use and checkout. It addresses repeated registration and includes consent rejection, expired tokens, account or phone conflicts and coupon exceptions."
+          },
+          {
+            "title": "03 | Flash Sale: an always-on marketing product",
+            "text": "A core homepage destination uses a curated product pool, time limits, stock status and original / sale prices to support decisions. Its journey covers entry, Flash Sale Feed, product detail, options, bag, cart and checkout. States include Upcoming, Active, Ending Soon, Sold Out, disabled products, countdown end, price changes, campaign end and refresh. It supports traffic, value perception, conversion and revisits; durations, stock and price-hold rules remain open."
+          },
+          {
+            "title": "04 | Mega promotion: a full-funnel low-price campaign",
+            "text": "An early major campaign used “1-yuan purchase” as its internal concept across Home, PLP, PDP, Cart, Checkout, Payment and Order Success. Shared identity, price hierarchy, qualification, stock, limits, timing and conflict feedback keep earlier offers understandable at checkout. Scope includes expiry, promotional sellout, ineligibility, price changes, coupon conflicts and payment failure; currency and numeric parameters remain open."
+          }
+        ]
+      },
+      "prd": {
+        "zh": "总览与四份功能 PRD 已更新至 V0.3，纳入 Product Value First、授权迁移与 Welcome Coupon、Flash Sale 的时间 / 库存 / 价格机制，以及 Mega Promotion 全链路一致性。功能确认依据项目描述，具体参数与建议规则单独标注。",
+        "en": "The overview and four feature PRDs are now V0.3, covering Product Value First, authorized migration and Welcome Coupon, Flash Sale time / stock / price mechanisms, and full-funnel Mega Promotion. Confirmed scope comes from the project account; parameters and proposals remain distinguished."
+      },
+      "flow": {
+        "zh": "整体关系图、四项功能流程图与 1 元购页面覆盖图。",
+        "en": "An overview, four feature flows and a campaign page coverage map."
+      },
+      "architecture": {
+        "zh": "基于成熟平台，在不到两个月内交付独立品牌 App。团队采用 Platform Reuse + Experience Customization：复用 Urbanic 的技术与交易能力，继承并优化核心购物 UX，重新建立品牌与 UI 体系，并围绕冷启动定制增长产品。",
+        "en": "Deliver an independent brand app in less than two months using Platform Reuse + Experience Customization: reuse Urbanic’s technology and commerce capabilities, retain and refine proven shopping UX, rebuild brand and UI, and customize growth products for the cold start."
+      },
+      "followup": {
+        "zh": "我的核心工作集中在 Savana 早期 0→1 的产品定义、品牌体验、UI / UX 基础、增长功能与购物体验建设。完成早期工作并离开项目后，后续团队继续运营和迭代。以下公开信息用于呈现品牌此后的发展，后续业务增长不直接归因于我的设计工作。",
+        "en": "My core work focused on Savana’s early 0→1 product definition, brand experience, UI / UX foundations, growth features and commerce. After my departure, subsequent teams continued operations and iteration. The public information below provides context on the brand’s later development; that growth is not directly attributed to my design work."
+      },
+      "mrd": {
+        "zh": "精简 MRD 从品牌升级与客群分层出发，连接目标需求、冷启动挑战、已有资源、四项增长策略与成功标准。基于早期资料回溯整理，不用后续业绩反推立项判断。",
+        "en": "A concise MRD connects brand evolution and audience differentiation to needs, cold-start challenges, available resources, growth strategies and success criteria, reconstructed from early material rather than justified by later results."
+      }
+    },
+    "caseSections": [
+      "background",
+      "audience",
+      "mrd",
+      "keywords",
+      "goals",
+      "architecture",
+      "strategy",
+      "features",
+      "prd",
+      "flow",
+      "role",
+      "uiux",
+      "outcome",
+      "followup"
+    ],
+    "cardSections": [
+      "strategy",
+      "role",
+      "uiux",
+      "outcome"
+    ],
+    "resources": [
+      {
+        "section": "mrd",
+        "type": "document",
+        "title": {
+          "zh": "Savana｜市场需求 MRD（精简版）",
+          "en": "Savana | Concise Market Requirements Document"
+        },
+        "url": "projects/savana-digital-experience/docs/market-mrd-zh.md",
+        "defaultOpen": true
+      },
+      {
+        "section": "prd",
+        "type": "document",
+        "title": {
+          "zh": "总览 PRD｜0→1 Growth Product System",
+          "en": "Overview PRD | 0→1 Growth Product System"
+        },
+        "url": "projects/savana-digital-experience/docs/overview-prd-zh.md",
+        "defaultOpen": true
+      },
+      {
+        "section": "prd",
+        "type": "document",
+        "title": {
+          "zh": "功能 PRD 01｜Urbanic 跨品牌导流",
+          "en": "Feature PRD 01 | Urbanic cross-brand acquisition"
+        },
+        "url": "projects/savana-digital-experience/docs/cross-brand-prd-zh.md",
+        "defaultOpen": false
+      },
+      {
+        "section": "prd",
+        "type": "document",
+        "title": {
+          "zh": "功能 PRD 02｜老客授权登录与发券",
+          "en": "Feature PRD 02 | Customer authorization and coupons"
+        },
+        "url": "projects/savana-digital-experience/docs/authorization-prd-zh.md",
+        "defaultOpen": false
+      },
+      {
+        "section": "prd",
+        "type": "document",
+        "title": {
+          "zh": "功能 PRD 03｜首页 Flash Sale",
+          "en": "Feature PRD 03 | Homepage Flash Sale"
+        },
+        "url": "projects/savana-digital-experience/docs/flash-sale-prd-zh.md",
+        "defaultOpen": false
+      },
+      {
+        "section": "prd",
+        "type": "document",
+        "title": {
+          "zh": "功能 PRD 04｜Mega Promotion 低价增长活动",
+          "en": "Feature PRD 04 | Mega Promotion"
+        },
+        "url": "projects/savana-digital-experience/docs/storewide-prd-zh.md",
+        "defaultOpen": false
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "Savana App｜0→1 设计展示",
+          "en": "Savana App | 0→1 Design Presentation"
+        },
+        "url": "projects/savana-digital-experience/app-design/01.webp",
+        "width": 2880,
+        "height": 3240,
+        "groupStart": {
+          "zh": "App 设计",
+          "en": "App Design"
+        },
+        "groupId": "savana-app-design"
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "设计关键词与字体",
+          "en": "Design Keywords and Typography"
+        },
+        "url": "projects/savana-digital-experience/app-design/03.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "品牌色彩体系",
+          "en": "Brand Color System"
+        },
+        "url": "projects/savana-digital-experience/app-design/04.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "线框图与布局",
+          "en": "Wireframes and Layout"
+        },
+        "url": "projects/savana-digital-experience/app-design/05.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "组件化设计",
+          "en": "Component-based Design"
+        },
+        "url": "projects/savana-digital-experience/app-design/06.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "App 图标与品牌应用",
+          "en": "App Icon and Brand Applications"
+        },
+        "url": "projects/savana-digital-experience/app-design/07.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "App 界面场景",
+          "en": "App Interface in Context"
+        },
+        "url": "projects/savana-digital-experience/app-design/08.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "首页设计",
+          "en": "Homepage Design"
+        },
+        "url": "projects/savana-digital-experience/app-design/09.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "核心页面与交互展示",
+          "en": "Core Screens and Interaction Presentation"
+        },
+        "url": "projects/savana-digital-experience/app-design/10.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "上线初期数据｜原始项目资料",
+          "en": "Early Launch Figures | Original Project Material"
+        },
+        "url": "projects/savana-digital-experience/app-design/11.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "Flash Sale｜项目概览",
+          "en": "Flash Sale | Project Overview"
+        },
+        "url": "projects/savana-digital-experience/flash-sale/01.webp",
+        "width": 2880,
+        "height": 3240,
+        "groupStart": {
+          "zh": "Flash Sale 项目展示",
+          "en": "Flash Sale Project Presentation"
+        },
+        "groupId": "savana-flash-sale"
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "目标与策略",
+          "en": "Goals and Strategy"
+        },
+        "url": "projects/savana-digital-experience/flash-sale/02.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "竞品调研",
+          "en": "Competitive Research"
+        },
+        "url": "projects/savana-digital-experience/flash-sale/03.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "页面结构分析",
+          "en": "Page Structure Analysis"
+        },
+        "url": "projects/savana-digital-experience/flash-sale/04.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "视觉概念与表达",
+          "en": "Visual Concept"
+        },
+        "url": "projects/savana-digital-experience/flash-sale/05.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "图形标识与色彩",
+          "en": "Graphic Identity and Colors"
+        },
+        "url": "projects/savana-digital-experience/flash-sale/06.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "交互结构",
+          "en": "Interaction Structure"
+        },
+        "url": "projects/savana-digital-experience/flash-sale/07.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "首页活动入口",
+          "en": "Homepage Campaign Entry"
+        },
+        "url": "projects/savana-digital-experience/flash-sale/08.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "Flash Sale 列表与商品展示",
+          "en": "Flash Sale Product Browsing"
+        },
+        "url": "projects/savana-digital-experience/flash-sale/09.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "商品详情与购物车",
+          "en": "Product Detail and Cart"
+        },
+        "url": "projects/savana-digital-experience/flash-sale/10.webp",
+        "width": 2880,
+        "height": 3240
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "活动数据｜原始项目资料",
+          "en": "Campaign Figures | Original Project Material"
+        },
+        "url": "projects/savana-digital-experience/flash-sale/11.webp",
+        "width": 2880,
+        "height": 3240
+      }
+    ],
+    "audienceProfiles": [
+      {
+        "title": {
+          "zh": "Urbanic｜存量用户",
+          "en": "Urbanic | Existing users"
+        },
+        "segments": [
+          {
+            "age": "18–25",
+            "value": 40
+          },
+          {
+            "age": "26–35",
+            "value": 40
+          },
+          {
+            "age": "36–45",
+            "value": 20
+          }
+        ],
+        "description": {
+          "zh": "原始资料中，18–35 岁女性合计占 80%。",
+          "en": "In the supplied historical material, women aged 18–35 accounted for 80%."
+        }
+      },
+      {
+        "title": {
+          "zh": "Savana｜目标人群",
+          "en": "Savana | Target audience"
+        },
+        "segments": [
+          {
+            "age": "16–24",
+            "value": 40
+          },
+          {
+            "age": "25–32",
+            "value": 45
+          },
+          {
+            "age": "32–40",
+            "value": 15
+          }
+        ],
+        "description": {
+          "zh": "目标结构向更年轻的女性延伸，以更易负担的价格支持时尚消费。",
+          "en": "The target extended toward younger women, with accessible prices intended to support fashion purchases."
+        }
+      }
+    ],
+    "architectureData": {
+      "context": {
+        "zh": "周期指 App 设计开始至正式上线，未提供逐阶段排期。平台复用是团队共同采用的产品与技术策略；我作为 Product Design Lead，主导相关体验取舍、品牌与 UI 重建及增长功能设计。",
+        "en": "The period runs from the start of app design to production launch; no stage-by-stage schedule was supplied. Platform reuse was a shared product and technology strategy. My Product Design Lead role centered on experience prioritization, brand and UI rebuilding, and growth feature design."
+      },
+      "layers": [
+        {
+          "action": "REUSE",
+          "title": {
+            "zh": "技术基础｜高度复用",
+            "en": "Technology foundation | Extensive reuse"
+          },
+          "summary": {
+            "zh": "复用 Urbanic 已验证的基础能力与 App 技术框架，减少重复建设成熟交易能力。",
+            "en": "Reuse Urbanic’s established capabilities and app framework rather than rebuilding mature commerce foundations."
+          },
+          "scope": {
+            "zh": "账户基础设施 · 商品数据 · 购物车 · Checkout · 支付 · 订单 · 库存 · 搜索 · 推荐 · 后台基础设施 · App 技术框架",
+            "en": "Account infrastructure · Product data · Cart · Checkout · Payment · Orders · Inventory · Search · Recommendation · Backend · App framework"
+          }
+        },
+        {
+          "action": "OPTIMIZE",
+          "title": {
+            "zh": "核心 UX｜继承与优化",
+            "en": "Core UX | Retain and refine"
+          },
+          "summary": {
+            "zh": "保留成熟购物模型，根据更年轻、移动优先和趋势驱动的人群特征，优化信息结构、浏览与操作细节。",
+            "en": "Retain proven shopping patterns while refining information, browsing and interactions for a younger, mobile-first, trend-driven audience."
+          },
+          "scope": {
+            "zh": "商品浏览 · 搜索与筛选 · PDP · 购物车 · Checkout · 订单",
+            "en": "Browsing · Search and filters · PDP · Cart · Checkout · Orders"
+          }
+        },
+        {
+          "action": "CUSTOMIZE",
+          "title": {
+            "zh": "UI 与品牌｜全面重建",
+            "en": "UI and brand | Rebuild"
+          },
+          "summary": {
+            "zh": "由我主导建立独立的品牌视觉与 UI 体系，让用户清楚感知 Savana 的品牌语言和产品气质。",
+            "en": "I led an independent visual language and UI system so Savana could express its own identity and product character."
+          },
+          "scope": {
+            "zh": "字体 · 色彩 · 版式 · 组件外观 · 商品卡片 · 导航 · 促销视觉 · 图片比例 · 内容层级 · 动效与反馈",
+            "en": "Typography · Color · Layout · Component appearance · Product cards · Navigation · Promotion visuals · Image ratios · Hierarchy · Motion and feedback"
+          }
+        },
+        {
+          "action": "INNOVATE",
+          "title": {
+            "zh": "增长产品｜按业务定制",
+            "en": "Growth products | Customize for the business"
+          },
+          "summary": {
+            "zh": "针对 Savana 冷启动与增长目标，定义并设计跨品牌获客、迁移激活与促销转化能力。",
+            "en": "Define and design acquisition, migration, activation and promotional conversion capabilities for Savana’s cold start and growth."
+          },
+          "scope": {
+            "zh": "Urbanic 导流 · 授权登录与 Welcome Coupon · Flash Sale · Mega Promotion",
+            "en": "Urbanic acquisition · Authorized login and Welcome Coupon · Flash Sale · Mega Promotion"
+          }
+        }
+      ],
+      "decisions": [
+        [
+          {
+            "zh": "Checkout 核心逻辑",
+            "en": "Core checkout logic"
+          },
+          {
+            "zh": "保留",
+            "en": "Retain"
+          },
+          {
+            "zh": "成熟且涉及高风险交易节点，优先沿用经过验证的 UX 模型。",
+            "en": "A mature, high-risk transaction stage benefits from a proven UX model."
+          },
+          {
+            "zh": "保持交易路径稳定，协调新品牌界面呈现。",
+            "en": "Preserve the transaction path while coordinating the new interface."
+          }
+        ],
+        [
+          {
+            "zh": "商品浏览",
+            "en": "Product browsing"
+          },
+          {
+            "zh": "保留模型，优化体验",
+            "en": "Retain model, refine experience"
+          },
+          {
+            "zh": "基础逻辑成熟，人群、趋势内容与移动使用特征存在差异。",
+            "en": "Established logic needs to fit a different audience, trend content and mobile use."
+          },
+          {
+            "zh": "优化信息层级、图片比例、浏览节奏与交互细节。",
+            "en": "Refine hierarchy, imagery ratios, browsing rhythm and interaction details."
+          }
+        ],
+        [
+          {
+            "zh": "品牌与 UI",
+            "en": "Brand and UI"
+          },
+          {
+            "zh": "重新建立",
+            "en": "Rebuild"
+          },
+          {
+            "zh": "直接影响新品牌识别与用户感知，需要形成独立表达。",
+            "en": "An independent expression is essential to brand recognition and perception."
+          },
+          {
+            "zh": "主导视觉语言、组件外观与多场景界面体系。",
+            "en": "Lead visual language, component appearance and cross-scenario interfaces."
+          }
+        ],
+        [
+          {
+            "zh": "增长功能",
+            "en": "Growth features"
+          },
+          {
+            "zh": "定制",
+            "en": "Customize"
+          },
+          {
+            "zh": "直接回应 Savana 获客、迁移、激活与转化目标。",
+            "en": "Directly addresses Savana acquisition, migration, activation and conversion."
+          },
+          {
+            "zh": "定义机制、主路径、状态与异常反馈。",
+            "en": "Define mechanisms, paths, states and recovery feedback."
+          }
+        ]
+      ],
+      "delivery": [
+        {
+          "title": {
+            "zh": "成熟平台",
+            "en": "Established platform"
+          },
+          "text": {
+            "zh": "复用技术与商业基础，集中处理新品牌需要解决的问题。",
+            "en": "Reuse technology and commerce foundations to focus on the new brand’s needs."
+          }
+        },
+        {
+          "title": {
+            "zh": "UX 复用",
+            "en": "UX reuse"
+          },
+          "text": {
+            "zh": "继承有效购物模型，减少成熟路径的重复定义。",
+            "en": "Retain effective shopping models and reduce repeated definition work."
+          }
+        },
+        {
+          "title": {
+            "zh": "UI 设计体系",
+            "en": "UI design system"
+          },
+          "text": {
+            "zh": "统一字体、色彩、间距、组件、状态与购物模式，支撑多页面重建。",
+            "en": "Align typography, color, spacing, components, states and commerce patterns across pages."
+          }
+        },
+        {
+          "title": {
+            "zh": "产品优先级",
+            "en": "Product prioritization"
+          },
+          "text": {
+            "zh": "持续判断复用、优化、重建与定制的边界，聚焦关键差异。",
+            "en": "Decide what to reuse, refine, rebuild or customize and focus on meaningful differences."
+          }
+        },
+        {
+          "title": {
+            "zh": "跨职能并行",
+            "en": "Cross-functional collaboration"
+          },
+          "text": {
+            "zh": "设计、产品与开发并行协作，对齐规则、组件与交付边界。",
+            "en": "Design, product and engineering work in parallel on rules, components and delivery boundaries."
+          }
+        }
+      ],
+      "systemNote": {
+        "zh": "设计体系在本项目中同时承担交付工具的角色，让页面共用规则，支持设计、开发与验收沟通。当前资料没有提供分项提效比例、成本节省或各阶段耗时，不补写数字。",
+        "en": "The design system also served as a delivery tool, giving pages shared rules and supporting design, engineering and review. No isolated efficiency percentages, cost savings or stage durations were provided."
+      }
+    },
+    "followupData": {
+      "metrics": [
+        {
+          "value": "~200%",
+          "title": {
+            "zh": "关键业务指标同比增长",
+            "en": "Year-on-year growth across key metrics"
+          },
+          "type": {
+            "zh": "品牌方受访披露",
+            "en": "Reported in a brand interview"
+          },
+          "date": {
+            "zh": "采访发布：2026-04-28",
+            "en": "Interview published: Apr 28, 2026"
+          },
+          "text": {
+            "zh": "Savana Founding Partner Rahul Dayama 在采访中称，营收、获客和订单量等关键指标同比增长约 200%。",
+            "en": "Founding Partner Rahul Dayama reported around 200% year-on-year growth across key metrics including revenue, customer acquisition and order volumes."
+          },
+          "source": "Business Today",
+          "url": "https://www.businesstoday.in/lifestyle/fashion/story/inside-savanas-gen-z-playbook-rahul-dayama-on-consumer-first-approach-building-a-data-first-brand-and-the-new-language-of-fashion-527843-2026-04-28"
+        },
+        {
+          "value": "~28M",
+          "title": {
+            "zh": "Android 应用累计安装估算",
+            "en": "Estimated cumulative Android installs"
+          },
+          "type": {
+            "zh": "第三方估算 · 非独立用户数",
+            "en": "Third-party estimate · not unique users"
+          },
+          "date": {
+            "zh": "数据快照：2026-10-25",
+            "en": "Data snapshot: Oct 25, 2026"
+          },
+          "text": {
+            "zh": "AppBrain 显示对应 Android 应用累计安装约 2,800 万次，近 30 天约 170 万次。该数字并非仅印度安装量，也不等同于活跃用户或公司披露数据。",
+            "en": "AppBrain lists approximately 28 million cumulative installs and 1.7 million in the preceding 30 days for the Android app. These are not India-only installs, active users or company-reported figures."
+          },
+          "source": "AppBrain",
+          "url": "https://www.appbrain.com/app/savana-uk-fashion/com.savana.in"
+        },
+        {
+          "value": "~3.25M",
+          "title": {
+            "zh": "网站月访问量估算",
+            "en": "Estimated monthly website visits"
+          },
+          "type": {
+            "zh": "第三方估算 · 访问次数",
+            "en": "Third-party estimate · visits"
+          },
+          "date": {
+            "zh": "统计月份：2026-09",
+            "en": "Reporting month: Sep 2026"
+          },
+          "text": {
+            "zh": "Semrush 估算 savana.com 当月约 325 万次访问，印度占 94.09%；印度访问量中约 91.2% 来自移动设备。访问次数不等于独立访客数。",
+            "en": "Semrush estimates 3.25 million visits to savana.com that month, with 94.09% from India. Mobile devices accounted for 91.2% of India visits. Visits are not unique visitors."
+          },
+          "source": "Semrush",
+          "url": "https://www.semrush.com/website/savana.com/overview/"
+        }
+      ],
+      "lookback": {
+        "zh": "在 2026 年重新体验 Savana 时，我观察到部分早期参与建立的页面结构、导航与购物模式仍具有延续性，并在后续团队的工作中继续演进。这是一次个人的产品回看；它让我更关注早期设计能否为后续迭代提供清楚、可扩展的基础。",
+        "en": "When revisiting Savana in 2026, I observed continuity in some page structures, navigation and shopping patterns I had helped establish, alongside the subsequent team’s evolution of the product. This is a personal product reflection, reinforcing the importance of clear, extensible foundations for later iteration."
+      },
+      "note": {
+        "zh": "来源核对：2026-10-26。以上为注明日期的公开信息快照，各指标口径不同，不能相加或换算为个人设计带来的增长。",
+        "en": "Sources checked: Oct 26, 2026. These are dated public snapshots with different definitions; they cannot be combined or converted into growth attributable to my design."
+      }
+    },
+    "featured": true,
+    "homepagePriority": 0
+  },
+  {
+    "id": "disney-scan-ordering",
+    "category": "project",
+    "formats": [
+      "project"
+    ],
+    "art": "disney",
+    "title": {
+      "zh": "上海迪士尼 App｜扫码点餐体验设计",
+      "en": "Shanghai Disney App | QR Ordering Experience"
+    },
+    "domain": {
+      "zh": "上海迪士尼 / 园区扫码点餐",
+      "en": "Shanghai Disney Resort / In-park QR ordering"
+    },
+    "summary": {
+      "zh": "主导上海迪士尼 App 内嵌扫码点餐项目，以设计团队负责人身份推进本土化体验，支持中英双语，并直接与美国迪士尼团队协同。",
+      "en": "Led the embedded QR ordering experience for the Shanghai Disney app as design team lead, shaping a localized Chinese and English service in direct collaboration with the U.S. Disney team."
+    },
+    "focus": {
+      "zh": "设计团队负责人 · 项目主导 · 中英双语 · 跨国协作",
+      "en": "Design Team Lead · Project Leadership · Chinese & English · Global Collaboration"
+    },
+    "sections": {
+      "zh": [
+        [
+          "从园区扫码进入点餐体验",
+          "项目服务于上海迪士尼园区商家的扫码点餐业务。游客通过扫码进入 App 内的 HTML 点餐页面，项目围绕本地餐饮场景梳理从进入服务到浏览、选择餐品的数字体验。"
+        ],
+        [
+          "全球产品框架中的本土化服务",
+          "体验需要适配上海园区游客的使用习惯，同时支持中文与英文，并与迪士尼 App 的整体服务保持连贯。设计工作需要兼顾本地业务表达、双语信息和内嵌页面的使用边界。"
+        ],
+        [
+          "由设计负责人推动跨团队交付",
+          "我以设计团队负责人的身份主导项目，确定体验方向并带领团队推进设计交付；同时直接与美国迪士尼团队协同办公，围绕项目方案沟通并对齐设计工作。"
+        ]
+      ],
+      "en": [
+        [
+          "From an in-park scan to an ordering experience",
+          "The project supports QR ordering for merchants inside Shanghai Disney Resort. Guests enter an HTML ordering experience embedded in the Disney app, with the design focused on the local dining context and the journey into menu browsing and item selection."
+        ],
+        [
+          "Local service within a global product",
+          "The experience needed to fit Shanghai park visitors, support both Chinese and English, and remain coherent with the Disney app. Design decisions balanced local business needs, bilingual content and the boundaries of an embedded web experience."
+        ],
+        [
+          "Design leadership across teams",
+          "I led the project as design team lead, set the experience direction and guided the team through design delivery. I also worked directly with the U.S. Disney team to discuss the project and align design work."
+        ]
+      ]
+    },
+    "content": {
+      "background": {
+        "zh": "园区用餐是游客行程中的高频现场服务。扫码点餐将线下商家与移动端连接起来，要求用户能从现场入口顺利进入点餐体验，并在有限注意力下理解页面信息。项目通过 HTML 页面内嵌上海迪士尼 App，面向园区本地服务场景，同时需要照顾中文与英语游客。",
+        "en": "Dining is a frequent, on-site service during a park visit. QR ordering connects physical merchants with the mobile experience, so guests need a clear path from the in-park entry point into ordering. The HTML experience was embedded in the Shanghai Disney app and designed for the local park context in both Chinese and English."
+      },
+      "goals": {
+        "zh": [
+          {
+            "title": "承接园区扫码点餐业务",
+            "text": "围绕游客从现场扫码进入服务的情境，建立清楚的点餐体验路径。"
+          },
+          {
+            "title": "适配上海本地使用场景",
+            "text": "让信息表达与操作方式贴合园区商家及游客的实际点餐情境。"
+          },
+          {
+            "title": "支持中英双语体验",
+            "text": "确保不同语言用户都能理解页面信息并完成点餐操作。"
+          },
+          {
+            "title": "融入迪士尼 App 服务体系",
+            "text": "在 HTML 内嵌形式下保持入口、页面体验与 App 服务之间的衔接。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Support in-park QR ordering",
+            "text": "Create a clear path from scanning on site into the ordering service."
+          },
+          {
+            "title": "Fit the Shanghai park context",
+            "text": "Shape information and interactions around local merchants and guest dining scenarios."
+          },
+          {
+            "title": "Support Chinese and English",
+            "text": "Make the experience understandable and usable across both languages."
+          },
+          {
+            "title": "Fit within the Disney app",
+            "text": "Connect the embedded HTML experience with the wider app service."
+          }
+        ]
+      },
+      "strategy": {
+        "zh": [
+          {
+            "title": "从现场入口组织任务路径",
+            "text": "以游客扫码进入这一真实触点为起点，围绕点餐任务组织信息，让用户能够识别当前服务并继续浏览餐品。"
+          },
+          {
+            "title": "把双语作为体验基础",
+            "text": "中文与英文共同纳入页面信息规划，关注不同语言下的文字长度、层级和操作识别，避免语言切换破坏阅读节奏。"
+          },
+          {
+            "title": "处理内嵌页面的衔接关系",
+            "text": "在 HTML 页面承载业务内容的同时，关注它与原生 App 的入口和整体服务体验如何保持一致。"
+          },
+          {
+            "title": "用流程和界面推进跨团队沟通",
+            "text": "将业务流程、页面方案与关键说明整理为可讨论的设计材料，支持设计团队内部推进及与美国团队的协作。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Organize around the on-site entry point",
+            "text": "Start with the guest scanning a code and structure information around the ordering task, helping them identify the service and continue to the menu."
+          },
+          {
+            "title": "Build bilingual support into the experience",
+            "text": "Plan Chinese and English together, considering text length, hierarchy and action recognition in each language."
+          },
+          {
+            "title": "Connect the embedded page to the app",
+            "text": "Deliver the service in HTML while considering how its entry and overall experience fit the native app."
+          },
+          {
+            "title": "Use flows and screens to align teams",
+            "text": "Make business flows, page proposals and key notes tangible for the design team and collaboration with the U.S. team."
+          }
+        ]
+      },
+      "role": {
+        "zh": [
+          {
+            "title": "设计团队负责人",
+            "text": "以设计团队负责人身份统筹项目设计工作，明确体验方向并把控整体方案。"
+          },
+          {
+            "title": "项目主导与体验方向",
+            "text": "围绕上海园区扫码点餐目标，推动本土化业务体验与中英双语设计方向。"
+          },
+          {
+            "title": "跨国团队协同",
+            "text": "直接与美国迪士尼团队协同办公，沟通项目方案并推进设计工作对齐。"
+          },
+          {
+            "title": "团队设计交付",
+            "text": "带领设计团队推进项目设计，并结合流程、界面和展示材料呈现方案。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Design team lead",
+            "text": "Led the design team on the project, setting the experience direction and guiding the overall solution."
+          },
+          {
+            "title": "Project and experience leadership",
+            "text": "Advanced a localized, bilingual design direction around the Shanghai park’s QR ordering goals."
+          },
+          {
+            "title": "International collaboration",
+            "text": "Worked directly with the U.S. Disney team to discuss the project and align design work."
+          },
+          {
+            "title": "Team design delivery",
+            "text": "Guided the design team and brought the proposal together through flows, screens and presentation materials."
+          }
+        ]
+      },
+      "uiux": {
+        "zh": "本批展示资料包含项目展示页、点餐业务流程、页面方案与说明，以及 App 内页面呈现。点击图片可在当前页放大查看。",
+        "en": "This presentation set includes the project overview, ordering flow, page proposals and notes, and embedded app screens. Select an image to enlarge it on this page."
+      },
+      "outcome": {
+        "zh": [
+          {
+            "title": "形成园区扫码点餐设计方案",
+            "text": "围绕上海迪士尼本地餐饮场景，完成中英双语、HTML 内嵌 App 的点餐体验设计。"
+          },
+          {
+            "title": "呈现从流程到界面的设计过程",
+            "text": "项目材料覆盖业务流程、页面方案及 App 内界面展示，说明设计如何承接业务目标并转化为用户体验。"
+          },
+          {
+            "title": "体现负责人角色与跨团队推进",
+            "text": "以设计团队负责人身份主导项目，并与美国迪士尼团队直接协同，推进设计方向与交付。"
+          }
+        ],
+        "en": [
+          {
+            "title": "An in-park QR ordering design solution",
+            "text": "Designed a bilingual ordering experience for Shanghai Disney Resort, delivered as an HTML page embedded in the app."
+          },
+          {
+            "title": "A process from business flow to interface",
+            "text": "The presentation covers the ordering flow, page proposals and app screens, showing how the business goal translates into guest experience."
+          },
+          {
+            "title": "Leadership and cross-team delivery",
+            "text": "Led the design team and collaborated directly with the U.S. Disney team to move the design direction and deliverables forward."
+          }
+        ]
+      }
+    },
+    "caseSections": [
+      "background",
+      "goals",
+      "strategy",
+      "role",
+      "journey",
+      "interaction",
+      "uiux",
+      "outcome"
+    ],
+    "cardSections": [
+      "background",
+      "strategy",
+      "role",
+      "uiux",
+      "outcome"
+    ],
+    "resources": [
+      {
+        "section": "journey",
+        "type": "document",
+        "title": {
+          "zh": "扫码点餐｜用户体验地图",
+          "en": "QR Ordering | Experience Map"
+        },
+        "url": "projects/disney-scan-ordering/docs/journey-zh.md"
+      },
+      {
+        "section": "interaction",
+        "type": "document",
+        "title": {
+          "zh": "扫码点餐｜交互说明文档",
+          "en": "QR Ordering | Interaction Specification"
+        },
+        "url": "projects/disney-scan-ordering/docs/interaction-zh.md"
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "项目展示封面",
+          "en": "Project overview cover"
+        },
+        "url": "projects/disney-scan-ordering/presentation/01.webp"
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "迪士尼主题视觉",
+          "en": "Disney campaign visual"
+        },
+        "url": "projects/disney-scan-ordering/presentation/02.webp"
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "扫码点餐业务流程",
+          "en": "QR ordering business flow"
+        },
+        "url": "projects/disney-scan-ordering/presentation/03.webp"
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "页面方案与需求说明",
+          "en": "Page proposal and requirements"
+        },
+        "url": "projects/disney-scan-ordering/presentation/04.webp"
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "点餐页面展示",
+          "en": "Ordering page presentation"
+        },
+        "url": "projects/disney-scan-ordering/presentation/05.webp"
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "双语界面方案",
+          "en": "Bilingual interface proposal"
+        },
+        "url": "projects/disney-scan-ordering/presentation/06.webp"
+      },
+      {
+        "section": "uiux",
+        "type": "image",
+        "title": {
+          "zh": "App 内嵌展示场景",
+          "en": "Embedded app presentation"
+        },
+        "url": "projects/disney-scan-ordering/presentation/07.webp"
+      }
+    ]
+  },
+  {
     "id": "automotive-growth",
     "caseIndex": 0,
     "art": "automotive",
@@ -1854,7 +3162,8 @@ window.workCatalog=[
       "campaign",
       "packaging",
       "outcome"
-    ]
+    ],
+    "homepagePriority": 1
   },
   {
     "id": "juyuanshu-milk-container",
@@ -2082,7 +3391,7 @@ window.workCatalog=[
           "zh": "视觉方案手稿",
           "en": "Concept sketches"
         },
-        "url": "projects/juyuanshu-milk-container/sketches/04.webp",
+        "url": "projects/juyuanshu-milk-container/sketches/01.webp?v=sketch-replace-20261026",
         "archiveLabel": "JUYUANSHU / CONCEPT ARCHIVE",
         "groups": [
           {
@@ -2093,45 +3402,45 @@ window.workCatalog=[
             },
             "images": [
               {
-                "url": "projects/juyuanshu-milk-container/sketches/04.webp",
+                "url": "projects/juyuanshu-milk-container/sketches/01.webp?v=sketch-replace-20261026",
+                "title": {
+                  "zh": "方案手稿 · 01",
+                  "en": "Concept sketch · 01"
+                }
+              },
+              {
+                "url": "projects/juyuanshu-milk-container/sketches/02.webp?v=sketch-replace-20261026",
+                "title": {
+                  "zh": "方案手稿 · 02",
+                  "en": "Concept sketch · 02"
+                }
+              },
+              {
+                "url": "projects/juyuanshu-milk-container/sketches/03.webp?v=sketch-replace-20261026",
+                "title": {
+                  "zh": "方案手稿 · 03",
+                  "en": "Concept sketch · 03"
+                }
+              },
+              {
+                "url": "projects/juyuanshu-milk-container/sketches/04.webp?v=sketch-replace-20261026",
                 "title": {
                   "zh": "方案手稿 · 04",
                   "en": "Concept sketch · 04"
                 }
               },
               {
-                "url": "projects/juyuanshu-milk-container/sketches/05.webp",
+                "url": "projects/juyuanshu-milk-container/sketches/05.webp?v=sketch-replace-20261026",
                 "title": {
                   "zh": "方案手稿 · 05",
                   "en": "Concept sketch · 05"
                 }
               },
               {
-                "url": "projects/juyuanshu-milk-container/sketches/06.webp",
+                "url": "projects/juyuanshu-milk-container/sketches/06.webp?v=sketch-replace-20261026",
                 "title": {
                   "zh": "方案手稿 · 06",
                   "en": "Concept sketch · 06"
-                }
-              },
-              {
-                "url": "projects/juyuanshu-milk-container/sketches/07.webp",
-                "title": {
-                  "zh": "方案手稿 · 07",
-                  "en": "Concept sketch · 07"
-                }
-              },
-              {
-                "url": "projects/juyuanshu-milk-container/sketches/08.webp",
-                "title": {
-                  "zh": "方案手稿 · 08",
-                  "en": "Concept sketch · 08"
-                }
-              },
-              {
-                "url": "projects/juyuanshu-milk-container/sketches/12.webp",
-                "title": {
-                  "zh": "方案手稿 · 12",
-                  "en": "Concept sketch · 12"
                 }
               }
             ]

@@ -1,0 +1,4 @@
+window.renderSavanaFollowup=function(project,language){
+ const en=language==='en',data=project.followupData,esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ return `<p>${esc(project.content.followup[language])}</p><div class="sv-metrics">${data.metrics.map(metric=>`<article class="sv-metric"><span class="sv-type">${esc(metric.type[language])}</span><strong class="sv-number">${esc(metric.value)}</strong><h3>${esc(metric.title[language])}</h3><span class="sv-date">${esc(metric.date[language])}</span><p>${esc(metric.text[language])}</p><a class="sv-source" href="${esc(metric.url)}" target="_blank" rel="noopener noreferrer">${esc(metric.source)} ↗</a></article>`).join('')}</div><p class="sv-source-note">${esc(data.note[language])}</p><div class="sv-lookback"><h3>${en?'A brief product reflection':'一次简短的产品回看'}</h3><p>${esc(data.lookback[language])}</p></div>`;
+};

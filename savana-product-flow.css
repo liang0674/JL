@@ -1,0 +1,22 @@
+body[data-project="savana-digital-experience"] .spf-scroll{overflow-x:auto;background:#f7f7f7;border:1px solid #ccc;margin:24px 0 48px;scrollbar-width:thin}
+body[data-project="savana-digital-experience"] .spf-scroll svg{display:block;width:100%;min-width:920px;height:auto;color:#242424}
+.spf-node rect{fill:#fff;stroke:#777;stroke-width:1.4}.spf-decision rect{fill:#222;stroke:#222}.spf-node text{font:17px Arial,'PingFang SC',sans-serif;fill:#222}.spf-node .spf-sub{font-size:12px;fill:#666}.spf-decision text{fill:#fff}.spf-decision .spf-sub{fill:#ddd}.spf-edge{fill:none;stroke:currentColor;stroke-width:1.5}.spf-dashed{stroke-dasharray:6 5}.spf-edge-label{font:13px Arial,'PingFang SC',sans-serif;fill:#555;paint-order:stroke;stroke:#f7f7f7;stroke-width:5;stroke-linejoin:round}body[data-project="savana-digital-experience"] .spf-hint{font-size:13px;color:#777;line-height:1.8}
+body[data-project="savana-digital-experience"] .savana-flow-index{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 40px}
+body[data-project="savana-digital-experience"] .savana-flow-index a{display:inline-block;padding:10px 14px;border:1px solid #aaa;font-size:13px;line-height:1.5}
+body[data-project="savana-digital-experience"] .savana-flow-item{scroll-margin-top:30px;margin-top:48px}
+body[data-project="savana-digital-experience"] .savana-coverage-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1px;background:#bbb;border:1px solid #bbb;margin:28px 0}
+.savana-coverage-grid>div{padding:24px;background:#f7f7f7;min-width:0}.savana-coverage-grid small{font-size:12px;color:#777}.savana-coverage-grid h4{font-size:20px;margin:14px 0}.savana-coverage-grid p{font-size:14px!important;line-height:1.8!important;margin:0}
+@media(max-width:760px){body[data-project="savana-digital-experience"] .savana-coverage-grid{grid-template-columns:1fr}}
+body[data-project="savana-digital-experience"] details.savana-flow-item{border:1px solid #bbb;margin:24px 0;scroll-margin-top:30px}
+details.savana-flow-item>summary{display:flex;align-items:center;gap:16px;cursor:pointer;padding:24px;list-style:none;line-height:1.5;font-size:18px}
+details.savana-flow-item>summary::-webkit-details-marker{display:none}
+details.savana-flow-item>summary::before{content:'';display:block;flex:0 0 8px;width:8px;height:8px;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:rotate(-45deg)}
+details.savana-flow-item[open]>summary::before{transform:rotate(45deg)}
+details.savana-flow-item>summary>span{flex:1;min-width:0}
+details.savana-flow-item>summary>small{font-size:12px;font-weight:400;color:#777;white-space:nowrap}
+details.savana-flow-item>summary:hover{background:#e7e7e7}
+details.savana-flow-item[open]>summary{border-bottom:1px solid #bbb}
+body[data-project="savana-digital-experience"] details.savana-flow-item .spf-scroll{margin:0;border:0}
+body[data-project="savana-digital-experience"] details.savana-flow-item>p{margin:24px}
+body[data-project="savana-digital-experience"] details.savana-flow-item>.savana-coverage-grid{margin:24px}
+@media(max-width:760px){details.savana-flow-item>summary{padding:18px;font-size:16px;gap:12px}details.savana-flow-item>summary>small{font-size:10px}}

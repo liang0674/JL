@@ -1,0 +1,29 @@
+flowchart TD
+    A[Urbanic Savana product module] --> B[Select Savana destination]
+    B --> C{Configured navigation path}
+    C -->|App launch| D{Arrival confirmed?}
+    C -->|Marketplace| E[Marketplace / installation / manual open]
+    D -->|Yes| F[Savana landing]
+    D -->|Not confirmed| G[Retry / marketplace / return]
+    G -->|Retry| B
+    G -->|Marketplace| E
+    E -. Context restoration depends on verified capability .-> F
+    F --> H[Review authorization scope]
+    H --> I{Authorize?}
+    I -->|Cancel| J[Reauthorize / exit; browsing if supported]
+    I -->|Confirm| K{Identity and account validation}
+    K -->|Failure / conflict| L[Retry authorization / resolve account]
+    K -->|Success| M[Establish Savana login]
+    M --> N{Coupon eligibility}
+    N -->|Not eligible / already received| O[Explain result; continue shopping]
+    N -->|Eligible| P[Request coupon issuance; duplicate protection proposed]
+    P --> Q{Issue result}
+    Q -->|Success| R[Show coupon and terms]
+    Q -->|Unknown / processing| S[Query unique issuance record]
+    Q -->|Confirmed failure| T[Keep login; retry or recovery under agreed rules]
+    S -->|Success| R
+    S -->|Confirmed failure| T
+    S -->|Still processing| U[Pending feedback and later lookup]
+    R --> V[View coupon / continue shopping]
+    O --> V
+    V --> W[Applicable shopping offers; stacking requires confirmed rules]

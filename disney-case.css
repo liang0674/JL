@@ -1,0 +1,45 @@
+/* Disney ordering: full-width boards at their original aspect ratio. */
+body[data-project="disney-scan-ordering"] #uiux {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+body[data-project="disney-scan-ordering"] #uiux .design-thumbnail {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  height: auto;
+  min-height: 0;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  overflow: hidden;
+}
+body[data-project="disney-scan-ordering"] #uiux .design-thumbnail img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  object-fit: contain;
+  object-position: center;
+}
+body[data-project="disney-scan-ordering"] #uiux .design-thumbnail span {
+  display: none;
+}
+@media (max-width: 760px) {
+  body[data-project="disney-scan-ordering"] #uiux .design-thumbnail {
+    height: auto;
+    min-height: 0;
+  }
+  body[data-project="disney-scan-ordering"] #uiux .design-thumbnail img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+html:has(body[data-project="disney-scan-ordering"]) { scroll-snap-type: y proximity; }

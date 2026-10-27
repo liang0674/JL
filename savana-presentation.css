@@ -1,0 +1,8 @@
+body[data-project="savana-digital-experience"] #uiux{display:flex;flex-direction:column;gap:0}
+body[data-project="savana-digital-experience"] #uiux>p{margin-bottom:32px}
+body[data-project="savana-digital-experience"] #uiux .design-thumbnail{display:block;box-sizing:border-box;width:100%;height:auto;min-height:0;margin:0;padding:0;border:0;border-radius:0;box-shadow:none;background:transparent;overflow:hidden}
+body[data-project="savana-digital-experience"] #uiux .design-thumbnail img{display:block;width:100%;height:auto;max-width:none;max-height:none;object-fit:contain;margin:0;padding:0;border:0;border-radius:0}
+body[data-project="savana-digital-experience"] #uiux .design-thumbnail>span{display:none}
+body[data-project="savana-digital-experience"] #uiux .design-thumbnail:focus-visible{outline:2px solid #222;outline-offset:-2px}
+body[data-project="savana-digital-experience"] #uiux .presentation-group-title{font-size:clamp(22px,2.5vw,34px);line-height:1.5;letter-spacing:-.02em;margin:64px 0 24px;scroll-margin-top:30px}
+body[data-project="savana-digital-experience"] #uiux .presentation-group-title:first-of-type{margin-top:8px}

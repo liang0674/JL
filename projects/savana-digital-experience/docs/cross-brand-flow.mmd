@@ -1,0 +1,17 @@
+flowchart TD
+    a["Savana 商品专区：先感知价值"]
+    b{"Savana 是否已安装？"}
+    c["Deep Link 唤起 Savana"]
+    d["App Store / Google Play"]
+    v{"是否获到达确认？"}
+    i["用户安装后打开"]
+    x["重试 / 市场 / 返回"]
+    l["有效商品 / 明确默认页"]
+    a --> b
+    b --> |"已安装"| c
+    b --> |"未安装"| d
+    c --> v
+    v --> |"未确认"| x
+    v --> |"已到达"| l
+    d --> i
+    i -.-> |"条件恢复 / 默认落地"| l

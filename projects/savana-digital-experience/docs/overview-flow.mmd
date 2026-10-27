@@ -1,0 +1,17 @@
+flowchart TD
+    a["Acquisition｜Urbanic 商品价值"]
+    b["Migration｜授权与账户迁移"]
+    c["Activation｜Welcome Coupon"]
+    d["继续发现与购买商品"]
+    f["Conversion｜Flash Sale"]
+    y["Scale｜Mega Promotion"]
+    o["按有效规则完成购物与订单"]
+    ret["Retention｜再次访问动机"]
+    a --> b
+    b --> c
+    c --> |"账户与权益分别反馈"| d
+    d --> f
+    d --> y
+    f --> o
+    y --> o
+    o -.-> |"目标机制，非实测留存结论"| ret

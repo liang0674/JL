@@ -82,6 +82,22 @@ main,header,footer{width:100%;max-width:none;margin-inline:0}header{padding-inli
 }
 
 /* Juyuanshu case cover: match monochrome portfolio interactions. */
-.project-art.juyuanshu-cover{height:auto;aspect-ratio:1.45;padding:0;background:#e6e6e6}
+.project-art.juyuanshu-cover{height:auto;aspect-ratio:4/3;padding:0;background:#e6e6e6}
 .juyuanshu-cover>img{display:block;width:100%;height:100%;position:absolute;inset:0;object-fit:cover;object-position:center 38%;filter:grayscale(1);transition:filter .45s,transform .7s}
 .project:hover .juyuanshu-cover>img,.project:focus-visible .juyuanshu-cover>img{filter:grayscale(0);transform:scale(1.025)}
+
+/* Shanghai Disney in-app ordering case cover. */
+.project-art.disney-cover{height:auto;aspect-ratio:2880/1620;padding:0;background:#e7e7e7;overflow:hidden}
+.project-art.disney-cover>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 18%;filter:grayscale(1);transition:filter .45s,transform .7s}
+.project:hover .disney-cover>img,.project:focus-visible .disney-cover>img{filter:grayscale(0);transform:scale(1.025)}
+.disney-cover-label{position:absolute;left:6%;bottom:7%;z-index:1;color:#fff;font-size:clamp(12px,2.1cqi,28px);line-height:1.2;letter-spacing:.08em;text-shadow:0 2px 18px #0009}
+
+/* Savana project typography cover, pending supplied project imagery. */
+.project-art.savana-cover{display:flex;flex-direction:column;align-items:flex-start;justify-content:center;padding:8%;background:#171717;color:#f2f2f2;aspect-ratio:1.22;overflow:hidden}.savana-cover>span{font-size:clamp(32px,8cqi,108px);line-height:1;letter-spacing:-.05em}.savana-cover>p{font-size:clamp(9px,1.5cqi,16px);letter-spacing:.12em;margin:22px 0}.savana-cover>strong{font-size:clamp(56px,15cqi,180px);line-height:1.1;font-weight:400;margin:15px 0}.savana-cover>small{font-size:clamp(9px,1.3cqi,15px);letter-spacing:.1em}
+/* Savana supplied cover and primary project position. */
+.project[data-work="savana-digital-experience"] .project-art.savana-cover{display:block;position:relative;height:auto;aspect-ratio:2880/1800;padding:0;border:0;border-radius:0;box-shadow:none;background:#f5f5f5;overflow:hidden}
+.project-art.savana-cover>img{display:block;position:absolute;inset:0;width:100%;height:100%;max-width:none;object-fit:cover;object-position:center 60%;filter:grayscale(1);transition:filter .45s ease,transform .7s ease}
+.project:hover .savana-cover>img,.project:focus-visible .savana-cover>img{filter:grayscale(0);transform:scale(1.025)}
+.projects.list-view .project[data-work="savana-digital-experience"] .project-art.savana-cover{aspect-ratio:2880/1800}
+@media(max-width:760px){.project[data-work="savana-digital-experience"] .project-art.savana-cover{aspect-ratio:2880/1800}.projects.list-view .project[data-work="savana-digital-experience"] .project-art.savana-cover{aspect-ratio:2880/1800}}
+@media(prefers-reduced-motion:reduce){.project-art.savana-cover>img{transition:none}}
