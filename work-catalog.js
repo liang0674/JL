@@ -1196,6 +1196,1585 @@ window.workCatalog=[
     "homepagePriority": 0
   },
   {
+    "id": "urbanic-experience-transformation",
+    "category": "project",
+    "formats": [
+      "project"
+    ],
+    "art": "urbanic",
+    "homepagePriority": 2,
+    "title": {
+      "zh": "Urbanic｜全球时尚品牌与产品体验升级",
+      "en": "Urbanic | Brand & Product Experience Transformation"
+    },
+    "domain": {
+      "zh": "URBANIC / 成熟产品体验转型",
+      "en": "URBANIC / Experience transformation at scale"
+    },
+    "summary": {
+      "zh": "作为 Urbanic 品牌与数字体验转型的核心项目负责人，我将公司的商业与品牌战略、商品及内容变化转化为面向消费者的数字产品体验；同时牵头体验设计团队，亲自定义和输出核心 UI/UX 方案，推动 App、H5 与 Web 上线。",
+      "en": "As the core project lead for Urbanic’s brand and digital experience transformation, I translated business and brand strategy, product and content changes into consumer-facing digital experiences. I led the experience design team and personally defined and delivered core UI/UX solutions across App, H5 and Web."
+    },
+    "focus": {
+      "zh": "品牌与产品体验项目负责人 · 体验设计团队管理 · 核心 UI/UX 设计",
+      "en": "Project Lead, Brand & Product Experience · Experience Design Team Management · Core UI/UX Design"
+    },
+    "caseSections": [
+      "background",
+      "goals",
+      "strategy",
+      "transformation",
+      "journey",
+      "decisions",
+      "system",
+      "interaction",
+      "role",
+      "execution",
+      "uiux",
+      "outcome",
+      "reflection"
+    ],
+    "cardSections": [
+      "strategy",
+      "role",
+      "uiux",
+      "outcome"
+    ],
+    "sections": {
+      "zh": [
+        [
+          "从成熟产品走向新的品牌定位",
+          "项目发生在 Urbanic 已经拥有大量用户、成熟交易能力与历史业务积累的阶段。公司同步推进商品、品牌、摄影、内容与数字体验升级，希望建立更高的品牌价值感。"
+        ],
+        [
+          "项目负责人，牵头体验设计团队",
+          "在此次品牌与数字体验转型中，我担任核心项目负责人并管理体验设计团队：将公司战略转化为项目目标、体验方向和改造范围，拆解任务、安排分工并组织评审；同时亲自输出关键 UI/UX 方案，协调跨部门团队推动多端上线。"
+        ],
+        [
+          "改造深度由用户价值和业务风险决定",
+          "从品牌识别到商品发现与购买决策系统升级；购物袋、结算、支付与订单更新视觉呈现，同时保留成熟的核心交互、业务规则与异常处理逻辑。"
+        ]
+      ],
+      "en": [
+        [
+          "Transforming an established product",
+          "Urbanic entered the project with an established user base, proven commerce capabilities and accumulated business complexity. The company upgraded fashion products, brand identity, photography, content and digital experience to support a higher-value brand position."
+        ],
+        [
+          "Project lead and experience design team manager",
+          "As core project lead for the brand and digital experience transformation, I also managed the experience design team. I translated strategy into objectives, direction and scope; broke down work, allocated responsibilities and organized reviews; personally produced key UI/UX solutions; and coordinated cross-functional delivery through launch."
+        ],
+        [
+          "Defining change through value and risk",
+          "Brand recognition, discovery and purchase decision experiences were redesigned. Bag, checkout, payment and orders received refreshed visual presentation while retaining proven core interactions, business rules and exception handling."
+        ]
+      ]
+    },
+    "content": {
+      "background": {
+        "zh": "公司管理层对 Urbanic 的品牌定位和商业方向作出调整，推动商品、品牌、摄影、内容及数字体验共同升级。项目内部资料记录，2024 年全球用户规模超过 5,000 万，业务覆盖印度、巴西、墨西哥、美国、英国、俄罗斯等市场。面对成熟产品的体量和历史复杂度，体验升级需要兼顾新品牌表达、原有用户习惯、各市场需求与稳定交易。内部用户分析显示，18–35 岁女性约占 80%；时尚、自我表达与品牌价值成为此次升级的重要考虑。",
+        "en": "A management-led shift in brand position and business direction brought coordinated upgrades to fashion products, branding, photography, content and digital experience. Internal project materials recorded over 50 million global users in 2024 and operations across India, Brazil, Mexico, the U.S., the U.K. and Russia. At this scale, transformation needed to balance the new brand, established user habits, market needs and transaction stability. Internal audience analysis recorded approximately 80% for women aged 18–35, although the population and sampling period were not specified. Fashion, self-expression and brand value were important considerations."
+      },
+      "goals": {
+        "zh": [
+          {
+            "title": "让新的品牌定位进入日常产品",
+            "text": "将新的品牌语言转化为首页、导航、商品展示、营销和内容触点中的一致体验。"
+          },
+          {
+            "title": "提升商品发现与购买判断",
+            "text": "通过摄影呈现、信息层级和操作组织，帮助用户理解商品、感知价值并完成购买决策。"
+          },
+          {
+            "title": "明确功能与链路的改造深度",
+            "text": "删减与新定位冲突的营销能力，优化仍有价值的功能，并保持关键交易能力稳定。"
+          },
+          {
+            "title": "形成可交付、可扩展的多端体系",
+            "text": "建立 App、H5 与 Web 的设计规则和复用模式，支持团队协同、开发实现与后续扩展。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Make the new positioning tangible",
+            "text": "Translate the brand language into a coherent experience across home, navigation, product presentation, campaigns and content."
+          },
+          {
+            "title": "Improve discovery and purchase decisions",
+            "text": "Use photography, information hierarchy and interaction structure to help customers understand products and decide what to buy."
+          },
+          {
+            "title": "Set boundaries for change",
+            "text": "Remove conflicting promotional mechanisms, simplify useful functions and preserve proven transaction capabilities."
+          },
+          {
+            "title": "Build a scalable cross-platform system",
+            "text": "Define rules and reusable patterns for App, H5 and Web to support collaboration, engineering and future expansion."
+          }
+        ]
+      },
+      "strategy": {
+        "zh": "作为项目负责人，我首先从品牌目标、用户路径与业务风险出发划定项目范围：哪些能力需要删除、简化、重构或保留。以此协调产品、设计和研发投入，让改造服务于新的品牌定位，同时维护成熟交易链路的稳定。",
+        "en": "As project lead, I defined the scope around brand objectives, customer journeys and business risk: what to remove, simplify, redesign or preserve. This framed coordination across product, design and engineering so the transformation supported the new position while maintaining stable commerce flows."
+      },
+      "system": {
+        "zh": "将抽象品牌价值转化为具体体验原则，再沉淀为跨终端的界面、布局与交互规则。新的系统同时服务一致性、可扩展性与交付效率。",
+        "en": "Translate abstract brand values into experience principles, then into interface, layout and interaction rules across devices. The system supported consistency, scalability and delivery efficiency."
+      },
+      "role": {
+        "zh": [
+          {
+            "title": "体验战略",
+            "text": "定义数字体验转型方向和改造边界，判断哪些能力需要删除、简化、重构或保留。"
+          },
+          {
+            "title": "品牌体验",
+            "text": "推动品牌战略进入 App、H5、Web、站内视觉、活动、营销及社媒内容，保持不同触点的品牌体验一致。"
+          },
+          {
+            "title": "产品体验",
+            "text": "牵头用户前端产品体验的判断，梳理品牌认知、商品发现、购买决策与核心转化路径。"
+          },
+          {
+            "title": "核心 UI/UX",
+            "text": "亲自定义和输出关键体验与页面，包括首页、导航、商品列表、商品详情、核心转化体验及多端设计。"
+          },
+          {
+            "title": "设计体系",
+            "text": "建立 App、H5 与 Web 的设计语言、响应式规则和跨端体验标准，支持团队扩展与协作。"
+          },
+          {
+            "title": "体验设计团队管理",
+            "text": "负责体验设计团队的项目拆解、工作分配、关键方案评审、跨模块整合和最终质量把控，带领团队将整体方向落实到多端体验。"
+          },
+          {
+            "title": "跨职能协作与交付",
+            "text": "连接管理层、国际品牌团队、摄影、商品、市场、产品与研发，协调方案和实现，参与验收并推动上线。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Experience strategy",
+            "text": "Defined the digital experience direction and transformation scope, deciding what to remove, simplify, redesign or preserve."
+          },
+          {
+            "title": "Brand experience",
+            "text": "Brought brand strategy into App, H5, Web, on-site visuals, campaigns, marketing and social content, maintaining coherence across touchpoints."
+          },
+          {
+            "title": "Product experience",
+            "text": "Led decisions on customer-facing product experiences across brand recognition, discovery, purchase decisions and conversion."
+          },
+          {
+            "title": "Core UI/UX",
+            "text": "Personally defined and produced key experiences and screens, including home, navigation, product listing and detail, core conversion and cross-platform design."
+          },
+          {
+            "title": "Design system",
+            "text": "Established design language, responsive rules and cross-platform experience standards for App, H5 and Web."
+          },
+          {
+            "title": "Experience design team management",
+            "text": "Managed project breakdown, work allocation, key reviews, cross-module integration and quality for the experience design team, guiding delivery across platforms."
+          },
+          {
+            "title": "Cross-functional delivery",
+            "text": "Connected leadership, international brand teams, photography, fashion, marketing, product and engineering to align solutions, participate in QA and drive launch."
+          }
+        ]
+      },
+      "uiux": {
+        "zh": "从品牌定位、体验架构到多端界面，展示 Urbanic 品牌与产品体验升级的设计过程和成果。点击图片可放大查看。",
+        "en": "Explore the Urbanic brand and product experience transformation, from positioning and experience architecture to cross-platform interfaces. Select an image to enlarge it."
+      },
+      "outcome": {
+        "zh": "项目完成多端产品上线、新品牌视觉落地、核心体验升级与设计体系建设。以下数据来自项目内部记录；整体经营表现由商品、定价、供应链、营销、运营与体验等多方面共同影响。",
+        "en": "The project delivered cross-platform launches, the new brand expression, core experience upgrades and a design system. The following figures come from internal project records; overall business performance reflects product, pricing, supply chain, marketing, operations and experience."
+      },
+      "reflection": {
+        "zh": "此次转型完成了产品与设计层面的交付，但从后续经营观察来看，增长逐步放缓，用户口碑承压，业务随后呈现下滑趋势。这段经历让我重新审视品牌承诺、经营能力和用户真实体验之间的关系。",
+        "en": "The transformation was delivered at the product and design level. Subsequent business observations, however, showed slowing growth, pressure on customer sentiment and a gradual decline. The experience reshaped how I consider the relationship between brand promises, operating capabilities and the customer’s lived experience."
+      },
+      "transformation": {
+        "zh": "作为项目负责人，我依据品牌适配、用户价值和变化风险，判断各体验区域的改造深度，并明确删除、简化、重构与保留的边界。",
+        "en": "As project lead, I assessed each experience area against brand fit, customer value and risk, defining what to remove, simplify, redesign or preserve."
+      },
+      "journey": {
+        "zh": "沿用户从认识品牌到完成交易的路径，明确每个阶段需要改变的体验及应当保持的能力。",
+        "en": "Map the customer journey from first brand contact to transaction, identifying where to change the experience and where to preserve proven capabilities."
+      },
+      "decisions": {
+        "zh": "从原有体验、核心问题到项目决策与体验方向，展示品牌战略如何转化为具体的产品体验。",
+        "en": "Explore how brand strategy informed product experience decisions, from the existing experience and core problem to the project decision and experience direction."
+      },
+      "interaction": {
+        "zh": "围绕首页与导航、商品详情与加购，说明项目如何平衡品牌表达、商品发现和购买决策。以下内容依据项目设计稿与复盘整理。",
+        "en": "Explore how home and navigation, product detail and add-to-bag balance brand expression, product discovery and purchase decisions. These notes are based on project designs and retrospective context."
+      },
+      "execution": {
+        "zh": "从战略对齐到多端上线，项目工作包括体验定义、方案拆解、系统设计、跨团队实现和上线验收。以下按工作阶段梳理；设计、产品和研发在实际推进中并行协作。",
+        "en": "From strategic alignment to cross-platform launch, the project covered experience definition, work breakdown, systems, cross-functional implementation and experience review. The phases below organize the work; design, product and engineering collaborated in parallel."
+      }
+    },
+    "resources": [
+      {
+        "type": "document",
+        "section": "role",
+        "title": {
+          "zh": "项目范围与职责",
+          "en": "Project scope and responsibilities"
+        },
+        "url": "projects/urbanic-experience-transformation/docs/urbanic-scope-zh.md"
+      },
+      {
+        "type": "image",
+        "section": "uiux",
+        "title": {
+          "zh": "项目封面",
+          "en": "Project cover"
+        },
+        "url": "projects/urbanic-experience-transformation/presentation/page-01.webp?v=urbanic-pdf-full-20261028",
+        "width": 1920,
+        "height": 2400
+      },
+      {
+        "type": "image",
+        "section": "uiux",
+        "title": {
+          "zh": "项目背景与职责",
+          "en": "Project background and role"
+        },
+        "url": "projects/urbanic-experience-transformation/presentation/page-02.webp?v=urbanic-pdf-full-20261028",
+        "width": 1920,
+        "height": 2400
+      },
+      {
+        "type": "image",
+        "section": "uiux",
+        "title": {
+          "zh": "多端设计路径",
+          "en": "Cross-platform design path"
+        },
+        "url": "projects/urbanic-experience-transformation/presentation/page-06.webp?v=urbanic-pdf-full-20261028",
+        "width": 1920,
+        "height": 2400
+      },
+      {
+        "type": "image",
+        "section": "uiux",
+        "title": {
+          "zh": "全球团队协作",
+          "en": "Global team collaboration"
+        },
+        "url": "projects/urbanic-experience-transformation/presentation/page-07.webp?v=urbanic-pdf-full-20261028",
+        "width": 1920,
+        "height": 2400
+      },
+      {
+        "type": "image",
+        "section": "uiux",
+        "title": {
+          "zh": "交互原型设计",
+          "en": "Interaction prototypes"
+        },
+        "url": "projects/urbanic-experience-transformation/presentation/page-08.webp?v=urbanic-pdf-full-20261028",
+        "width": 1920,
+        "height": 2400
+      },
+      {
+        "type": "image",
+        "section": "uiux",
+        "title": {
+          "zh": "结构框架与响应式规则",
+          "en": "Layout framework and responsive rules"
+        },
+        "url": "projects/urbanic-experience-transformation/presentation/page-09.webp?v=urbanic-pdf-full-20261028",
+        "width": 1920,
+        "height": 2400
+      },
+      {
+        "type": "image",
+        "section": "uiux",
+        "title": {
+          "zh": "品牌图标与启动画面",
+          "en": "Brand icon and launch screen"
+        },
+        "url": "projects/urbanic-experience-transformation/presentation/page-10.webp?v=urbanic-pdf-full-20261028",
+        "width": 1920,
+        "height": 1330
+      },
+      {
+        "type": "image",
+        "section": "uiux",
+        "title": {
+          "zh": "首页设计展示",
+          "en": "Home design presentation"
+        },
+        "url": "projects/urbanic-experience-transformation/presentation/page-11.webp?v=urbanic-pdf-full-20261028",
+        "width": 1920,
+        "height": 2400,
+        "anchor": "urbanic-screen-home-desktop"
+      },
+      {
+        "type": "image",
+        "section": "uiux",
+        "title": {
+          "zh": "响应式首页设计",
+          "en": "Responsive home design"
+        },
+        "url": "projects/urbanic-experience-transformation/presentation/page-12.webp?v=urbanic-pdf-full-20261028",
+        "width": 1920,
+        "height": 2400,
+        "anchor": "urbanic-screen-home-mobile"
+      },
+      {
+        "type": "image",
+        "section": "uiux",
+        "title": {
+          "zh": "活动与商品详情设计",
+          "en": "Campaign and product detail designs"
+        },
+        "url": "projects/urbanic-experience-transformation/presentation/page-13.webp?v=urbanic-pdf-full-20261028",
+        "width": 1920,
+        "height": 2400,
+        "anchor": "urbanic-screen-product"
+      },
+      {
+        "type": "image",
+        "section": "uiux",
+        "title": {
+          "zh": "上线数据与复盘",
+          "en": "Launch results and reflection"
+        },
+        "url": "projects/urbanic-experience-transformation/presentation/page-14.webp?v=urbanic-pdf-full-20261028",
+        "width": 1920,
+        "height": 2400
+      },
+      {
+        "type": "document",
+        "section": "interaction",
+        "title": {
+          "zh": "首页与导航",
+          "en": "Home & Navigation"
+        },
+        "url": "projects/urbanic-experience-transformation/docs/urbanic-interaction-home-zh.md",
+        "defaultOpen": true
+      },
+      {
+        "type": "document",
+        "section": "interaction",
+        "title": {
+          "zh": "商品详情与加购",
+          "en": "Product Detail & Add to Bag"
+        },
+        "url": "projects/urbanic-experience-transformation/docs/urbanic-interaction-product-zh.md",
+        "defaultOpen": true
+      }
+    ],
+    "urbanicData": {
+      "decisions": [
+        {
+          "key": "REMOVE",
+          "name": {
+            "zh": "删除",
+            "en": "Remove"
+          },
+          "action": {
+            "zh": "移除与新定位冲突的部分营销工具",
+            "en": "Remove selected promotional mechanisms that conflicted with the new position"
+          },
+          "why": {
+            "zh": "减少低价与折扣的重复强化，让商品和品牌成为主要表达。",
+            "en": "Reduce repeated discount cues and give products and brand expression greater prominence."
+          },
+          "scope": {
+            "zh": "部分促销工具与折扣入口",
+            "en": "Selected promotional tools and discount entries"
+          }
+        },
+        {
+          "key": "SIMPLIFY",
+          "name": {
+            "zh": "简化",
+            "en": "Simplify"
+          },
+          "action": {
+            "zh": "保留有商业价值的功能，调整呈现强度",
+            "en": "Retain useful features with a lighter presence"
+          },
+          "why": {
+            "zh": "重新判断入口优先级、视觉权重、出现频率和交互复杂度。",
+            "en": "Reassess entry priority, visual weight, frequency and interaction complexity."
+          },
+          "scope": {
+            "zh": "仍需保留的营销与转化能力",
+            "en": "Marketing and conversion capabilities that remained necessary"
+          }
+        },
+        {
+          "key": "REDESIGN",
+          "name": {
+            "zh": "重构",
+            "en": "Redesign"
+          },
+          "action": {
+            "zh": "升级品牌识别与购买决策体验",
+            "en": "Rebuild brand recognition and purchase decision experiences"
+          },
+          "why": {
+            "zh": "围绕图标、启动、首页、导航、分类、列表与详情页，重组品牌表达、商品呈现、信息层级和加购操作。",
+            "en": "Rework brand expression, product presentation, hierarchy and add-to-bag interactions across icon, launch, home, navigation, category, PLP and PDP."
+          },
+          "scope": {
+            "zh": "品牌认知 → 商品发现 → 浏览与决策",
+            "en": "Brand recognition → Discovery → Browsing & decisions"
+          }
+        },
+        {
+          "key": "PRESERVE",
+          "name": {
+            "zh": "保留",
+            "en": "Preserve"
+          },
+          "action": {
+            "zh": "刷新视觉呈现，保留核心交易逻辑",
+            "en": "Refresh presentation while preserving transaction logic"
+          },
+          "why": {
+            "zh": "购物袋、结算、支付与订单沿用成熟的核心交互、业务规则和异常处理，降低学习、转化与交付风险。",
+            "en": "Keep proven bag, checkout, payment and order interactions, rules and exception handling to manage learning, conversion and delivery risk."
+          },
+          "scope": {
+            "zh": "购物袋 → 结算 → 支付 → 订单",
+            "en": "Bag → Checkout → Payment → Orders"
+          }
+        }
+      ],
+      "principles": [
+        {
+          "term": "Self-belief",
+          "name": {
+            "zh": "自我表达",
+            "en": "Self-expression"
+          },
+          "text": {
+            "zh": "减少过度营销带来的消费压力，通过内容与搭配让时尚承载个人态度。",
+            "en": "Reduce pressure from excessive promotion; use content and styling to support individual expression."
+          }
+        },
+        {
+          "term": "Quality",
+          "name": {
+            "zh": "价值感知",
+            "en": "Perceived value"
+          },
+          "text": {
+            "zh": "通过摄影、字体、留白、信息层级和商品展示，建立更一致的品质表达。",
+            "en": "Use photography, typography, space, hierarchy and product presentation to communicate quality consistently."
+          }
+        },
+        {
+          "term": "Creativity",
+          "name": {
+            "zh": "内容探索",
+            "en": "Editorial discovery"
+          },
+          "text": {
+            "zh": "将部分页面从工具型商城向时尚内容体验推进，丰富商品发现方式。",
+            "en": "Bring editorial fashion experiences into selected surfaces to broaden product discovery."
+          }
+        },
+        {
+          "term": "Genuine Fun",
+          "name": {
+            "zh": "年轻与自由",
+            "en": "Youth and freedom"
+          },
+          "text": {
+            "zh": "在更高的品牌质感下，保留年轻、丰富、有趣的品牌情绪。",
+            "en": "Retain a youthful, expressive and playful character within the elevated brand experience."
+          }
+        }
+      ],
+      "systems": {
+        "zh": [
+          {
+            "title": "统一基础规则",
+            "text": "字体、色彩、栅格、留白、信息层级与响应式布局。"
+          },
+          {
+            "title": "沉淀可复用模式",
+            "text": "导航、商品卡片、内容模块、交互状态、购物模式与营销模式。"
+          },
+          {
+            "title": "保持多端体验连贯",
+            "text": "按设备调整布局与操作方式，保持品牌、信息优先级及核心路径一致。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Shared foundations",
+            "text": "Typography, color, grid, spacing, hierarchy and responsive layouts."
+          },
+          {
+            "title": "Reusable patterns",
+            "text": "Navigation, product cards, content modules, interaction states, commerce and campaign patterns."
+          },
+          {
+            "title": "Coherence across devices",
+            "text": "Adapt layouts and interaction to each device while maintaining brand, information priorities and key journeys."
+          }
+        ]
+      },
+      "metrics": [
+        {
+          "value": "+30%",
+          "label": {
+            "zh": "用户停留时长",
+            "en": "User dwell time"
+          },
+          "note": {
+            "zh": "项目内部记录的相对增幅；统计周期及计算方式未注明。",
+            "en": "Relative increase in internal records; the measurement period and calculation method were not specified."
+          }
+        },
+        {
+          "value": "> ¥2B",
+          "label": {
+            "zh": "2023 年全球 GMV",
+            "en": "Global GMV in 2023"
+          },
+          "note": {
+            "zh": "超过人民币 20 亿元；作为同期业务规模背景，不单独归因于设计升级。",
+            "en": "Over RMB 2 billion; business scale context, not a design-only outcome."
+          }
+        },
+        {
+          "value": "+20–30%",
+          "label": {
+            "zh": "2023 年毛利率相对增幅",
+            "en": "Relative gross margin increase in 2023"
+          },
+          "note": {
+            "zh": "2023 年毛利率相对增长 20%–30%；比较基期未注明。",
+            "en": "Gross margin increased relatively by 20–30% in 2023; the comparison baseline was not specified."
+          }
+        }
+      ],
+      "reflections": {
+        "zh": [
+          {
+            "title": "价格提升，也提高了用户的期待",
+            "text": "品牌定位与价格上移后，用户对质量、服务和履约提出更高要求。新的视觉表达建立了期待，商品与服务需要在每次购买中持续兑现。"
+          },
+          {
+            "title": "投入增加，经营周期也随之拉长",
+            "text": "商品开发、生产能力及相关投入增加，带来更高成本和更长周期。当销量未能形成持续稳定的增长，转型模式面临更大的经营压力。"
+          },
+          {
+            "title": "将体验判断延伸到经营兑现",
+            "text": "我后来更关注价格接受度、质量反馈、服务评价与复购表现，以及投入节奏与经营结果之间的关系。"
+          }
+        ],
+        "en": [
+          {
+            "title": "Higher prices raised expectations",
+            "text": "The elevated position and prices increased expectations for quality, service and fulfillment. New brand expression established a promise that products and service needed to deliver consistently."
+          },
+          {
+            "title": "Investment increased and cycles lengthened",
+            "text": "Greater product development and production investment brought higher costs and longer cycles. Without sustained and stable sales growth, the transformation faced greater operating pressure."
+          },
+          {
+            "title": "Connect experience decisions to delivery of value",
+            "text": "The reflection strengthened my focus on price acceptance, quality feedback, service sentiment, repeat purchase and the relationship between investment and operating results."
+          }
+        ]
+      },
+      "closing": {
+        "zh": "设计能够让新的品牌价值被看见、被理解；长期的价值认同，需要商品、服务与经营能力在真实消费体验中持续兑现。",
+        "en": "Design can make a new brand promise visible and understandable. Lasting value depends on products, service and operating capabilities delivering that promise through real customer experiences."
+      },
+      "editorial": {
+        "background": [
+          {
+            "title": {
+              "zh": "战略转向：一次公司层面的升级",
+              "en": "A company-wide strategic shift"
+            },
+            "paragraphs": {
+              "zh": [
+                "Urbanic 已拥有成熟的用户群、交易体系和日常运营机制。管理层希望推动品牌向更高价值方向发展，这项变化涉及商品、定价、品牌形象、摄影、内容和用户体验，需要不同团队同步推进。",
+                "商品团队、品牌团队和摄影团队分别在各自领域推动变化。数字产品承接的是这些变化与用户之间的连接：用户打开 App 后看到什么、如何理解商品，以及新定位是否能够贯穿购物过程。"
+              ],
+              "en": [
+                "Urbanic already had an established audience, commerce infrastructure and operating model. Leadership set a direction toward a higher-value brand, involving fashion products, pricing, brand identity, photography, content and customer experience.",
+                "Fashion, brand and photography teams each advanced their own work. The digital product connected those changes to customers: what people saw when opening the app, how they understood products and whether the new positioning carried through the shopping journey."
+              ]
+            }
+          },
+          {
+            "title": {
+              "zh": "成熟产品的改造约束",
+              "en": "Constraints of an established product"
+            },
+            "paragraphs": {
+              "zh": [
+                "我此前长期负责 Urbanic 核心数字设计，因此熟悉旧版体验、用户习惯、历史营销功能与业务边界。升级需要在原有业务持续运行的条件下展开，同时兼顾不同市场与 App、H5、Web 多端体验。",
+                "我需要判断哪些旧体验阻碍了新的品牌认知，哪些功能仍有业务价值，以及哪些高风险交易能力应当维持稳定。"
+              ],
+              "en": [
+                "I had long been responsible for core digital design at Urbanic and understood the existing experience, user habits, historical marketing features and business constraints. The work had to proceed while the business continued to operate, across markets and App, H5 and Web.",
+                "I needed to identify which existing experiences conflicted with the new brand, which features still served the business and which high-risk transaction capabilities should remain stable."
+              ]
+            }
+          }
+        ],
+        "goals": [
+          {
+            "title": {
+              "zh": "要解决的核心矛盾",
+              "en": "The core tension"
+            },
+            "paragraphs": {
+              "zh": [
+                "原有产品积累了大量促销入口和转化工具，它们帮助交易，也容易让用户持续形成以低价、折扣为中心的品牌认知。新的品牌方向希望让商品、品质和内容承担更重要的表达。",
+                "我的目标是重新组织这些触点之间的关系：让品牌更有价值感，让用户更容易理解商品，同时维护成熟购物流程的连续性。"
+              ],
+              "en": [
+                "The existing product had accumulated promotional entries and conversion tools. These supported commerce, but could also reinforce a price-and-discount-led perception. The new brand direction sought to give product, quality and content a stronger role.",
+                "My goal was to rebalance those touchpoints: improve the perception of brand value, help users understand the products and maintain continuity in proven shopping flows."
+              ]
+            }
+          }
+        ],
+        "strategy": [
+          {
+            "title": {
+              "zh": "我的判断：把变化放在影响认知和决策的地方",
+              "en": "My decision: focus change on perception and decisions"
+            },
+            "paragraphs": {
+              "zh": [
+                "我首先从用户路径与业务风险出发划定改造范围。App 图标、启动、首页、导航及品牌内容是用户认识 Urbanic 的入口；分类、商品列表、详情和加购是用户发现商品并形成购买判断的关键过程，因此需要重点投入。",
+                "购物袋、结算、支付与订单依赖成熟业务规则和异常处理，也已形成用户习惯。它们可以更新视觉，但在没有明确新用户价值的情况下，保留核心逻辑，减少学习成本和交付风险。"
+              ],
+              "en": [
+                "I first defined the scope around customer journeys and business risk. App icon, launch, home, navigation and brand content shape the first impression; category, listing, product detail and add-to-bag support discovery and purchase decisions. These were priorities for redesign.",
+                "Bag, checkout, payment and order flows depend on established rules and exception handling, and customers already know how to use them. Their presentation could be refreshed while core logic stayed stable where no clear user value justified changing it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "zh": "如何做取舍",
+              "en": "How the tradeoffs were made"
+            },
+            "paragraphs": {
+              "zh": [
+                "对于与新定位冲突的营销工具，推动删除；对于仍然有商业价值的能力，重新安排入口、优先级、视觉权重与出现频率；对于直接影响品牌感知和购买判断的触点，进行系统性重构。",
+                "这些取舍需要与产品和研发共同确认业务影响及技术可行性。我的责任是把体验方向和设计判断明确下来，并推动它们进入实际交付。"
+              ],
+              "en": [
+                "I advocated removing selected marketing tools that conflicted with the new positioning. For capabilities that still had business value, we reassessed entry points, priority, visual weight and frequency. Touchpoints central to brand perception and purchase decisions received a more systemic redesign.",
+                "These choices required alignment with product and engineering on business impact and technical feasibility. My responsibility was to clarify experience direction and design decisions and carry them through delivery."
+              ]
+            }
+          }
+        ],
+        "system": [
+          {
+            "title": {
+              "zh": "从品牌词到真实界面",
+              "en": "From brand language to interfaces"
+            },
+            "paragraphs": {
+              "zh": [
+                "新品牌方向围绕 Attitude、Quality、Mood 展开，并强调 Self-belief、Creativity 与 Genuine Fun。我需要把这些概念转化为用户能感知的产品体验，而不是让品牌词停留在规范文档里。",
+                "Self-belief 影响内容与商品的表达方式；Quality 体现在摄影、字体、留白、信息层级和商品呈现；Creativity 推动部分页面引入更具时尚内容感的浏览体验；Genuine Fun 则帮助团队在升级质感的同时保留年轻、自由的品牌情绪。"
+              ],
+              "en": [
+                "The new direction centered on Attitude, Quality and Mood, with Self-belief, Creativity and Genuine Fun as further principles. My work was to translate those ideas into experiences customers could perceive.",
+                "Self-belief informed content and product expression; Quality shaped photography, typography, spacing, hierarchy and presentation; Creativity brought an editorial sensibility into selected browsing experiences; Genuine Fun helped retain a youthful and expressive character."
+              ]
+            }
+          },
+          {
+            "title": {
+              "zh": "让品牌在多个触点保持连贯",
+              "en": "A coherent experience across touchpoints"
+            },
+            "paragraphs": {
+              "zh": [
+                "用户接触品牌的场景不止于 App 首页。项目覆盖启动、导航、商品列表和详情、会员、账户、活动内容，以及 App、H5、Web 等终端；我还参与把控站内视觉、营销及社媒内容的整体方向。",
+                "我的工作包括确定跨端布局、栅格、组件外观、交互状态与复用模式，使不同团队能够围绕同一套品牌和体验规则交付，同时根据设备和市场场景调整具体呈现。"
+              ],
+              "en": [
+                "Customers encounter the brand beyond the app home page. The scope covered launch, navigation, listing and detail pages, membership, account and campaigns across App, H5 and Web. I also helped guide on-site, marketing and social visual direction.",
+                "I led cross-platform layouts, grids, component appearance, interaction states and reusable patterns so teams could work from shared brand and experience rules while adapting presentation to devices and market contexts."
+              ]
+            }
+          }
+        ],
+        "role": [
+          {
+            "title": {
+              "zh": "将战略转化为用户能够使用的体验",
+              "en": "Translating strategy into an experience customers can use"
+            },
+            "paragraphs": {
+              "zh": [
+                "此次项目由公司管理层确定整体转型方向，商品、品牌、摄影、市场、产品和研发团队各自承担专业职责。我作为品牌与产品体验转型的核心项目负责人，将各方输入整合为面向消费者的体验目标、产品方案与多端交付。",
+                "我既负责体验战略与改造边界，也亲自输出关键 UI/UX 方案；同时组织体验设计团队的项目拆解、分工、评审与质量把控，协调各方推动方案上线。"
+              ],
+              "en": [
+                "Company leadership set the transformation direction, while fashion, brand, photography, marketing, product and engineering teams owned their specialist work. As core project lead for brand and product experience, I integrated their inputs into customer-facing experience goals, product solutions and cross-platform delivery.",
+                "I owned experience strategy and the scope of change while personally producing key UI/UX solutions. I also organized project breakdown, assignments, review and quality for the experience design team and coordinated teams through launch."
+              ]
+            }
+          }
+        ],
+        "outcome": [
+          {
+            "title": {
+              "zh": "完成多端落地与体验体系建设",
+              "en": "Delivery across platforms"
+            },
+            "paragraphs": {
+              "zh": [
+                "此次升级完成 App、H5 和 Web 的设计交付与产品上线，将新的品牌视觉融入关键数字触点，并形成支持后续页面和功能扩展的跨端设计规则。",
+                "项目内部记录显示用户停留时长提升约 30%，统计周期及计算方式未注明。2023 年全球 GMV 超过人民币 20 亿元、毛利率相对增长约 20%–30%，反映同期整体经营表现，由多个业务因素共同影响。"
+              ],
+              "en": [
+                "The transformation delivered designs and product releases across App, H5 and Web, brought the new brand expression into key digital touchpoints and established cross-platform rules to support future pages and features.",
+                "Internal records show an approximately 30% increase in user dwell time; the measurement period and calculation method were not specified. Global GMV exceeded RMB 2 billion in 2023 and gross margin increased relatively by about 20–30%; these reflect business performance influenced by multiple factors."
+              ]
+            }
+          }
+        ],
+        "reflection": [
+          {
+            "title": {
+              "zh": "品牌承诺需要完整业务链路支撑",
+              "en": "The brand promise depends on the whole business"
+            },
+            "paragraphs": {
+              "zh": [
+                "随着定位和价格提升，用户对商品质量、服务和履约的期待同步提高。视觉和产品体验可以帮助用户理解新的品牌价值，但每一次购买中的真实质量与服务决定了承诺能否被兑现。",
+                "后期增长放缓、用户口碑承压；商品及产能投入增加，同时带来更高成本与更长周期。当销量没有形成持续稳定的增长时，经营压力逐渐增大，业务随后出现下滑。这是基于项目经历的复盘观察。"
+              ],
+              "en": [
+                "As positioning and prices rose, expectations for product quality, service and fulfillment rose too. Visual and product experience could communicate the new value proposition, while real quality and service determined whether the promise was fulfilled.",
+                "Later, growth slowed and customer sentiment came under pressure. Product and production investment increased costs and lengthened cycles; without sustained, stable sales growth, operating pressure grew and the business gradually declined. This is a retrospective observation from the project."
+              ]
+            }
+          },
+          {
+            "title": {
+              "zh": "这次经历改变了我的工作视角",
+              "en": "How the experience changed my perspective"
+            },
+            "paragraphs": {
+              "zh": [
+                "项目负责人需要理解战略为何改变，明确目标和改造边界，协调各方把方案落地；在上线之后，还要关注用户对价格、质量和服务的真实反馈。",
+                "这次项目让我更加重视品牌价值、用户体验与经营能力之间的关系，并在后续项目中持续关注它们如何协同。"
+              ],
+              "en": [
+                "A project lead needs to understand why strategy changes, define objectives and boundaries, and coordinate teams through delivery. After launch, it is also necessary to pay attention to real customer feedback on price, quality and service.",
+                "The project made me more attentive to the relationship between brand value, user experience and operating capabilities, and to how they work together in later projects."
+              ]
+            }
+          }
+        ]
+      },
+      "transformationMatrix": [
+        {
+          "area": {
+            "zh": "品牌基础与图标 / 启动",
+            "en": "Brand, icon & launch"
+          },
+          "before": {
+            "zh": "原有视觉难以承载新品牌方向",
+            "en": "Existing identity did not fully carry the new direction"
+          },
+          "decision": "REDESIGN",
+          "why": {
+            "zh": "新品牌价值需要从第一触点被感知",
+            "en": "Make the new brand visible at first contact"
+          },
+          "scope": {
+            "zh": "品牌基础",
+            "en": "Brand foundation"
+          }
+        },
+        {
+          "area": {
+            "zh": "首页",
+            "en": "Home"
+          },
+          "before": {
+            "zh": "商品、营销与品牌内容需要重新平衡",
+            "en": "Product, promotion and brand content needed rebalancing"
+          },
+          "decision": "REDESIGN",
+          "why": {
+            "zh": "兼顾品牌认知与商品发现",
+            "en": "Support brand recognition and product discovery"
+          },
+          "scope": {
+            "zh": "品牌与发现",
+            "en": "Brand & discovery"
+          }
+        },
+        {
+          "area": {
+            "zh": "导航",
+            "en": "Navigation"
+          },
+          "before": {
+            "zh": "历史功能与营销入口较多",
+            "en": "Accumulated functionality and promotional entry points"
+          },
+          "decision": "SIMPLIFY",
+          "why": {
+            "zh": "减少复杂度并支持商品发现",
+            "en": "Reduce complexity while supporting discovery"
+          },
+          "scope": {
+            "zh": "商品发现",
+            "en": "Discovery"
+          }
+        },
+        {
+          "area": {
+            "zh": "商品发现",
+            "en": "Product discovery"
+          },
+          "before": {
+            "zh": "原体验偏功能与交易导向",
+            "en": "Experience leaned toward utility and transactions"
+          },
+          "decision": "REDESIGN",
+          "why": {
+            "zh": "强化时尚及内容发现",
+            "en": "Emphasize fashion and content discovery"
+          },
+          "scope": {
+            "zh": "商品发现",
+            "en": "Discovery"
+          }
+        },
+        {
+          "area": {
+            "zh": "商品列表 PLP",
+            "en": "Product listing (PLP)"
+          },
+          "before": {
+            "zh": "信息较密集",
+            "en": "Dense information"
+          },
+          "decision": "REDESIGN / SIMPLIFY",
+          "why": {
+            "zh": "提升浏览效率与商品价值感",
+            "en": "Support browsing efficiency and perceived product value"
+          },
+          "scope": {
+            "zh": "浏览",
+            "en": "Browsing"
+          }
+        },
+        {
+          "area": {
+            "zh": "商品详情 PDP",
+            "en": "Product detail (PDP)"
+          },
+          "before": {
+            "zh": "商品与营销信息竞争注意力",
+            "en": "Product and promotion competed for attention"
+          },
+          "decision": "REDESIGN",
+          "why": {
+            "zh": "突出商品信息与购买判断",
+            "en": "Strengthen product information and purchase decisions"
+          },
+          "scope": {
+            "zh": "决策",
+            "en": "Decision"
+          }
+        },
+        {
+          "area": {
+            "zh": "营销工具",
+            "en": "Marketing tools"
+          },
+          "before": {
+            "zh": "促销工具与曝光较多",
+            "en": "Numerous prominent promotional mechanisms"
+          },
+          "decision": "REMOVE / SIMPLIFY",
+          "why": {
+            "zh": "降低促销对整体体验的主导",
+            "en": "Reduce the dominance of promotions"
+          },
+          "scope": {
+            "zh": "跨触点",
+            "en": "Across touchpoints"
+          }
+        },
+        {
+          "area": {
+            "zh": "加入购物袋",
+            "en": "Add to bag"
+          },
+          "before": {
+            "zh": "购买决策进入交易前的关键节点",
+            "en": "Key transition from decision to transaction"
+          },
+          "decision": "OPTIMIZE",
+          "why": {
+            "zh": "降低进入交易前的阻力",
+            "en": "Reduce friction before entering the transaction flow"
+          },
+          "scope": {
+            "zh": "转化",
+            "en": "Conversion"
+          }
+        },
+        {
+          "area": {
+            "zh": "购物袋 / 结算 / 支付 / 订单",
+            "en": "Bag / checkout / payment / order"
+          },
+          "before": {
+            "zh": "已有成熟交易能力与用户习惯",
+            "en": "Established commerce capabilities and user habits"
+          },
+          "decision": "PRESERVE",
+          "why": {
+            "zh": "更新视觉，保留核心交互、业务规则与异常处理",
+            "en": "Preserve core logic and exception handling while refreshing presentation"
+          },
+          "scope": {
+            "zh": "交易",
+            "en": "Transaction"
+          }
+        }
+      ],
+      "journeyStages": [
+        {
+          "number": "01",
+          "title": {
+            "zh": "品牌认知",
+            "en": "Brand awareness"
+          },
+          "action": {
+            "zh": "全面重构",
+            "en": "Redesign"
+          },
+          "touchpoints": {
+            "zh": "图标、启动、活动、摄影、视觉语言",
+            "en": "Icon, launch, campaigns, photography, visual language"
+          },
+          "question": {
+            "zh": "用户第一次看到 Urbanic 时，会形成怎样的品牌认知？",
+            "en": "What brand impression does a customer form on first contact?"
+          }
+        },
+        {
+          "number": "02",
+          "title": {
+            "zh": "商品发现",
+            "en": "Discovery"
+          },
+          "action": {
+            "zh": "全面升级",
+            "en": "Redesign"
+          },
+          "touchpoints": {
+            "zh": "首页、导航、分类、内容、时尚发现",
+            "en": "Home, navigation, category, content, fashion discovery"
+          },
+          "question": {
+            "zh": "用户如何开始发现适合自己的商品和风格？",
+            "en": "How does a customer begin discovering products and styles?"
+          }
+        },
+        {
+          "number": "03",
+          "title": {
+            "zh": "浏览筛选",
+            "en": "Browsing"
+          },
+          "action": {
+            "zh": "重点优化",
+            "en": "Optimize"
+          },
+          "touchpoints": {
+            "zh": "商品列表、搜索、筛选、商品卡片",
+            "en": "PLP, search, filters, product cards"
+          },
+          "question": {
+            "zh": "如何帮助用户在大量商品中找到感兴趣的内容？",
+            "en": "How can customers find relevant items in a large catalog?"
+          }
+        },
+        {
+          "number": "04",
+          "title": {
+            "zh": "购买决策",
+            "en": "Decision"
+          },
+          "action": {
+            "zh": "重点重构",
+            "en": "Redesign"
+          },
+          "touchpoints": {
+            "zh": "商品详情、摄影、信息层级、规格与 CTA",
+            "en": "PDP, photography, information hierarchy, variants and CTA"
+          },
+          "question": {
+            "zh": "用户能否理解商品价值并形成购买判断？",
+            "en": "Can customers understand product value and decide to buy?"
+          }
+        },
+        {
+          "number": "05",
+          "title": {
+            "zh": "进入转化",
+            "en": "Conversion"
+          },
+          "action": {
+            "zh": "优化",
+            "en": "Optimize"
+          },
+          "touchpoints": {
+            "zh": "加入购物袋、促销信息表达",
+            "en": "Add to bag and promotional communication"
+          },
+          "question": {
+            "zh": "如何降低从购买意愿到进入交易的阻力？",
+            "en": "How can friction between intent and transaction be reduced?"
+          }
+        },
+        {
+          "number": "06",
+          "title": {
+            "zh": "完成交易",
+            "en": "Transaction"
+          },
+          "action": {
+            "zh": "保持稳定",
+            "en": "Preserve"
+          },
+          "touchpoints": {
+            "zh": "购物袋、结算、支付与订单",
+            "en": "Bag, checkout, payment and orders"
+          },
+          "question": {
+            "zh": "如何在保留成熟核心逻辑的同时更新视觉呈现？",
+            "en": "How can presentation be refreshed while proven core logic stays stable?"
+          }
+        }
+      ],
+      "decisionCases": [
+        {
+          "number": "01",
+          "title": {
+            "zh": "首页",
+            "en": "Home"
+          },
+          "before": {
+            "zh": "首页承担品牌、商品、活动、导航与营销入口，长期业务发展使内容不断累积。",
+            "en": "Home carried brand, products, campaigns, navigation and promotional entries, accumulating content as the business grew."
+          },
+          "problem": {
+            "zh": "大量促销信息占据主要视觉资源，与强调时尚、品质和品牌价值的新方向产生冲突。",
+            "en": "Promotions occupying prominent visual space conflicted with the desired emphasis on fashion, quality and brand value."
+          },
+          "decision": {
+            "zh": "降低部分营销工具的数量、视觉权重及曝光优先级，提升时尚影像、商品内容与品牌表达。",
+            "en": "Reduce selected promotional tools and their visual weight and priority; elevate fashion imagery, product content and brand expression."
+          },
+          "direction": {
+            "zh": "首页方向由促销优先转向品牌、时尚、商品与转化之间更平衡的组织。",
+            "en": "Move the home experience toward a balance of brand, fashion, products and conversion."
+          },
+          "comparison": {
+            "heading": {
+              "zh": "首页体验对比",
+              "en": "Home experience comparison"
+            },
+            "intro": {
+              "zh": "从促销信息的集中呈现，到以品牌影像与商品发现引导浏览，首页的视觉重心随品牌方向调整。",
+              "en": "As the brand direction evolved, the home page shifted its visual emphasis from concentrated promotions toward brand imagery and product discovery."
+            },
+            "note": {
+              "zh": "两张画面来自不同市场与设计阶段，展示界面表达的变化。",
+              "en": "These screens come from different markets and design stages and illustrate differences in interface expression."
+            },
+            "images": [
+              {
+                "label": {
+                  "zh": "改版前",
+                  "en": "Before"
+                },
+                "description": {
+                  "zh": "首页局部 · 葡语 / 巴西雷亚尔",
+                  "en": "Home excerpt · Portuguese / Brazilian real"
+                },
+                "alt": {
+                  "zh": "旧版 Urbanic 首页首屏及促销入口",
+                  "en": "Earlier Urbanic home screen and promotional entry points"
+                },
+                "url": "projects/urbanic-experience-transformation/comparison/home-before.webp?v=20261028",
+                "width": 720,
+                "height": 1555
+              },
+              {
+                "label": {
+                  "zh": "改版后",
+                  "en": "After"
+                },
+                "description": {
+                  "zh": "首页局部 · 英语 / 印度卢比",
+                  "en": "Home excerpt · English / Indian rupee"
+                },
+                "alt": {
+                  "zh": "新版 Urbanic 移动端首页品牌展示",
+                  "en": "Redesigned Urbanic mobile home with brand imagery"
+                },
+                "url": "projects/urbanic-experience-transformation/comparison/home-after.webp?v=20261028",
+                "width": 500,
+                "height": 1080
+              }
+            ]
+          }
+        },
+        {
+          "number": "02",
+          "title": {
+            "zh": "商品详情",
+            "en": "Product detail"
+          },
+          "before": {
+            "zh": "商品、营销与转化信息同时竞争用户注意力。",
+            "en": "Product, promotion and conversion information competed for attention."
+          },
+          "problem": {
+            "zh": "商品与摄影难以获得足够的视觉焦点，升级后的商品价值不易被充分理解。",
+            "en": "Products and photography lacked sufficient visual focus to communicate their value."
+          },
+          "decision": {
+            "zh": "重组摄影、商品信息、价格、规格、CTA 与促销之间的信息层级。",
+            "en": "Reorder photography, product information, price, variants, CTA and promotion."
+          },
+          "direction": {
+            "zh": "以商品价值为主要表达，营销信息作为购买决策与转化的辅助。",
+            "en": "Make product value the primary message, with promotion supporting decisions and conversion."
+          }
+        },
+        {
+          "number": "03",
+          "title": {
+            "zh": "营销工具",
+            "en": "Marketing tools"
+          },
+          "before": {
+            "zh": "成熟产品积累优惠券、促销入口、弹窗与折扣机制。",
+            "en": "The mature product had accumulated coupons, promotional entries, pop-ups and discount mechanisms."
+          },
+          "problem": {
+            "zh": "营销曝光过强增加页面复杂度，也会持续强化折扣导向的品牌心智。",
+            "en": "Heavy promotional exposure increased complexity and reinforced a discount-led brand perception."
+          },
+          "decision": {
+            "zh": "依据品牌匹配度与商业价值，删除部分工具，简化其他工具并降低视觉权重。",
+            "en": "Remove selected tools and simplify or reduce the prominence of others according to brand fit and business value."
+          },
+          "direction": {
+            "zh": "保留服务商业目标的营销能力，使其与品牌及商品表达保持平衡。",
+            "en": "Retain commercially useful marketing while balancing it with brand and product expression."
+          }
+        },
+        {
+          "number": "04",
+          "title": {
+            "zh": "交易链路",
+            "en": "Transaction"
+          },
+          "before": {
+            "zh": "购物袋、结算、支付与订单已经拥有成熟逻辑和用户习惯。",
+            "en": "Bag, checkout, payment and order flows already had established logic and user habits."
+          },
+          "problem": {
+            "zh": "没有明确用户价值的重构可能增加学习、转化和技术风险。",
+            "en": "Rebuilding without clear user value could add learning, conversion and technical risks."
+          },
+          "decision": {
+            "zh": "更新视觉呈现，保留核心交互、业务规则与异常处理；与产品、研发确认边界。",
+            "en": "Refresh presentation while preserving core interactions, business rules and exception handling; align boundaries with product and engineering."
+          },
+          "direction": {
+            "zh": "交易前的品牌与决策体验升级，进入交易后保持熟悉、稳定的核心逻辑。",
+            "en": "Upgrade brand and decision experiences before transaction, while keeping the core transaction logic familiar and stable."
+          }
+        }
+      ],
+      "interactionPriorities": [
+        {
+          "title": {
+            "zh": "全局导航",
+            "en": "Global navigation"
+          },
+          "text": {
+            "zh": "菜单开合、分类展开、返回、滚动与当前状态；对比移动端与 Web 的交互。",
+            "en": "Menu opening, category expansion, back, scrolling and active states; compare mobile and web."
+          }
+        },
+        {
+          "title": {
+            "zh": "商品详情",
+            "en": "Product detail"
+          },
+          "text": {
+            "zh": "图片查看、颜色与尺码状态、缺货反馈、加入购物袋、滚动中的操作入口和操作反馈。",
+            "en": "Image viewing, color and size states, availability, add-to-bag, persistent actions and feedback."
+          }
+        },
+        {
+          "title": {
+            "zh": "响应式首页",
+            "en": "Responsive home"
+          },
+          "text": {
+            "zh": "结合移动端内容顺序和桌面端横向布局，梳理信息优先级、品牌表达与核心交互。",
+            "en": "Document mobile content order and desktop layout while maintaining information priority, brand expression and key interactions."
+          }
+        }
+      ],
+      "decisionQuestions": {
+        "zh": [
+          {
+            "title": "用户价值",
+            "text": "是否真正改善用户理解、浏览或购买体验？"
+          },
+          {
+            "title": "品牌方向",
+            "text": "是否支持新的品牌定位与商品价值表达？"
+          },
+          {
+            "title": "商业目标",
+            "text": "是否符合项目和业务的实际目标？"
+          },
+          {
+            "title": "变化风险",
+            "text": "新增价值是否足以覆盖业务、技术、学习与交付成本？"
+          }
+        ],
+        "en": [
+          {
+            "title": "Customer value",
+            "text": "Does it improve understanding, browsing or purchase?"
+          },
+          {
+            "title": "Brand direction",
+            "text": "Does it support the new brand and product value?"
+          },
+          {
+            "title": "Business goals",
+            "text": "Does it support the project and business objectives?"
+          },
+          {
+            "title": "Risk of change",
+            "text": "Does the value justify business, technical, learning and delivery costs?"
+          }
+        ]
+      },
+      "ownershipMap": [
+        {
+          "title": {
+            "zh": "公司管理层",
+            "en": "Company leadership"
+          },
+          "text": {
+            "zh": "确定公司整体商业与品牌转型方向。",
+            "en": "Set the overall business and brand transformation direction."
+          }
+        },
+        {
+          "title": {
+            "zh": "国际品牌、商品与摄影团队",
+            "en": "Brand, fashion and photography teams"
+          },
+          "text": {
+            "zh": "分别提供品牌策略、商品升级、摄影与创意方向等专业输入。",
+            "en": "Contributed specialist inputs including brand strategy, fashion product upgrades, photography and creative direction."
+          }
+        },
+        {
+          "title": {
+            "zh": "我｜项目负责人",
+            "en": "Me | Project lead"
+          },
+          "text": {
+            "zh": "作为核心项目负责人，将战略与各方输入转化为体验方向、项目范围和核心方案；统筹团队、跨部门协作与交付，同时亲自输出关键 UI/UX 设计。",
+            "en": "As core project lead, translated strategy and inputs into experience direction, scope and core solutions; coordinated teams and delivery while personally producing key UI/UX design."
+          }
+        },
+        {
+          "title": {
+            "zh": "设计团队",
+            "en": "Design team"
+          },
+          "text": {
+            "zh": "依据整体方向承担不同模块、终端和视觉内容的设计，由我组织分工、评审与整合。",
+            "en": "Designed modules, platforms and visual content against the shared direction; I organized assignments, reviews and integration."
+          }
+        },
+        {
+          "title": {
+            "zh": "产品与研发",
+            "en": "Product and engineering"
+          },
+          "text": {
+            "zh": "产品团队协作确认业务规则、历史逻辑和需求；研发负责技术可行性、开发与实现。",
+            "en": "Product collaborated on business rules, existing logic and requirements; engineering owned technical feasibility, development and implementation."
+          }
+        },
+        {
+          "title": {
+            "zh": "上线体验验收",
+            "en": "Experience QA"
+          },
+          "text": {
+            "zh": "设计侧参与视觉、交互、响应式与品牌一致性检查，并与相关团队对齐问题。",
+            "en": "Design participated in visual, interaction, responsive and brand consistency checks, aligning issues with partner teams."
+          }
+        }
+      ],
+      "deliveryPhases": [
+        {
+          "title": {
+            "zh": "01｜战略与方向对齐",
+            "en": "01 | Strategic alignment"
+          },
+          "text": {
+            "zh": "管理层确定转型方向；品牌、商品和摄影等专业方向同步升级。",
+            "en": "Leadership set the transformation direction while brand, fashion and photography work advanced."
+          }
+        },
+        {
+          "title": {
+            "zh": "02｜体验定义与范围决策",
+            "en": "02 | Experience definition & scope"
+          },
+          "text": {
+            "zh": "我牵头将战略转化为体验原则、改造边界和关键产品判断。",
+            "en": "I led the translation into experience principles, scope and key product decisions."
+          }
+        },
+        {
+          "title": {
+            "zh": "03｜设计体系与工作拆解",
+            "en": "03 | System & work breakdown"
+          },
+          "text": {
+            "zh": "建立跨端规则与核心方向；拆解模块、安排团队分工并组织评审。",
+            "en": "Established cross-platform rules and core direction, broke down modules, assigned work and organized reviews."
+          }
+        },
+        {
+          "title": {
+            "zh": "04｜核心体验与多端延展",
+            "en": "04 | Core experience & platform rollout"
+          },
+          "text": {
+            "zh": "围绕首页、导航、商品发现、列表、详情及转化体验推进方案，并延展至 App、H5 和 Web。",
+            "en": "Developed home, navigation, discovery, listing, detail and conversion experiences, extending them across App, H5 and Web."
+          }
+        },
+        {
+          "title": {
+            "zh": "05｜协作实现与体验验收",
+            "en": "05 | Implementation & QA"
+          },
+          "text": {
+            "zh": "设计、产品和研发并行对齐规则与实现；设计侧持续参与界面、交互、响应式及内容检查。",
+            "en": "Design, product and engineering aligned rules and implementation in parallel; design continued to review interface, interaction, responsiveness and content."
+          }
+        },
+        {
+          "title": {
+            "zh": "06｜上线与复盘",
+            "en": "06 | Launch & reflection"
+          },
+          "text": {
+            "zh": "完成多端产品上线，并结合体验、业务和后续市场表现进行复盘。",
+            "en": "Completed the cross-platform release and reflected on experience, business and later market performance."
+          }
+        }
+      ],
+      "qualityChecks": [
+        {
+          "title": {
+            "zh": "视觉与品牌",
+            "en": "Visual & brand"
+          },
+          "text": {
+            "zh": "检查视觉呈现与新品牌表达是否一致。",
+            "en": "Review visual presentation against the new brand expression."
+          }
+        },
+        {
+          "title": {
+            "zh": "交互与响应式",
+            "en": "Interaction & responsive"
+          },
+          "text": {
+            "zh": "检查关键交互及多端布局是否符合设计方案。",
+            "en": "Review key interactions and layouts across devices against the design."
+          }
+        },
+        {
+          "title": {
+            "zh": "内容与转化",
+            "en": "Content & conversion"
+          },
+          "text": {
+            "zh": "关注摄影、商品与文字层级，以及核心转化能力是否受到意外影响。",
+            "en": "Review photography, product and text hierarchy, and whether core conversion capabilities were unexpectedly affected."
+          }
+        }
+      ],
+      "futureValidation": [
+        {
+          "title": {
+            "zh": "01｜先验证商业假设",
+            "en": "01 | Validate the business hypothesis"
+          },
+          "text": {
+            "zh": "全面投入前，小范围了解目标用户对价格、商品品质与品牌定位的接受度，再决定下一步投入。",
+            "en": "Before broad investment, assess target customers’ acceptance of price, product quality and brand positioning on a limited scale."
+          }
+        },
+        {
+          "title": {
+            "zh": "02｜分阶段、分市场推进",
+            "en": "02 | Roll out progressively"
+          },
+          "text": {
+            "zh": "可考虑先选择一至两个具有代表性的市场，结合反馈调整，再判断是否扩大覆盖。",
+            "en": "Consider starting with one or two representative markets, learning from feedback before expanding."
+          }
+        },
+        {
+          "title": {
+            "zh": "03｜同时观察品牌、体验与业务",
+            "en": "03 | Observe brand, experience and business"
+          },
+          "text": {
+            "zh": "品牌侧关注感知、品质认知和偏好；体验侧关注发现、详情参与、购买路径及留存；业务侧结合 GMV、毛利率、获客成本与复购。",
+            "en": "Consider brand perception, quality perception and preference; discovery, PDP engagement, purchase journey and retention; and GMV, gross margin, acquisition cost and repeat purchase."
+          }
+        },
+        {
+          "title": {
+            "zh": "04｜重新判断扩张时机",
+            "en": "04 | Reassess when to scale"
+          },
+          "text": {
+            "zh": "结合用户反馈、供应与服务能力、成本和周期，判断商业假设是否获得足够支持，再决定扩张节奏。",
+            "en": "Use customer feedback, supply and service readiness, cost and lead times to judge whether the hypothesis is supported enough to expand."
+          }
+        }
+      ],
+      "roleIdentity": [
+        {
+          "label": {
+            "zh": "项目角色",
+            "en": "Project role"
+          },
+          "value": {
+            "zh": "核心项目负责人｜品牌与产品体验",
+            "en": "Core Project Lead | Brand & Product Experience"
+          }
+        },
+        {
+          "label": {
+            "zh": "团队管理",
+            "en": "Team management"
+          },
+          "value": {
+            "zh": "体验设计团队管理",
+            "en": "Experience Design Team Management"
+          }
+        },
+        {
+          "label": {
+            "zh": "个人贡献",
+            "en": "Individual contribution"
+          },
+          "value": {
+            "zh": "核心 UI/UX 设计主要输出人",
+            "en": "Principal contributor | Core UI/UX Design"
+          }
+        }
+      ],
+      "handsOn": [
+        {
+          "title": {
+            "zh": "UX：定义核心体验",
+            "en": "UX: Defining the core experience"
+          },
+          "text": {
+            "zh": "亲自定义体验架构、用户路径、信息架构、页面结构、商品发现与决策路径、核心转化链路，以及 App、H5、Web 关键交互与体验规则。",
+            "en": "Personally defined experience architecture, journeys, information architecture, page structure, discovery and decision paths, conversion journeys, and key interactions across App, H5 and Web."
+          }
+        },
+        {
+          "title": {
+            "zh": "UI：输出关键页面",
+            "en": "UI: Delivering key screens"
+          },
+          "text": {
+            "zh": "亲自输出核心页面视觉方向及首页、导航、商品列表、商品详情、关键转化页面和响应式布局，将品牌语言转化为实际界面。",
+            "en": "Personally produced the visual direction and key solutions for home, navigation, product listing and detail, conversion screens and responsive layouts, translating brand language into interfaces."
+          }
+        },
+        {
+          "title": {
+            "zh": "System：建立多端规则",
+            "en": "System: Creating cross-platform rules"
+          },
+          "text": {
+            "zh": "牵头建立设计体系及栅格、字体、布局、响应式和跨平台规则，让核心方案能够被团队扩展并保持一致。",
+            "en": "Led the design system and grid, typography, layout, responsive and cross-platform rules so the team could extend core solutions consistently."
+          }
+        }
+      ],
+      "leadWorkflow": {
+        "zh": [
+          "定义方向",
+          "亲自设计关键体验",
+          "拆解体系",
+          "牵头设计团队",
+          "与产品和研发协作",
+          "评审与整合",
+          "交付最终体验"
+        ],
+        "en": [
+          "Define direction",
+          "Design critical experiences",
+          "Break down the system",
+          "Lead the design team",
+          "Collaborate with product & engineering",
+          "Review & integrate",
+          "Deliver the final experience"
+        ]
+      }
+    }
+  },
+  {
     "id": "disney-scan-ordering",
     "category": "project",
     "formats": [

@@ -101,3 +101,11 @@ main,header,footer{width:100%;max-width:none;margin-inline:0}header{padding-inli
 .projects.list-view .project[data-work="savana-digital-experience"] .project-art.savana-cover{aspect-ratio:2880/1800}
 @media(max-width:760px){.project[data-work="savana-digital-experience"] .project-art.savana-cover{aspect-ratio:2880/1800}.projects.list-view .project[data-work="savana-digital-experience"] .project-art.savana-cover{aspect-ratio:2880/1800}}
 @media(prefers-reduced-motion:reduce){.project-art.savana-cover>img{transition:none}}
+
+/* Urbanic editorial cover until project imagery is supplied. */
+.project-art.urbanic-cover{position:relative;display:flex;flex-direction:column;align-items:flex-start;justify-content:flex-start;aspect-ratio:16/10;height:auto;padding:7%;background:#1b1b1b;color:#f2f2f2;overflow:hidden}
+.urbanic-cover>span{font-size:clamp(28px,5.5cqi,70px);line-height:1.15;letter-spacing:.12em;font-weight:500}
+.urbanic-cover>p{font:clamp(9px,1.4cqi,14px)/1.5 ui-monospace,monospace;letter-spacing:.08em;margin:16px 0 24px;color:#bbb}
+.urbanic-cover>strong{font-size:clamp(32px,7cqi,92px);line-height:1.05;letter-spacing:-.04em;font-weight:400;margin:auto 0}
+.urbanic-cover>div{display:flex;justify-content:space-between;gap:12px;align-items:flex-end;width:100%;margin-top:24px;padding-top:18px;border-top:1px solid #666;font:clamp(9px,1.3cqi,13px)/1.5 ui-monospace,monospace;letter-spacing:.05em}
+@media(prefers-reduced-motion:no-preference){.project-art.urbanic-cover{transition:background .4s}.project:hover .urbanic-cover,.project:focus-visible .urbanic-cover{background:#303030}}
