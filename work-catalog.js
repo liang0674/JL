@@ -1,4 +1,1274 @@
 window.workCatalog=[
+{
+  "id": "urbanic-checkout",
+  "category": "project",
+  "formats": [
+    "project"
+  ],
+  "art": "checkout",
+  "homepagePriority": 4,
+  "title": {
+    "zh": "Urbanic｜收银台体验演进与跨端统一",
+    "en": "Urbanic | Checkout Experience Evolution"
+  },
+  "domain": {
+    "zh": "URBANIC / 电商支付体验",
+    "en": "URBANIC / E-commerce Payment Experience"
+  },
+  "summary": {
+    "zh": "我持续负责收银台 1.0、1.5 和 2.0 的体验设计。从减少支付跳转、在印度市场前置支付选择，到统一前置与后置收银体验，并与研发协作落地至 Web、H5 和 App。",
+    "en": "I designed three generations of Urbanic checkout, from reducing redirects and moving payment selection earlier in India to unifying both checkout flows across desktop web, mobile web and app with engineering."
+  },
+  "focus": {
+    "zh": "2022–2024 · 收银台体验设计负责人 · Web / H5 / App",
+    "en": "2022–2024 · Checkout Experience Design Lead · Desktop web / Mobile web / App"
+  },
+  "caseSections": [
+    "background",
+    "goals",
+    "payment",
+    "system",
+    "responsive",
+    "visual-language",
+    "role",
+    "uiux",
+    "outcome",
+    "reflection"
+  ],
+  "caseLabels": {
+    "background": {
+      "zh": "三个版本的演进",
+      "en": "Three Versions of Checkout"
+    },
+    "system": {
+      "zh": "组件化设计",
+      "en": "Component-based Design"
+    },
+    "uiux": {
+      "zh": "项目展示",
+      "en": "Project Presentation"
+    },
+    "outcome": {
+      "zh": "上线数据",
+      "en": "Launch Performance"
+    },
+    "role": {
+      "zh": "我的职责与设计交付",
+      "en": "My Role & Design Delivery"
+    },
+    "goals": {
+      "zh": "设计挑战与四项目标",
+      "en": "Design Challenges & Objectives"
+    },
+    "payment": {
+      "zh": "支付交互",
+      "en": "Payment Interaction"
+    },
+    "responsive": {
+      "zh": "响应式体验",
+      "en": "Responsive Experience"
+    },
+    "reflection": {
+      "zh": "项目复盘",
+      "en": "Reflection"
+    },
+    "visual-language": {
+      "zh": "视觉一致性",
+      "en": "Visual Consistency"
+    }
+  },
+  "cardSections": [
+    "role",
+    "uiux",
+    "outcome"
+  ],
+  "sections": {
+    "zh": [
+      [
+        "从单点支付优化，到跨场景与跨端体验统一",
+        "2022–2024 年间，Urbanic 收银台经历了三个阶段的持续迭代。从 1.0 减少第三方支付跳转，到 1.5 在印度市场前置支付选择，再到 2.0 整合前置与后置收银流程，项目逐步从单点支付体验优化发展为跨场景、跨终端的统一收银台设计。"
+      ],
+      [
+        "我的职责",
+        "我持续负责三个版本的体验设计，并在 2.0 阶段完整负责 Web、H5 和 App 的 UI、UX 设计及研发协作。各阶段的产品方向由产品团队确定，我负责将业务目标及支付规则转化为操作流程、组件结构与交互规则，并推动设计落地。"
+      ]
+    ],
+    "en": [
+      [
+        "From targeted improvements to a unified checkout experience",
+        "Between 2022 and 2024, Urbanic checkout evolved through three stages: fewer third-party redirects in 1.0, earlier payment selection in India in 1.5, and a shared checkout experience across entry points and devices in 2.0."
+      ],
+      [
+        "My role",
+        "I designed the experience for all three versions. In 2.0 I owned UI and UX across desktop web, mobile web and app and partnered with engineering. The product team set the direction, and I translated business goals and payment rules into flows, components and interaction rules."
+      ]
+    ]
+  },
+  "content": {
+    "background": {
+      "zh": [
+        {
+          "title": "1.0 · 减少支付中断",
+          "text": "2022 年，用户提交订单后进入收银台。设计重点是减少第三方支付跳转，让付款过程更连贯。支付方式和输入信息仍集中展示，信息层级有进一步优化空间。"
+        },
+        {
+          "title": "1.5 · 在印度市场前置支付选择",
+          "text": "2023 年，将部分支付选择移到提单页，让用户提交订单前就能看到可用方式。部分支付操作仍由后置收银台承接，因此需要明确两个入口分别展示什么、处理什么。"
+        },
+        {
+          "title": "2.0 · 统一两套收银体验",
+          "text": "2024 年，两套收银入口共用一套操作逻辑：选方式、填信息、核对金额、确认付款。字段、提示和布局仍随支付方式、入口和设备调整。"
+        }
+      ],
+      "en": [
+        {
+          "title": "1.0 · Reduce payment interruptions",
+          "text": "In 2022, shoppers entered checkout after submitting an order. The design reduced third-party redirects. Payment methods and fields were still presented together, leaving room for a clearer hierarchy."
+        },
+        {
+          "title": "1.5 · Bring payment selection forward in India",
+          "text": "In 2023, some payment choices moved to the order submission page in India. Shoppers saw available methods earlier, while some operations still relied on post-order checkout. This made the split of information and actions between the two entry points a design problem."
+        },
+        {
+          "title": "2.0 · Unify the two checkout flows",
+          "text": "In 2024, both entry points adopted a shared sequence: choose a method, enter details, review the total and confirm. Fields, guidance and layouts still adapt to the method, entry point and device."
+        }
+      ]
+    },
+    "system": {
+      "zh": [
+        {
+          "title": "从独立页面拆成可组合模块",
+          "text": "为支持前置、后置和多终端场景，将支付区域拆为支付方式选择、信用卡或借记卡表单、其他支付方式、使用条件与提示、账单信息、订单摘要和付款确认。"
+        },
+        {
+          "title": "定义复用与条件展示规则",
+          "text": "各模块按照统一的交互规则工作，根据当前支付方式和场景调整内容与状态。我与研发对齐模块的实现边界，以及何时复用、何时显示特定字段与提示。"
+        }
+      ],
+      "en": [
+        {
+          "title": "From separate pages to composable modules",
+          "text": "To support both checkout entry points and multiple devices, split the experience into method selection, card forms, alternative methods, conditions and notices, billing information, order summary and confirmation."
+        },
+        {
+          "title": "Define reuse and conditional display",
+          "text": "Modules share interaction rules and adapt their content and state to the selected method and scenario. I aligned the implementation boundaries and visibility rules with engineering."
+        }
+      ]
+    },
+    "outcome": {
+      "zh": [
+        {
+          "title": "团队上线跟踪",
+          "text": "2.0 版记录值较 1.0 版高 12.24 个百分点。资料未注明统计周期、样本范围、指标定义或各市场数据的可比性。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Team launch tracking",
+          "text": "The recorded value for v2.0 is 12.24 percentage points above v1.0. The materials do not specify the measurement period, sample, metric definition or comparability across markets."
+        }
+      ]
+    },
+    "role": {
+      "zh": [
+        {
+          "title": "流程定义",
+          "text": "持续负责三个版本的体验设计。梳理前置与后置场景，明确支付任务和信息展示顺序。"
+        },
+        {
+          "title": "交互与组件设计",
+          "text": "定义支付方式选择、输入字段、使用条件和反馈状态，将共用模块与各支付方式的差异整理成可复用的设计规则。"
+        },
+        {
+          "title": "跨端 UI、UX 与视觉规范",
+          "text": "完整负责 2.0 的 Web、H5 和 App，覆盖布局、信息层级、交互适配及与品牌升级方向一致的支付视觉语言。"
+        },
+        {
+          "title": "研发协作",
+          "text": "与研发对齐字段、状态、展示条件及跨端实现规则，推动设计交付。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Flow definition",
+          "text": "Own experience design across all three versions. Map both entry points and define payment tasks and information order."
+        },
+        {
+          "title": "Interaction and component design",
+          "text": "Define selection, fields, usage conditions and feedback. Turn shared modules and method-specific differences into reusable design rules."
+        },
+        {
+          "title": "Cross-platform UI, UX and visual design",
+          "text": "Own desktop web, mobile web and app for 2.0, including layout, hierarchy, responsive behavior and alignment with the brand refresh."
+        },
+        {
+          "title": "Engineering collaboration",
+          "text": "Align fields, states, display conditions and cross-platform implementation rules with engineering."
+        }
+      ]
+    },
+    "uiux": {
+      "zh": "从封面与历史版本开始，依次展示响应式布局、组件和移动端与桌面端支付。点击任意图片查看原图。",
+      "en": "The cover and earlier versions introduce the responsive layouts, components, and mobile and desktop payment flows. Select any board to view the full image."
+    },
+    "goals": {
+      "zh": [
+        {
+          "title": "统一品牌视觉",
+          "text": "收银台需要适配 Urbanic 的新品牌视觉方向，改善历史页面与整体品牌体验不一致的问题。"
+        },
+        {
+          "title": "整合前置与后置流程",
+          "text": "梳理两个收银入口的功能与信息，建立可复用的支付操作逻辑。"
+        },
+        {
+          "title": "建立模块化支付体验",
+          "text": "将不同支付方式及相关信息拆解为可复用模块，降低重复设计和多端维护成本。"
+        },
+        {
+          "title": "建立跨端响应式规则",
+          "text": "根据桌面与移动设备的使用条件调整布局，同时保持核心支付交互的一致性。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Brand alignment",
+          "text": "Align checkout with the updated Urbanic brand and resolve inconsistencies between older screens and the broader experience."
+        },
+        {
+          "title": "Flow integration",
+          "text": "Map the functions and information in both entry points and define a shared payment sequence."
+        },
+        {
+          "title": "Component-based design",
+          "text": "Break payment methods and related information into reusable modules to reduce repeated design work and simplify maintenance across platforms."
+        },
+        {
+          "title": "Responsive experience",
+          "text": "Adapt the layout to desktop and mobile while keeping core payment interactions consistent."
+        }
+      ]
+    },
+    "payment": {
+      "zh": [
+        {
+          "title": "共用交互结构",
+          "text": "统一支付方式的选择与切换、展开与收起、输入区域的呈现、规则与限制提示、支付前确认及状态反馈。"
+        },
+        {
+          "title": "保留支付方式的必要差异",
+          "text": "银行卡展示卡号、持卡人、有效期和 CVV，分期展示期数和相关选项，钱包或本地支付方式展示必要账号信息和特定操作。金额限制、使用要求和当地所需字段按适用场景呈现。"
+        },
+        {
+          "title": "从银行卡切换到分期",
+          "text": "选择状态和展开规则保持一致，输入区则从银行卡字段切换为分期期数与适用条件。订单摘要仍提供优惠、费用和应付总额，便于付款前核对。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Shared interaction structure",
+          "text": "Standardize selection, switching, expansion, input visibility, notices, confirmation and feedback."
+        },
+        {
+          "title": "Method-specific requirements",
+          "text": "Cards show the card number, cardholder, expiry and CVV. Installments show available terms. Wallets and local methods show the required account details and actions. Limits, conditions and local fields appear where applicable."
+        },
+        {
+          "title": "Switching from card to installments",
+          "text": "Selection and expansion behave consistently while the form changes from card fields to installment terms and conditions. Discounts, fees and the amount due remain available for review."
+        }
+      ]
+    },
+    "responsive": {
+      "zh": [
+        {
+          "title": "桌面端｜支付与订单摘要并排",
+          "text": "利用较宽的页面空间，用户可在填写支付信息时核对优惠、费用和应付金额。"
+        },
+        {
+          "title": "移动端｜按操作顺序排列",
+          "text": "窄屏采用单列布局，按支付选择、必要信息、金额核对和确认操作组织内容。"
+        },
+        {
+          "title": "共享规则｜调整布局，保持任务一致",
+          "text": "跨端复用支付方式、表单状态及提示反馈，区分可伸缩区域和相对固定区域，让结构随屏幕宽度变化，同时保持任务顺序清晰。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Desktop | Payment beside the order summary",
+          "text": "Use the wider screen to let shoppers review discounts, fees and the total while entering payment details."
+        },
+        {
+          "title": "Mobile | A single column in task order",
+          "text": "Arrange method selection, required details, amount review and confirmation in a single column."
+        },
+        {
+          "title": "Shared rules | Adapt the layout, preserve the task",
+          "text": "Reuse payment, form state and feedback rules. Define flexible and relatively fixed regions so the layout adapts while the task sequence remains clear."
+        }
+      ]
+    },
+    "visual-language": {
+      "zh": [
+        {
+          "title": "支付图标",
+          "text": "统一支付图标的尺寸、对齐和展示方式，同时遵循不同支付品牌的识别要求。"
+        },
+        {
+          "title": "字体与信息层级",
+          "text": "通过字号和字重区分支付方式、输入字段、必要说明和最终金额。"
+        },
+        {
+          "title": "色彩与反馈",
+          "text": "用统一的基础色与必要的强调色，区分普通信息、优惠和状态反馈。"
+        },
+        {
+          "title": "表单一致性",
+          "text": "统一输入框、选择状态、提示、分隔和按钮，让用户更容易识别不同支付模块中的同类操作。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Payment iconography",
+          "text": "Align icon sizing and placement while respecting each payment brand’s identity."
+        },
+        {
+          "title": "Typography and hierarchy",
+          "text": "Use type size and weight to distinguish methods, fields, guidance and the final amount."
+        },
+        {
+          "title": "Color and feedback",
+          "text": "Use consistent base and accent colors to distinguish ordinary content, discounts and feedback."
+        },
+        {
+          "title": "Form consistency",
+          "text": "Standardize fields, selection states, notices, dividers and buttons so common actions are recognizable across modules."
+        }
+      ]
+    },
+    "reflection": {
+      "zh": [
+        {
+          "title": "项目复盘",
+          "text": "1.0 让我关注支付是否被中断，1.5 让我关注用户何时需要作出支付选择，2.0 则要求我判断哪些规则可以共用、哪些差异必须保留。三个阶段积累的判断，最终落实为一套跨入口和设备的支付交互规则。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Reflection",
+          "text": "Version 1.0 focused on interruptions, 1.5 on when shoppers should choose a payment method, and 2.0 on which rules could be shared and which differences mattered. Those decisions became a shared set of payment interactions across entry points and devices."
+        }
+      ]
+    }
+  },
+  "resources": [
+    {
+      "type": "image",
+      "section": "uiux",
+      "title": {
+        "zh": "收银台体验演进｜项目封面",
+        "en": "Checkout Experience Evolution | Cover"
+      },
+      "url": "projects/urbanic-checkout/presentation/01.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "uiux",
+      "title": {
+        "zh": "历史版本",
+        "en": "Earlier versions"
+      },
+      "url": "projects/urbanic-checkout/presentation/03.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "uiux",
+      "title": {
+        "zh": "桌面端收银台",
+        "en": "Desktop checkout"
+      },
+      "url": "projects/urbanic-checkout/presentation/06.webp",
+      "width": 2880,
+      "height": 1800
+    },
+    {
+      "type": "image",
+      "section": "uiux",
+      "title": {
+        "zh": "响应式布局",
+        "en": "Responsive layout"
+      },
+      "url": "projects/urbanic-checkout/presentation/07.webp",
+      "width": 2880,
+      "height": 1799
+    },
+    {
+      "type": "image",
+      "section": "uiux",
+      "title": {
+        "zh": "图标与色彩",
+        "en": "Icons and colors"
+      },
+      "url": "projects/urbanic-checkout/presentation/08.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "uiux",
+      "title": {
+        "zh": "组件化设计",
+        "en": "Component design"
+      },
+      "url": "projects/urbanic-checkout/presentation/09.webp",
+      "width": 2880,
+      "height": 2412
+    },
+    {
+      "type": "image",
+      "section": "uiux",
+      "title": {
+        "zh": "移动端卡支付模块",
+        "en": "Mobile card payment module"
+      },
+      "url": "projects/urbanic-checkout/presentation/10.webp",
+      "width": 2880,
+      "height": 1799
+    },
+    {
+      "type": "image",
+      "section": "uiux",
+      "title": {
+        "zh": "移动端界面与状态",
+        "en": "Mobile screens and states"
+      },
+      "url": "projects/urbanic-checkout/presentation/11.webp",
+      "width": 2880,
+      "height": 2925
+    },
+    {
+      "type": "image",
+      "section": "uiux",
+      "title": {
+        "zh": "桌面端卡支付模块",
+        "en": "Desktop card payment module"
+      },
+      "url": "projects/urbanic-checkout/presentation/12.webp",
+      "width": 2880,
+      "height": 1812
+    },
+    {
+      "type": "image",
+      "section": "uiux",
+      "title": {
+        "zh": "桌面端界面与状态",
+        "en": "Desktop screens and states"
+      },
+      "url": "projects/urbanic-checkout/presentation/13.webp",
+      "width": 2880,
+      "height": 3381
+    },
+    {
+      "type": "document",
+      "section": "role",
+      "title": {
+        "zh": "职责与设计交付说明",
+        "en": "Role & Design Delivery Notes"
+      },
+      "url": "projects/urbanic-checkout/checkout-design-scope.md",
+      "documentText": {
+        "zh": "## 流程定义\n\n持续负责三个版本的体验设计。梳理前置与后置场景，明确支付任务和信息展示顺序。\n\n## 交互与组件设计\n\n定义支付方式选择、输入字段、使用条件和反馈状态，将共用模块与各支付方式的差异整理成可复用的设计规则。\n\n## 跨端 UI、UX 与视觉规范\n\n完整负责 2.0 的 Web、H5 和 App，覆盖布局、信息层级、交互适配及与品牌升级方向一致的支付视觉语言。\n\n## 研发协作\n\n与研发对齐字段、状态、展示条件及跨端实现规则，推动设计交付。",
+        "en": "## Flow definition\n\nOwn experience design across all three versions. Map both entry points and define payment tasks and information order.\n\n## Interaction and component design\n\nDefine selection, fields, usage conditions and feedback. Turn shared modules and method-specific differences into reusable design rules.\n\n## Cross-platform UI, UX and visual design\n\nOwn desktop web, mobile web and app for 2.0, including layout, hierarchy, responsive behavior and alignment with the brand refresh.\n\n## Engineering collaboration\n\nAlign fields, states, display conditions and cross-platform implementation rules with engineering."
+      }
+    },
+    {
+      "type": "document",
+      "section": "system",
+      "title": {
+        "zh": "支付体验设计说明",
+        "en": "Payment Experience Design Notes"
+      },
+      "url": "projects/urbanic-checkout/checkout-interaction.md",
+      "documentText": {
+        "zh": "## 共用交互结构\n\n统一支付方式的选择与切换、展开与收起、输入区域的呈现、规则与限制提示、支付前确认及状态反馈。\n\n## 保留支付方式的必要差异\n\n银行卡展示卡号、持卡人、有效期和 CVV，分期展示期数和相关选项，钱包或本地支付方式展示必要账号信息和特定操作。金额限制、使用要求和当地所需字段按适用场景呈现。\n\n## 从银行卡切换到分期\n\n选择状态和展开规则保持一致，输入区则从银行卡字段切换为分期期数与适用条件。订单摘要仍提供优惠、费用和应付总额，便于付款前核对。\n\n## 从独立页面拆成可组合模块\n\n为支持前置、后置和多终端场景，将支付区域拆为支付方式选择、信用卡或借记卡表单、其他支付方式、使用条件与提示、账单信息、订单摘要和付款确认。\n\n## 定义复用与条件展示规则\n\n各模块按照统一的交互规则工作，根据当前支付方式和场景调整内容与状态。我与研发对齐模块的实现边界，以及何时复用、何时显示特定字段与提示。\n\n## 桌面端｜支付与订单摘要并排\n\n利用较宽的页面空间，用户可在填写支付信息时核对优惠、费用和应付金额。\n\n## 移动端｜按操作顺序排列\n\n窄屏采用单列布局，按支付选择、必要信息、金额核对和确认操作组织内容。\n\n## 共享规则｜调整布局，保持任务一致\n\n跨端复用支付方式、表单状态及提示反馈，区分可伸缩区域和相对固定区域，让结构随屏幕宽度变化，同时保持任务顺序清晰。\n\n## 支付图标\n\n统一支付图标的尺寸、对齐和展示方式，同时遵循不同支付品牌的识别要求。\n\n## 字体与信息层级\n\n通过字号和字重区分支付方式、输入字段、必要说明和最终金额。\n\n## 色彩与反馈\n\n用统一的基础色与必要的强调色，区分普通信息、优惠和状态反馈。\n\n## 表单一致性\n\n统一输入框、选择状态、提示、分隔和按钮，让用户更容易识别不同支付模块中的同类操作。",
+        "en": "## Shared interaction structure\n\nStandardize selection, switching, expansion, input visibility, notices, confirmation and feedback.\n\n## Method-specific requirements\n\nCards show the card number, cardholder, expiry and CVV. Installments show available terms. Wallets and local methods show the required account details and actions. Limits, conditions and local fields appear where applicable.\n\n## Switching from card to installments\n\nSelection and expansion behave consistently while the form changes from card fields to installment terms and conditions. Discounts, fees and the amount due remain available for review.\n\n## From separate pages to composable modules\n\nTo support both checkout entry points and multiple devices, split the experience into method selection, card forms, alternative methods, conditions and notices, billing information, order summary and confirmation.\n\n## Define reuse and conditional display\n\nModules share interaction rules and adapt their content and state to the selected method and scenario. I aligned the implementation boundaries and visibility rules with engineering.\n\n## Desktop | Payment beside the order summary\n\nUse the wider screen to let shoppers review discounts, fees and the total while entering payment details.\n\n## Mobile | A single column in task order\n\nArrange method selection, required details, amount review and confirmation in a single column.\n\n## Shared rules | Adapt the layout, preserve the task\n\nReuse payment, form state and feedback rules. Define flexible and relatively fixed regions so the layout adapts while the task sequence remains clear.\n\n## Payment iconography\n\nAlign icon sizing and placement while respecting each payment brand’s identity.\n\n## Typography and hierarchy\n\nUse type size and weight to distinguish methods, fields, guidance and the final amount.\n\n## Color and feedback\n\nUse consistent base and accent colors to distinguish ordinary content, discounts and feedback.\n\n## Form consistency\n\nStandardize fields, selection states, notices, dividers and buttons so common actions are recognizable across modules."
+      }
+    }
+  ],
+  "checkoutMetrics": [
+    {
+      "version": "1.0",
+      "conversion": 82.99
+    },
+    {
+      "version": "1.5",
+      "conversion": 90.39
+    },
+    {
+      "version": "2.0",
+      "conversion": 95.23
+    }
+  ]
+},
+{
+  "id": "xingqi-character-ip",
+  "category": "visual",
+  "formats": [
+    "visual"
+  ],
+  "art": "xingqi",
+  "homepagePriority": 3,
+  "title": {
+    "zh": "星奇｜儿童学习 App 角色与 IP 设计",
+    "en": "XingQi | Character & IP Design for a Kids Learning App"
+  },
+  "domain": {
+    "zh": "XINGQI / 儿童学习品牌 IP",
+    "en": "XINGQI / Kids Learning Brand IP"
+  },
+  "summary": {
+    "zh": "为儿童学习类 App 打造具有识别度、情绪表达和延展能力的品牌 IP，以可爱、好奇与探索建立亲和力和品牌记忆。",
+    "en": "A recognizable, expressive and extensible brand character for a children’s learning app, built around warmth, curiosity and exploration."
+  },
+  "focus": {
+    "zh": "IP / Character Design Lead · 角色设计 · 视觉体系",
+    "en": "IP / Character Design Lead · Character Design · Visual System"
+  },
+  "caseSections": [
+    "background",
+    "role",
+    "goals",
+    "strategy",
+    "keywords",
+    "expressions",
+    "identities",
+    "identitylogic",
+    "system",
+    "extension",
+    "principles",
+    "reflection"
+  ],
+  "cardSections": [
+    "strategy",
+    "role",
+    "visuals",
+    "outcome"
+  ],
+  "sections": {
+    "zh": [
+      [
+        "设计命题",
+        "为儿童学习类 App 创造一位友好、有记忆点的学习伙伴，让抽象的品牌态度转化成儿童能够感知的角色。"
+      ],
+      [
+        "设计路径",
+        "从小熊猫和太空探索出发，建立角色人格与视觉 DNA，再延展到表情、七种身份、色彩规范和品牌应用。"
+      ]
+    ],
+    "en": [
+      [
+        "The brief",
+        "Create a friendly, memorable companion for a children’s learning app and translate an abstract brand attitude into a character children can recognize."
+      ],
+      [
+        "The approach",
+        "Combine a red panda with space exploration, then develop personality and visual DNA into expressions, seven identities, color guidance and brand applications."
+      ]
+    ]
+  },
+  "content": {
+    "background": {
+      "zh": [
+        {
+          "title": "学习产品需要一位伙伴",
+          "text": "学习内容常带有知识属性和任务感。星奇以友好、有趣和富有想象力的形象，帮助儿童更自然地接近学习场景。"
+        },
+        {
+          "title": "让品牌被记住",
+          "text": "角色需要在首次接触时建立亲切感，也要在不同表情、动作和品牌物料中保持稳定识别。"
+        }
+      ],
+      "en": [
+        {
+          "title": "A companion for learning",
+          "text": "Learning content often carries the feeling of a task. A friendly, playful and imaginative character gives children an approachable point of connection."
+        },
+        {
+          "title": "Make the brand memorable",
+          "text": "The character needs to feel welcoming at first sight and remain recognizable across expressions, actions and brand materials."
+        }
+      ]
+    },
+    "role": {
+      "zh": [
+        {
+          "title": "角色策略与核心形象",
+          "text": "负责 IP 角色定位、动物原型、角色人格、核心造型和视觉语言。"
+        },
+        {
+          "title": "角色系统与延展",
+          "text": "设计表情与动作、七种角色身份、色彩规范，并探索品牌物料与周边方向。"
+        },
+        {
+          "title": "职责边界",
+          "text": "本项目贡献集中在 Character & Brand Visual，不包含 App 内部 UX 或产品交互设计。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Character strategy & core design",
+          "text": "Led character positioning, animal inspiration, personality, core form and visual language."
+        },
+        {
+          "title": "System & extensions",
+          "text": "Developed expressions and actions, seven identities, color guidance and directions for brand materials and merchandise."
+        },
+        {
+          "title": "Scope",
+          "text": "The contribution focuses on character and brand visuals; it does not include the app’s UX or product interaction design."
+        }
+      ]
+    },
+    "goals": {
+      "zh": [
+        {
+          "title": "亲和与情绪",
+          "text": "以温暖、可爱的形象降低儿童对学习产品的距离感；用开心、思考、沮丧等表情，让角色能够参与不同内容场景。"
+        },
+        {
+          "title": "识别与记忆",
+          "text": "通过大头与圆润身体、大眼睛、橙色主体、太空头盔、天线和尾巴，建立即使动作或身份改变也容易辨认的角色特征。"
+        },
+        {
+          "title": "延展与应用",
+          "text": "将角色作为可持续使用的 IP 资产，延展表情、动作与身份，并应用于 App 界面、品牌物料、社交内容和周边。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Affinity & Expression",
+          "text": "Use a warm, approachable character to make learning feel inviting, with expressions for happiness, thought and frustration across different content."
+        },
+        {
+          "title": "Recognition & Recall",
+          "text": "A large head, rounded body, expressive eyes, orange coloring, helmet, antenna and tail make the character recognizable across actions and identities."
+        },
+        {
+          "title": "Scalability & Application",
+          "text": "Develop the character as a reusable IP asset, extending expressions, actions and identities across app interfaces, brand materials, social content and merchandise."
+        }
+      ]
+    },
+    "strategy": {
+      "zh": [
+        {
+          "title": "小熊猫 × 太空探索",
+          "text": "以小熊猫为动物原型，结合太空、探索、学习和好奇心，塑造一个喜欢发现未知与学习新事物的伙伴。"
+        },
+        {
+          "title": "活泼与可爱",
+          "text": "圆润比例、大眼睛和丰富动作建立亲和力；可爱但不过度低幼。"
+        },
+        {
+          "title": "情绪丰富与个性",
+          "text": "通过面部和肢体表达，让角色参与不同情绪与品牌内容。"
+        },
+        {
+          "title": "好奇与冒险",
+          "text": "以发现、尝试、探索和成长为线索，建立角色与儿童学习过程的联系。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Red panda × space exploration",
+          "text": "A red panda-inspired learning companion combines space, exploration and curiosity."
+        },
+        {
+          "title": "Lively & cute",
+          "text": "Rounded proportions, large eyes and movement create warmth without becoming overly infantile."
+        },
+        {
+          "title": "Expressive & distinctive",
+          "text": "Facial and body language carry emotion across brand content."
+        },
+        {
+          "title": "Curious & adventurous",
+          "text": "Discovery, experimentation and growth connect the character to learning."
+        }
+      ]
+    },
+    "keywords": {
+      "zh": [
+        {
+          "title": "比例与轮廓",
+          "text": "大头与圆润身体形成清晰轮廓，大眼睛承担主要情绪表达。"
+        },
+        {
+          "title": "色彩与符号",
+          "text": "橙色主体形成稳定识别，太空头盔和天线强化探索与未来感。"
+        },
+        {
+          "title": "动物特征",
+          "text": "保留小熊猫尾巴，让角色在服装和身份变化时仍可辨认。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Proportion & silhouette",
+          "text": "A large head, rounded body and expressive eyes define the character."
+        },
+        {
+          "title": "Color & symbols",
+          "text": "Orange, a space helmet and an antenna connect recognition with exploration."
+        },
+        {
+          "title": "Animal features",
+          "text": "A red panda tail retains recognizability as costumes and identities change."
+        }
+      ]
+    },
+    "expressions": {
+      "zh": [
+        {
+          "title": "情绪与动作",
+          "text": "开心、沮丧、晚安、生气、跳跃与胜利、放松、摸摸头、太空遨游、送苹果、学习以及基础打招呼。"
+        },
+        {
+          "title": "传播应用",
+          "text": "表情和动作可用于社交内容、表情包、运营素材与品牌传播。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Emotions & actions",
+          "text": "Happy, upset, good night, angry, jumping and victory, relaxed, a pat on the head, space travel, offering an apple, learning and greeting."
+        },
+        {
+          "title": "Communication",
+          "text": "The expressions support social content, stickers, campaigns and brand communication."
+        }
+      ]
+    },
+    "identities": {
+      "zh": [
+        {
+          "title": "小科学家｜Curiosity & Learning",
+          "text": "用实验、研究与发现延展角色的学习属性。"
+        },
+        {
+          "title": "小太空冒险家｜Exploration",
+          "text": "延续头盔与太空设定，将学习中的好奇心连接到未知世界。"
+        },
+        {
+          "title": "运动员｜Energy & Challenge",
+          "text": "通过运动与挑战表达活力和成长。"
+        },
+        {
+          "title": "探险家｜Adventure",
+          "text": "将角色带入不同自然环境，拓展探索的场景。"
+        },
+        {
+          "title": "超级英雄｜Courage",
+          "text": "以英雄身份表达勇气与积极行动。"
+        },
+        {
+          "title": "艺术家｜Creativity",
+          "text": "围绕创造力与想象力展开新的内容主题。"
+        },
+        {
+          "title": "虚拟玩家｜Digital Future",
+          "text": "将角色延展到数字世界和科技主题。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Scientist | Curiosity & Learning",
+          "text": "Experiments, research and discovery reinforce the learning theme."
+        },
+        {
+          "title": "Space adventurer | Exploration",
+          "text": "The helmet and space setting connect curiosity with the unknown."
+        },
+        {
+          "title": "Athlete | Energy & Challenge",
+          "text": "Sport and challenge express energy and growth."
+        },
+        {
+          "title": "Explorer | Adventure",
+          "text": "New natural settings expand the character’s world."
+        },
+        {
+          "title": "Superhero | Courage",
+          "text": "A heroic identity expresses courage and positive action."
+        },
+        {
+          "title": "Artist | Creativity",
+          "text": "Creative activities open up themes of imagination."
+        },
+        {
+          "title": "Virtual player | Digital Future",
+          "text": "A digital identity extends the character into technology-led themes."
+        }
+      ]
+    },
+    "identitylogic": {
+      "zh": [
+        {
+          "title": "EXPLORE",
+          "text": "科学家、探险家和太空冒险家：好奇与探索。"
+        },
+        {
+          "title": "CREATE",
+          "text": "艺术家：创造力与想象力。"
+        },
+        {
+          "title": "CHALLENGE",
+          "text": "运动员和超级英雄：活力与勇气。"
+        },
+        {
+          "title": "FUTURE",
+          "text": "虚拟玩家：科技与数字探索。"
+        }
+      ],
+      "en": [
+        {
+          "title": "EXPLORE",
+          "text": "Scientist, explorer and space adventurer: curiosity and exploration."
+        },
+        {
+          "title": "CREATE",
+          "text": "Artist: creativity and imagination."
+        },
+        {
+          "title": "CHALLENGE",
+          "text": "Athlete and superhero: energy and courage."
+        },
+        {
+          "title": "FUTURE",
+          "text": "Virtual player: technology and digital exploration."
+        }
+      ]
+    },
+    "system": {
+      "zh": [
+        {
+          "title": "主体色与层次",
+          "text": "以橙色建立角色的第一识别，辅以亮色、暗色和身体浅色，区分体积与层次。"
+        },
+        {
+          "title": "面部与辅助色",
+          "text": "眼睛深色和高光支撑情绪表达；蓝紫色与太空元素共同强化探索气质。"
+        },
+        {
+          "title": "跨媒介一致性",
+          "text": "将角色颜色用于形象绘制、品牌物料、传播和周边，形成可复用的视觉基础。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Character color & depth",
+          "text": "Orange anchors recognition, with highlights, shadows and lighter body colors describing form."
+        },
+        {
+          "title": "Face & supporting color",
+          "text": "Dark eyes and highlights carry emotion, while blue and purple support the space theme."
+        },
+        {
+          "title": "Consistency across media",
+          "text": "The palette provides a reusable foundation for character artwork, brand materials, communication and merchandise."
+        }
+      ]
+    },
+    "extension": {
+      "zh": [
+        {
+          "title": "品牌旗帜与户外展示",
+          "text": "将角色放大到旗帜和广告画面，观察轮廓、色彩和头盔符号在远距离场景中的识别。"
+        },
+        {
+          "title": "随身物料与服装",
+          "text": "将图形应用于购物袋与 T 恤，探索角色在日常品牌接触点中的呈现。"
+        },
+        {
+          "title": "从角色到品牌",
+          "text": "应用图展示了角色从独立插画延展到品牌视觉的方向；这些画面为设计展示，不代表实际投放或销售结果。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Flags & outdoor media",
+          "text": "Scale the character across flags and advertising to explore how silhouette, color and helmet symbols read at a distance."
+        },
+        {
+          "title": "Everyday objects & apparel",
+          "text": "Apply the character to shopping bags and T-shirts as everyday brand touchpoints."
+        },
+        {
+          "title": "From character to brand",
+          "text": "The mockups illustrate possible brand applications; they do not establish actual campaign deployment or sales."
+        }
+      ]
+    },
+    "principles": {
+      "zh": [
+        {
+          "title": "Cute, Not Childish",
+          "text": "可爱但不过度低幼，兼顾儿童吸引力和长期品牌使用。"
+        },
+        {
+          "title": "Expressive, Not Complicated",
+          "text": "支持丰富情绪，同时保持核心形象简洁稳定。"
+        },
+        {
+          "title": "Flexible, But Consistent",
+          "text": "身份、动作和服装可以改变，比例、脸部、眼睛、主体色与核心符号保持一致。"
+        },
+        {
+          "title": "Fun with Purpose",
+          "text": "趣味围绕好奇、学习、探索和成长展开。"
+        }
+      ],
+      "en": [
+        {
+          "title": "Cute, Not Childish",
+          "text": "Appeal to children while leaving room for a lasting brand."
+        },
+        {
+          "title": "Expressive, Not Complicated",
+          "text": "Support rich emotion while keeping the core design simple."
+        },
+        {
+          "title": "Flexible, But Consistent",
+          "text": "Change identities, actions and outfits while retaining proportions, face, eyes, colors and symbols."
+        },
+        {
+          "title": "Fun with Purpose",
+          "text": "Connect playfulness to curiosity, learning, exploration and growth."
+        }
+      ]
+    },
+    "reflection": {
+      "zh": [
+        {
+          "title": "从单张形象到角色系统",
+          "text": "项目从概念和人格出发，逐步形成视觉 DNA、表情、身份、色彩和应用方向。"
+        },
+        {
+          "title": "可延展，也可识别",
+          "text": "不同动作和服装为内容创造变化，稳定的轮廓、眼睛、主体色与头盔保持角色连续性。"
+        },
+        {
+          "title": "项目价值",
+          "text": "将抽象的品牌需求转化为可供后续内容和品牌应用使用的角色视觉资产。"
+        }
+      ],
+      "en": [
+        {
+          "title": "From a single image to a character system",
+          "text": "Concept and personality lead into visual DNA, expressions, identities, color and applications."
+        },
+        {
+          "title": "Flexible and recognizable",
+          "text": "Actions and outfits introduce variety while the silhouette, eyes, orange palette and helmet preserve continuity."
+        },
+        {
+          "title": "Project value",
+          "text": "The work translates an abstract brand need into character assets for future content and brand applications."
+        }
+      ]
+    }
+  },
+  "resources": [
+    {
+      "type": "image",
+      "section": "strategy",
+      "title": {
+        "zh": "星奇角色形象",
+        "en": "XingQi character"
+      },
+      "url": "projects/xingqi-character-ip/presentation/1.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "strategy",
+      "title": {
+        "zh": "角色人格",
+        "en": "Character personality"
+      },
+      "url": "projects/xingqi-character-ip/presentation/2.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "keywords",
+      "title": {
+        "zh": "角色形象与特征",
+        "en": "Character features"
+      },
+      "url": "projects/xingqi-character-ip/presentation/3.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "background",
+      "title": {
+        "zh": "应用场景展示",
+        "en": "Application scenario"
+      },
+      "url": "projects/xingqi-character-ip/presentation/4.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "expressions",
+      "title": {
+        "zh": "静态表情包",
+        "en": "Static expressions"
+      },
+      "url": "projects/xingqi-character-ip/presentation/6.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "expressions",
+      "title": {
+        "zh": "动态表情包",
+        "en": "Animated expressions"
+      },
+      "url": "projects/xingqi-character-ip/presentation/7.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "identities",
+      "title": {
+        "zh": "七种角色身份",
+        "en": "Seven character identities"
+      },
+      "url": "projects/xingqi-character-ip/presentation/8.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "identities",
+      "title": {
+        "zh": "身份形象总览",
+        "en": "Character identities overview"
+      },
+      "url": "projects/xingqi-character-ip/presentation/9.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "identities",
+      "title": {
+        "zh": "小科学家",
+        "en": "Scientist"
+      },
+      "url": "projects/xingqi-character-ip/presentation/10.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "identities",
+      "title": {
+        "zh": "小太空冒险家",
+        "en": "Space adventurer"
+      },
+      "url": "projects/xingqi-character-ip/presentation/11.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "identities",
+      "title": {
+        "zh": "运动员",
+        "en": "Athlete"
+      },
+      "url": "projects/xingqi-character-ip/presentation/12.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "identities",
+      "title": {
+        "zh": "探险家",
+        "en": "Explorer"
+      },
+      "url": "projects/xingqi-character-ip/presentation/13.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "identities",
+      "title": {
+        "zh": "超级英雄",
+        "en": "Superhero"
+      },
+      "url": "projects/xingqi-character-ip/presentation/14.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "identities",
+      "title": {
+        "zh": "艺术家",
+        "en": "Artist"
+      },
+      "url": "projects/xingqi-character-ip/presentation/15.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "identities",
+      "title": {
+        "zh": "虚拟玩家",
+        "en": "Virtual player"
+      },
+      "url": "projects/xingqi-character-ip/presentation/16.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "system",
+      "title": {
+        "zh": "色彩规范",
+        "en": "Color guidelines"
+      },
+      "url": "projects/xingqi-character-ip/presentation/17.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "extension",
+      "title": {
+        "zh": "品牌旗帜",
+        "en": "Brand flags"
+      },
+      "url": "projects/xingqi-character-ip/presentation/18.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "extension",
+      "title": {
+        "zh": "户外广告",
+        "en": "Outdoor advertising"
+      },
+      "url": "projects/xingqi-character-ip/presentation/19.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "extension",
+      "title": {
+        "zh": "购物袋",
+        "en": "Shopping bags"
+      },
+      "url": "projects/xingqi-character-ip/presentation/20.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "extension",
+      "title": {
+        "zh": "T 恤",
+        "en": "T-shirt"
+      },
+      "url": "projects/xingqi-character-ip/presentation/21.webp",
+      "width": 2880,
+      "height": 1620
+    },
+    {
+      "type": "image",
+      "section": "extension",
+      "title": {
+        "zh": "户外品牌展示",
+        "en": "Outdoor brand display"
+      },
+      "url": "projects/xingqi-character-ip/presentation/22.webp",
+      "width": 2880,
+      "height": 1921
+    }
+  ],
+  "caseLabels": {
+    "background": {
+      "zh": "项目背景",
+      "en": "Project Context"
+    },
+    "role": {
+      "zh": "我的角色",
+      "en": "My Role"
+    },
+    "goals": {
+      "zh": "设计目标",
+      "en": "Design Objectives"
+    },
+    "strategy": {
+      "zh": "角色概念与人格",
+      "en": "Character Concept & Personality"
+    },
+    "keywords": {
+      "zh": "角色视觉 DNA",
+      "en": "Character Visual DNA"
+    },
+    "expressions": {
+      "zh": "表情与动态",
+      "en": "Expressions & Motion"
+    },
+    "identities": {
+      "zh": "七种角色身份",
+      "en": "Seven Character Identities"
+    },
+    "identitylogic": {
+      "zh": "身份延展逻辑",
+      "en": "Identity Logic"
+    },
+    "system": {
+      "zh": "色彩与视觉规范",
+      "en": "Color & Visual System"
+    },
+    "extension": {
+      "zh": "品牌应用",
+      "en": "Brand Applications"
+    },
+    "principles": {
+      "zh": "设计原则",
+      "en": "Design Principles"
+    },
+    "reflection": {
+      "zh": "项目价值与复盘",
+      "en": "Project Value & Reflection"
+    }
+  }
+},
   {
     "id": "hilibox-daily-spin",
     "category": "project",
@@ -1202,7 +2472,7 @@ window.workCatalog=[
       "project"
     ],
     "art": "urbanic",
-    "homepagePriority": 2,
+    "homepagePriority": 1,
     "title": {
       "zh": "Urbanic｜全球时尚品牌与产品体验升级",
       "en": "Urbanic | Brand & Product Experience Transformation"
@@ -2343,9 +3613,9 @@ window.workCatalog=[
                   "zh": "新版 Urbanic 移动端首页品牌展示",
                   "en": "Redesigned Urbanic mobile home with brand imagery"
                 },
-                "url": "projects/urbanic-experience-transformation/comparison/home-after.webp?v=20261028",
-                "width": 500,
-                "height": 1080
+                "url": "projects/urbanic-experience-transformation/comparison/home-after.webp?v=20261105",
+                "width": 1128,
+                "height": 2439
               }
             ]
           }
@@ -4742,7 +6012,7 @@ window.workCatalog=[
       "packaging",
       "outcome"
     ],
-    "homepagePriority": 1
+    "homepagePriority": 2
   },
   {
     "id": "juyuanshu-milk-container",
